@@ -18,7 +18,8 @@
 */
 
 const { Ignitor } = require('@adonisjs/ignitor')
-
+io.listen(process.env.PORT || 3000);
+  
 new Ignitor(require('@adonisjs/fold'))
   .appRoot(__dirname).wsServer()
   .fireHttpServer()
