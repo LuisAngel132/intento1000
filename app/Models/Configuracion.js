@@ -2,7 +2,6 @@
 'use strict'
 
 const { incrementing } = require("@adonisjs/lucid/src/Lucid/Model")
-
 const autoIncrement = require('mongoose-auto-increment');
 const mongooseLeanGetters = require('mongoose-lean-getters');
 const mongoose = use('Mongoose')
