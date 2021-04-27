@@ -13,6 +13,6 @@
 |
 */
 
-const Ws = use('Ws')
+const ws = Ws('ws://localhost:3333') = use('Ws')
 
 Ws.channel('chat', 'ChatController')
