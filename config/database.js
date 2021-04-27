@@ -19,6 +19,7 @@ module.exports = {
   */
   connection: Env.get('DB_CONNECTION', 'sqlite'),
 
+  
   /*
   |--------------------------------------------------------------------------
   | Sqlite
