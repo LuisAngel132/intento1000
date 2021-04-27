@@ -29,12 +29,17 @@
     "adonis-4-mongoose": "^1.0.8",
     "adonis-validation-provider": "^3.0.5",
     "adonis-websocket": "^1.0.4",
+    "bufferutil": "^4.0.3",
+    "express": "^4.17.1",
     "mongoose": "^5.12.3",
     "mongoose-auto-increment": "^5.0.1",
     "mongoose-lean-getters": "^0.2.0",
     "mysql": "^2.18.1",
+    "socket.io": "^4.0.1",
     "url-parse": "^1.5.1",
-    "websocket": "^1.0.34"
+    "utf-8-validate": "^5.0.4",
+    "websocket": "^1.0.34",
+    "ws": "^7.4.5"
   },
   "devDependencies": {},
   "autoload": {
