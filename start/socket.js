@@ -13,6 +13,6 @@
 |
 */
 
-const ws = Ws('ws://localhost:3333') = use('Ws')
+const ws = Ws('https://invernaderointeligente2021.herokuapp.com') = use('Ws')
 
 Ws.channel('chat', 'ChatController')
