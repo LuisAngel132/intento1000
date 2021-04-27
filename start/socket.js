@@ -14,6 +14,6 @@
 */
 
 
-const Ws = use('Ws//https://invernaderoeq5.herokuapp.com//')
+const Ws = use('ws://invernaderoeq5.herokuapp.com//')
 
 Ws.channel('chat', 'ChatController')
