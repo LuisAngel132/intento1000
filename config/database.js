@@ -19,7 +19,7 @@ module.exports = {
   */
   connection: Env.get('DB_CONNECTION', 'sqlite'),
 
-  
+
   /*
   |--------------------------------------------------------------------------
   | Sqlite
@@ -54,7 +54,7 @@ module.exports = {
     client: 'mysql',
     connection: {
       host: Env.get('DB_HOST', 'PROD_MYSQL_DB.hostname'),
-      port: Env.get('DB_PORT', 'PROD_MYSQL_DB.port'),
+      port: Env.get('DB_PORT', ''),
       user: Env.get('DB_USER', ' PROD_MYSQL_DB.username'),
       password: Env.get('DB_PASSWORD', 'PROD_MYSQL_DB.password'),
       database: Env.get('DB_DATABASE', 'PROD_MYSQL_DB.pathname.substr(1)')
