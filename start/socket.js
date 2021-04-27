@@ -13,6 +13,8 @@
 |
 */
 
-const ws = Ws('https://invernaderointeligente2021.herokuapp.com') = use('Ws')
+const ws = new WebSocket('ws://https://invernaderoeq5.herokuapp.com//chat')
+
+const Ws = use('Ws')
 
 Ws.channel('chat', 'ChatController')
