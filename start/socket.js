@@ -12,8 +12,7 @@
 | For middleware, do check `wsKernel.js` file.
 |
 */
-var url = 'ws://invernaderoeq5.herokuapp.com'
 
-const Ws = use(url)
+const Ws = use('Ws')
 
 Ws.channel('chat', 'ChatController')
