@@ -14,6 +14,6 @@
 */
 var url = 'ws://invernaderoeq5.herokuapp.com'
 
-const Ws = use('Ws')
+const Ws = use(url)
 
 Ws.channel('chat', 'ChatController')
