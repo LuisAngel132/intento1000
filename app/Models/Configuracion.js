@@ -8,12 +8,10 @@ const mongoose = use('Mongoose')
 const ObjectId = mongoose.Schema.Types.ObjectId
 const Mixed = mongoose.Schema.Types.Mixed
 
-const usuario = "usuariodb"
-const password = "passdb"
-const dbName = "veterinaria"
-
+const usuario = "admin"
+const password = "admin"
+const dbName = "test"
 const uri = `mongodb+srv://${usuario}:${password}@cluster0.ncdk5.mongodb.net/${dbName}?retryWrites=true&w=majority`;
-
 mongoose.connect(uri, { useNewUrlParser: true, useUnifiedTopology: true })
 let Configuraciones = mongoose.Schema({
    User_id: { type: Number, default: '' },
