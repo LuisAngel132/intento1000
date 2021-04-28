@@ -35,12 +35,12 @@ async storeconfig({request,response}){
 
   async ver({response,request,params=id}){
     const id = params.id
-    const Configuraciones = await Configuracion.find({'User_id':id})
+    const Configuraciones = await Configuracion.find({'UserID':id})
 
     return response.json(
 
         Configuraciones
-     
+
     )
 
   }
