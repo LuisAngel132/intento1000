@@ -8,11 +8,18 @@ const mongoose = use('Mongoose')
 const ObjectId = mongoose.Schema.Types.ObjectId
 const Mixed = mongoose.Schema.Types.Mixed
 
-const usuario = "admin"
-const password = "admin"
-const dbName = "test"
-const uri = `mongodb+srv://${usuario}:${password}@cluster0.ncdk5.mongodb.net/${dbName}?retryWrites=true&w=majority`;
-mongoose.connect(uri, { useNewUrlParser: true, useUnifiedTopology: true })
+const MongoClient = require('mongodb').MongoClient;
+
+const uri = "mongodb+srv://admin:admin@cluster0.jaq7d.mongodb.net/test?retryWrites=true&w=majority";
+
+const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
+
+client.connect(err => {
+  const collection = client.db("test").collection("devices");
+  // perform actions on the collection object
+  client.close();
+});
+
 let Configuraciones = mongoose.Schema({
    User_id: { type: Number, default: '' },
    temperatura_ambiente: { type: Number, default: '' },
@@ -22,5 +29,5 @@ let Configuraciones = mongoose.Schema({
   timestamps: true
 })
 
-module.exports = mongoose.model('Configuraciones', Configuraciones)
+module.exports = mongoose.model('test', Configuraciones)
 
