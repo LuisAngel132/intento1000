@@ -24,21 +24,8 @@ async Miperfil({response,auth}){
 
 
 }
-async Foto({request,response,auth}){
-    const avatar = request.file('avatar', {
-      types: ['image'],
-      size: '10mb'
-    });
-var nombre ='assets/'
-    const nombreArchivo = auth.user.id + '.' + avatar.extname;
-    await avatar.move('../FRONT-END/src/assets', {
-      name: nombreArchivo,
-      overwrite: true
-    })
-      const directorio = await User.findOrFail(auth.user.id);
-      directorio.url_foto = nombre+nombreArchivo;
-      await directorio.save();
-
+async Foto({response}){
+  
       return response.status(200).send({
         res: true,
         message: "Foto registrada correctamente!"
