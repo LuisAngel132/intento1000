@@ -10,13 +10,13 @@ class AuthController {
         const token = await auth.attempt (email,password)
         return response.ok(token)
     }
+
     async logout ({response,auth})
     {
-
-       await auth.logout()
-        return response.json({
-          data: "eliminado"
-        })
+            await auth.logout()
+            return response.status(200).json({
+                data: "eliminado"
+            })
     }
 }
 

@@ -6,11 +6,13 @@
 const Route = use('Route')
 
 Route.post('/login','AuthController.login')
-Route.post('/users','UserController.store')
-Route.get('/perfil','UserController.Foto')
+Route.post('/register','UserController.store')
+
+Route.post('/recetas','RecetaController.mostrar')
+Route.get('/check','UserController.check')
+
+Route.get('/logout','AuthController.logout')
 
 Route.group(()=>{
-Route.get('/perfil','UserController.Miperfil')
-Route.delete('/perfil','UserController.Delete')
-Route.delete('/logout','AuthController.logout')
+Route.post('/update/user','UserController.actualizar')
 }).middleware('auth');
