@@ -15,7 +15,7 @@ const Factory = use('Factory')
 const Database = use('Database')
 
 class RecetaSeeder {
-  async run () {
+  static async run () {
     await Database.table('recetas').insert([
       {
         'nombre' : 'Abalon En Lecho De Lechuga',
@@ -102,7 +102,7 @@ class RecetaSeeder {
         'nombre' : 'Siew Yhok',
         'ingredientes1' : '1 kilo de lomo de cerdo 2 cucharadas de miel 4 cucharadas de salsa de soya 1 cucharada de vino blanco (puede ser jerez)',
         'ingredientes2' : '6 cucharadas de azúcar Sal Salsa Hoisin: 50 centímetros cúbicos de salsa de soya ½ cucharadita de maicena ½ cucharadita de miel 25 mililitros de vinagre blanco o de arroz ¼ cucharadita de ajo en polvo 25 centímetros cúbicos de aceite de sésamo (puede ser algún aceite vegetal) Una pizca de salsa picante (a gusto) 50 centímetros cúbicos de agua mineral. ',
-        'preparacion' : 'Lavamos bien la carne y la cortamos en 4 tiras a lo largo. Hacemos unos cortes, 4 más precisamente en diagonal, sin separar las tiras para que de esta forma el adobo humecte y penetre mucho más en la carne. Seguimos, y mezclamos todos los ingredientes menos la miel. Añadimos las tiras de la carne del cerdo y con el líquido las cubrimos muy bien mientras las pinchamos con la ayuda de un palillo o tenedor para que penetre mejor. Dejamos esta mezcla a una temperatura ambiente por un espacio de 4-5 horas y en tanto va pasando el tiempo las vanos dando vuelta cada 30 minutos. Una vez que pasaron las 5 horas, llevamos la preparación a un horno precalentado previamente y a una temperatura de 190º C. Cuando la carne ya está bien caliente, se escurren las tiras de cerdo y se deja a un lado el adobo. En tanto, en la parte inferior del mismo ponemos una rustidera con unos 2 cm de agua y dejamos en el horno cocinando o calentando por aproximadamente una media hora. Pasado este tiempo la carne ya estará bien tostada con un color algo marrón o rojizo. Se quita la rejilla del horno, y se pasa la carne por el adobo volviéndola a poner una vez más en el horno pero del otro lado. Horneamos otra media hora para que quede parejo de ambos lados. Una vez listas las tiras, las pasamos a otra rejilla pero fría. De inmediato las untamos. No olviden que la carne debe estar muy pero muy caliente y con miel por todos lados aun en el interior de los cortes. En una cacerola pequeña hacemos hervir a fuego mediano el líquido de la maceración que habíamos dejado reservado para así lograr obtener una rica salsa. Cuando ya está lista, se la coloca en una salsera caliente.  Por último, trinchamos la carne y las presentamos en forma de tiras cubiertas con la salsa. Además pueden adornar este maravilloso y asombroso plato con unas ricas verduras crudas. ',
+        'preparacion' : 'Lavamos bien la carne y la cortamos en 4 tiras a lo largo. Hacemos unos cortes, 4 más precisamente en diagonal, sin separar las tiras para que de esta forma el adobo humecte y penetre mucho más en la carne. Seguimos, y mezclamos todos los ingredientes menos la miel. Añadimos las tiras de la carne del cerdo y con el líquido las cubrimos muy bien mientras las pinchamos con la ayuda de un palillo o tenedor para que penetre mejor. Dejamos esta mezcla a una temperatura ambiente por un espacio de 4-5 horas y en tanto va pasando el tiempo las vanos dando vuelta cada 30 minutos. Una vez que pasaron las 5 horas, llevamos la preparacion a un horno precalentado previamente y a una temperatura de 190º C. Cuando la carne ya está bien caliente, se escurren las tiras de cerdo y se deja a un lado el adobo. En tanto, en la parte inferior del mismo ponemos una rustidera con unos 2 cm de agua y dejamos en el horno cocinando o calentando por aproximadamente una media hora. Pasado este tiempo la carne ya estará bien tostada con un color algo marrón o rojizo. Se quita la rejilla del horno, y se pasa la carne por el adobo volviéndola a poner una vez más en el horno pero del otro lado. Horneamos otra media hora para que quede parejo de ambos lados. Una vez listas las tiras, las pasamos a otra rejilla pero fría. De inmediato las untamos. No olviden que la carne debe estar muy pero muy caliente y con miel por todos lados aun en el interior de los cortes. En una cacerola pequeña hacemos hervir a fuego mediano el líquido de la maceración que habíamos dejado reservado para así lograr obtener una rica salsa. Cuando ya está lista, se la coloca en una salsera caliente.  Por último, trinchamos la carne y las presentamos en forma de tiras cubiertas con la salsa. Además pueden adornar este maravilloso y asombroso plato con unas ricas verduras crudas. ',
         'img' : '../../../../assets/imagenes/Comida-China/siew yhok.JPG',
         'pais' : 'chinas',
     
@@ -248,7 +248,7 @@ class RecetaSeeder {
         Cortar el cerdo (chancho) en trozos pequeños y lávalos, y  hacerles cocer por lo menos unas 2 horas con bastante agua y sal a gusto y agrégalo los condimentos que moliste en el batan y sal a gusto.
         Saca el cerdo y en un sartén con aceite, freír de ambos lados todos los pedazos .
         Mientra tanto en otra olla  con 3 cucharadas de aceite,  hacer cocer el ají colorado durante diez minutos removiendo constantemente para que no se pegue, en unos 10 minutos ya cocerá el ají y  hecha  un cucharón de caldo del chancho.
-        A esta preparación de la nueva olla añadir los trozos de cerdo y dejar cocer a fuego lento durante 30 minutos, para que el sabor del aji entre a la carne.
+        A esta preparacion de la nueva olla añadir los trozos de cerdo y dejar cocer a fuego lento durante 30 minutos, para que el sabor del aji entre a la carne.
         No dejes que se seque, sigue echando el caldo con los ingredientes.
         Servir en un plato el mote  y luego colocar pedazos de cerdo  y rociarlo con el ají colorado, acompañando con pataska o chuño  o al final o dos papas.
         ',
@@ -323,7 +323,7 @@ class RecetaSeeder {
         Si prefieres, puedes amasarla con las manos o guantes, con cuidado de no quemarte y teniendo en cuenta que es algo pegajosa.
         Una vez que hayas integrado bien los ingredientes del pan y haya bajado la temperatura, agrega los huevos. Vuelve a integrar.
         Por último, integra el queso rallado o cortado en cubos pequeños.
-        Arma los pancitos con ayuda de tus manos mojadas con aceite. Esto ayudará a que no se te pegue la preparación en las manos.
+        Arma los pancitos con ayuda de tus manos mojadas con aceite. Esto ayudará a que no se te pegue la preparacion en las manos.
         Dispón los pancitos de yuca en una asadera para horno con aceite en aerosol.
         Colócalos separados por unos 3 dedos entre sí para que al estirarse durante el horneado no se peguen y el calor se distribuya correctamente.
         Cocínalos en el horno fuerte (200 °C) por 15 minutos hasta que estén algo dorados.
@@ -423,7 +423,7 @@ class RecetaSeeder {
  */{
         'nombre' : ' Bacalao a la vizcaina',
         'ingredientes1' : '1 kg Bacalao 2 lt Agua tibia 1/2 Cebolla, finamente picada 6 Dientes de ajo, finamente picados 6 jitomates, sin semillas y en cubos chicos 2 tazas Puré de tomate 3/4 taza Aceite de Oliva 3 tazas Papas, en cubos y cocidas', 'ingredientes2' : ' 150 g Almendra, peladas y picadas 200 g Aceitunas verdes, sin hueso y picadas 1/2 taza Perejil picado 1 taza Chile güero en lata Sal y pimienta al gusto',
-        'preparacion' : 'Coloca el bacalao en un refractario y cubre con agua tibia. Deja reposar por 2 noches antes de la preparación. Cambia el agua cada 6 horas. Escurre y desmenuza, retira las espinas. Reserva.. Calienta el aceite y acitrona la cebolla y el ajo. Agrega el jitomate y mezcla. Cocina por 10 minutos o hasta que suelte sus jugos. Añade las papas y mezcla. Vierte el puré de tomate y mezcla. Cocina por 10 minutos. Agrega el bacalao, las aceitunas y las almendras. Tapa y cocina por 25 minutos. Mueve ocasionalmente. Agrega el perejil y mezcla. Sazona y mezcla. Cocina por 10 minutos más y sirve. Acompaña con los chiles güeros y pan.',
+        'preparacion' : 'Coloca el bacalao en un refractario y cubre con agua tibia. Deja reposar por 2 noches antes de la preparacion. Cambia el agua cada 6 horas. Escurre y desmenuza, retira las espinas. Reserva.. Calienta el aceite y acitrona la cebolla y el ajo. Agrega el jitomate y mezcla. Cocina por 10 minutos o hasta que suelte sus jugos. Añade las papas y mezcla. Vierte el puré de tomate y mezcla. Cocina por 10 minutos. Agrega el bacalao, las aceitunas y las almendras. Tapa y cocina por 25 minutos. Mueve ocasionalmente. Agrega el perejil y mezcla. Sazona y mezcla. Cocina por 10 minutos más y sirve. Acompaña con los chiles güeros y pan.',
         'img' : '../../../../assets/imagenes/Comida-Española/bacalao a la vizcaina.JPG',
         'pais' : 'españolas',
     
@@ -569,7 +569,7 @@ class RecetaSeeder {
         Lleva los pimientos al horno de microondas por 7 minutos. 
         Luego, mételos en una bolsa de plástico hasta que suden lo suficiente y de esta manera los puedas pelar más fácilmente. Corta la parte superior de cada pimiento.
         Aparte, en una sartén con aceite caliente sofríe los champiñones hasta que doren junto con el Líquido Sazonador MAGGI® . Retira del fuego y mezcla con el queso tipo manchego.
-        Rellena los pimientos con esta preparación. 
+        Rellena los pimientos con esta preparacion. 
         Acomódalos en un recipiente y lleva por 30 segundos al horno de microondas.
         ',
         'img' : '../../../../assets/imagenes/Comida-Española/pimientos rellenos.JPG',
@@ -670,7 +670,7 @@ class RecetaSeeder {
         'nombre' : 'Pollo teriyaki',
         'ingredientes1' : '4 pechugas de pollo enteras 1 cebolleta grande 200 ml. salsa de soja 100 ml. de Mirin 100 ml. de sake 100 g. de azúcar blanquilla',
         'ingredientes2' : '5 g. de piel de jengibre fresco 4 cucharadas de aceite de oliva suave Para acompañar: 250 g. de arroz basmati Sundari ',
-        'preparacion' : 'La salsa teriyaki se hace mezclando y calentando cuatro ingredientes: azúcar, takara mirin, salsa de soja y sake (esté último puede ser sustituido por otro tipo de alcohol) y yo además le añado la frescura del jengibre. Los ingredientes no tienen porqué estar en la misma proporción, sino que depende de la receta. Preparamos nuestra salsa echandoo la salsa de soja, el Mirin, el azúcar, el sake y la piel de jengibre a un cazo. Calentamos a fuego alto y removemos hasta que se disuelva el azúcar. Dejamos cocer durante 3 minutos removiendo de vez en cuando. Colamos la salsa y reservamos. En caso de que no queráis hacer la salsa en casa tenéis la opción de comprarla ya hecha, pero no queda igual de rico. Preparación del pollo teriyaki. Presentación final Limpiamos las pechugas de pollo de posibles restos de grasa y venitas que pueda tener. Las troceamos en dados no demasiado pequeños. Como acompañamiento al pollo lo más habitual es utilizar cebolla o cebolleta fresca que se cocina con la carne. Con cualquiera de las dos conseguiremos que al final quede caramelizada gracias al azúcar de la salsa teriyaki. En este caso hemos elegido una cebolleta grande, la cortamos en juliana en tiras gruesas. En una sartén amplia ponemos a calentar el aceite y añadimos los trozos de pollo y la cebolleta. Doramos durante unos 5 o 6 minutos. Añadimos la salsa teriyaki que tenemos preparada y dejamos cocer a fuego medio durante 15 minutos. Veremos que el pollo está brillante, como lacado con la salsa, y esta casi se ha consumido. Servimos el pollo con arroz blanco, si os atrevéis os dejo con esta receta de arroz basmati, ideal para este plato.',
+        'preparacion' : 'La salsa teriyaki se hace mezclando y calentando cuatro ingredientes: azúcar, takara mirin, salsa de soja y sake (esté último puede ser sustituido por otro tipo de alcohol) y yo además le añado la frescura del jengibre. Los ingredientes no tienen porqué estar en la misma proporción, sino que depende de la receta. Preparamos nuestra salsa echandoo la salsa de soja, el Mirin, el azúcar, el sake y la piel de jengibre a un cazo. Calentamos a fuego alto y removemos hasta que se disuelva el azúcar. Dejamos cocer durante 3 minutos removiendo de vez en cuando. Colamos la salsa y reservamos. En caso de que no queráis hacer la salsa en casa tenéis la opción de comprarla ya hecha, pero no queda igual de rico. preparacion del pollo teriyaki. Presentación final Limpiamos las pechugas de pollo de posibles restos de grasa y venitas que pueda tener. Las troceamos en dados no demasiado pequeños. Como acompañamiento al pollo lo más habitual es utilizar cebolla o cebolleta fresca que se cocina con la carne. Con cualquiera de las dos conseguiremos que al final quede caramelizada gracias al azúcar de la salsa teriyaki. En este caso hemos elegido una cebolleta grande, la cortamos en juliana en tiras gruesas. En una sartén amplia ponemos a calentar el aceite y añadimos los trozos de pollo y la cebolleta. Doramos durante unos 5 o 6 minutos. Añadimos la salsa teriyaki que tenemos preparada y dejamos cocer a fuego medio durante 15 minutos. Veremos que el pollo está brillante, como lacado con la salsa, y esta casi se ha consumido. Servimos el pollo con arroz blanco, si os atrevéis os dejo con esta receta de arroz basmati, ideal para este plato.',
         'img' : '../../../../assets/imagenes/Comida-Japonesa/pollo teriyaki.JPG',
         'pais' : 'japonesa',
     
@@ -865,7 +865,7 @@ class RecetaSeeder {
 {
   'nombre' : 'Carpaccio',
   'ingredientes1' : 'Solomillo de ternera Sal Pimienta Aceite de oliva virgen extra Alcaparras Queso Parmesano Mostaza en grano',
-  'preparación' :'Cogemos el solomillo y lo metemos durante 1 hora y pico en la nevera, que notemos que se empieza a congelar pero no llega a solidificarse del todo. Una vez pasado ese tiempo cortamos con un cuchillo afilado lonchas muy finas, lo más finas que podamos. Ponemos un chorrito de aceite de oliva en un plato y ponemos sal y pimienta. Cubrimos bien con las lonchas de carpaccio, aderezamos con sal, pimienta, unas alcaparras, la mostaza en grano y el queso Parmesano. Todo al gusto y en la cantidad que queramos. Servimos frío.',
+  'preparacion' :'Cogemos el solomillo y lo metemos durante 1 hora y pico en la nevera, que notemos que se empieza a congelar pero no llega a solidificarse del todo. Una vez pasado ese tiempo cortamos con un cuchillo afilado lonchas muy finas, lo más finas que podamos. Ponemos un chorrito de aceite de oliva en un plato y ponemos sal y pimienta. Cubrimos bien con las lonchas de carpaccio, aderezamos con sal, pimienta, unas alcaparras, la mostaza en grano y el queso Parmesano. Todo al gusto y en la cantidad que queramos. Servimos frío.',
   'img' : '../../../../assets/imagenes/Comida-italiana/sopa de misu.JPG',
   'pais' : 'italiana',
 
@@ -873,7 +873,7 @@ class RecetaSeeder {
 {
   'nombre' : 'Polenta',
   'ingredientes1' : '4 tazas de agua Sal, al gusto 1 taza de harina de maíz o polenta instantánea 1 cucharada de aceite de oliva o mantequilla (opcional) Queso parmesano rallado (opcional).',
-  'preparación' :'En una olla grande, lleve el agua y sal a hervir. Gradualmente añada la harina, removiendo constantemente. Baje la temperatura a baja y continúe removiendo por alrededor de 30 minutos para harina de maíz o 15 minutos para polenta instantánea. Para una polenta firme, vierta un poco en una bandeja para hornear y déjela enfriar, luego mantenga en el refrigerador antes de rebanar. Si usted sirve polenta suave, mezcle el aceite de oliva o mantequilla y parmesano, si lo usa y sirva dentro de 20 minutos.',
+  'preparacion' :'En una olla grande, lleve el agua y sal a hervir. Gradualmente añada la harina, removiendo constantemente. Baje la temperatura a baja y continúe removiendo por alrededor de 30 minutos para harina de maíz o 15 minutos para polenta instantánea. Para una polenta firme, vierta un poco en una bandeja para hornear y déjela enfriar, luego mantenga en el refrigerador antes de rebanar. Si usted sirve polenta suave, mezcle el aceite de oliva o mantequilla y parmesano, si lo usa y sirva dentro de 20 minutos.',
   'img' : '../../../../assets/imagenes/Comida-italiana/sopa de misu.JPG',
   'pais' : 'italiana',
 
@@ -881,7 +881,7 @@ class RecetaSeeder {
 {
   'nombre' : 'Pasta',
   'ingredientes1' : '350 gr Tallarines 3 jitomates 1 diente Ajo 2 1/4 Cebollas 3 cdas Aceite de Oliva',
-  'preparación' :'Cuece las pasta en agua con sal hasta que quede al dente. Escurre y reserva. Licúa los jitomates, el ajo y 1/4 de cebolla para hacer la salsa. Reserva. Parte las cebollas restantes por la mitad y córtalas en tiras. Calienta en un sartén el aceite, fríe el tocino y añade la cebolla y el ajo; sofríe todo hasta que se dore. Incorpora la salsa y deja cocer a fuego lento por 10 minutos. Agrega los tallarines. Mezcla todo y sirve espolvoreando parmesano y pimienta.',
+  'preparacion' :'Cuece las pasta en agua con sal hasta que quede al dente. Escurre y reserva. Licúa los jitomates, el ajo y 1/4 de cebolla para hacer la salsa. Reserva. Parte las cebollas restantes por la mitad y córtalas en tiras. Calienta en un sartén el aceite, fríe el tocino y añade la cebolla y el ajo; sofríe todo hasta que se dore. Incorpora la salsa y deja cocer a fuego lento por 10 minutos. Agrega los tallarines. Mezcla todo y sirve espolvoreando parmesano y pimienta.',
   'img' : '../../../../assets/imagenes/Comida-italiana/sopa de misu.JPG',
   'pais' : 'italiana',
 
@@ -889,7 +889,7 @@ class RecetaSeeder {
 {
   'nombre' : 'Pizza',
   'ingredientes1' : 'Para la masa de cuatro pizzas individuales Harina 00, 500 g (*) Levadura fresca prensada de panadería, 2 g Agua a temperatura ambiente, 350 ml Aceite de oliva virgen extra, 20 g Miel, una cucharadita',
-  'preparación' :'En un bol, ponemos la mitad de agua y disolvemos la levadura prensada de panadería. En el bol de una amasadora tipo Kitchen Aid, ponemos la harina, la miel y el agua con la levadura que hemos disuelto. Ponemos a funcionar la máquina a velocidad media y, sin dejar de amasar, vamos añadiendo el resto del agua y la sal. Finalmente, añadimos el aceite poco a poco, dejándolo caer en forma de hilo mientras la máquina sigue amasando. Enharinamos ligeramente la mesa de trabajo, volcamos la masa, la tapamos y la dejamos reposar media hora. Pasado ese tiempo trabajamos la masa con las manos, plegándola una y otra vez sobre sí misma hasta formar una bola de masa lisa. Ponemos nuestra bola de masa en un bol limpio ligeramente engrasado y enharinado, lo tapamos con papel film y dejamos reposar durante unas ocho horas.',
+  'preparacion' :'En un bol, ponemos la mitad de agua y disolvemos la levadura prensada de panadería. En el bol de una amasadora tipo Kitchen Aid, ponemos la harina, la miel y el agua con la levadura que hemos disuelto. Ponemos a funcionar la máquina a velocidad media y, sin dejar de amasar, vamos añadiendo el resto del agua y la sal. Finalmente, añadimos el aceite poco a poco, dejándolo caer en forma de hilo mientras la máquina sigue amasando. Enharinamos ligeramente la mesa de trabajo, volcamos la masa, la tapamos y la dejamos reposar media hora. Pasado ese tiempo trabajamos la masa con las manos, plegándola una y otra vez sobre sí misma hasta formar una bola de masa lisa. Ponemos nuestra bola de masa en un bol limpio ligeramente engrasado y enharinado, lo tapamos con papel film y dejamos reposar durante unas ocho horas.',
   'img' : '../../../../assets/imagenes/Comida-italiana/sopa de misu.JPG',
   'pais' : 'italiana',
 
@@ -903,17 +903,17 @@ class RecetaSeeder {
 
 },
  {
-  'nombre' : '',
+  'nombre' : 'Spagetti',
   'ingredientes1' : '1 paquete de espagueti 1/4 de crema agria 1 taza de puré de jitomate 1/4 de mantequilla',
-  'preparación' :'Hierve 2 litros de agua y, cuando esté en su punto, agrega 2 cucharadas de sal. Posteriormente, cuece la pasta hasta que esté blanda. Retira del fuego, cuela la pasta y desecha el agua. Hierve el puré de jitomate a fuego lento y añade la crema, la mantequilla y el cubo sazonador. Vierte el espagueti en la salsa y mezcla. Sirve. Espolvorea con el queso parmesano al gusto.',
+  'preparacion' :'Hierve 2 litros de agua y, cuando esté en su punto, agrega 2 cucharadas de sal. Posteriormente, cuece la pasta hasta que esté blanda. Retira del fuego, cuela la pasta y desecha el agua. Hierve el puré de jitomate a fuego lento y añade la crema, la mantequilla y el cubo sazonador. Vierte el espagueti en la salsa y mezcla. Sirve. Espolvorea con el queso parmesano al gusto.',
   'img' : '../../../../assets/imagenes/Comida-italiana/sopa de misu.JPG',
   'pais' : 'italiana',
 
 },
 {
-  'nombre' : '',
-  'ingredientes1' : '',
-  'preparación' :'',
+  'nombre' : 'Mascarpone',
+  'ingredientes1' : '5 yemas de huevo 1/2 tazas de azúcar glass, para las yemas 2 cucharadas de vino, dulce 1 ralladura de naranja 2 paquetes de queso mascarpone, (226 g c/u) batido previamente un poco, para que esté suave',
+  'preparacion' :'Para la crema: bate las yemas con el azúcar, 2 cucharadas de vino dulce y la ralladura de naranja por 5 minutos, debes obtener una consistencia esponjosa y tersa. Luego mezcla de manera envolvente con el queso mascarpone y reserva. Aparte, bate las claras con la pizca de sal por 5 minutos, hasta que doblen su volumen (punto de turrón) y añádelas de forma envolvente a la mezcla de queso mascarpone. Reserva. Mezcla el café con el vino y reserva. Remoja las soletas en el café y acomódalas en un molde formando una base, para después cubrirla con la crema de mascarpone. Repite el proceso hasta llenar el molde, cubre por completo con crema y refrigera.',
   'img' : '../../../../assets/imagenes/Comida-italiana/sopa de misu.JPG',
   'pais' : 'italiana',
 

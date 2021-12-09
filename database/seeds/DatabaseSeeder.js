@@ -14,10 +14,11 @@ const Receta = require('../../app/Models/Receta')
 
 /** @type {import('@adonisjs/lucid/src/Factory')} */
 const Factory = use('Factory')
-const RecetaSeeder = use('RecetaSeeder')
+const RecetaSeeder = use('./RecetaSeeder')
+
 class DatabaseSeeder {
   async run () {
-    await Receta.run()
+    await RecetaSeeder.run();
   }
 }
 

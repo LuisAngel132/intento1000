@@ -7,8 +7,12 @@ class AuthController {
     {
         const {email,password} = request.only(['email','password'])
         const token = await auth.attempt(email,password)
+        const user = await User.query().where('email',email).first()
 
-        return response.status(200).send(token);
+        return response.status(200).json({
+            user:user,
+            token
+        });
     }
 
     async logout ({response,auth})
