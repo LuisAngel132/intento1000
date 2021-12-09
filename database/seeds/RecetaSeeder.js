@@ -17,7 +17,7 @@ const Database = use('Database')
 class RecetaSeeder {
   static async run () {
     await Database.table('recetas').insert([
-      {
+      /* {
         'nombre' : 'Abalon En Lecho De Lechuga',
         'ingredientes1' : '1 lata de abalones 50 gr. de champiñones, 1 cogollo de lechuga, 2 cucharadas de aceite vegetales, 6 cebolletas pequeñas, 6 discos finos de jengibre',
         'ingredientes2' : 'Para la salsa: 6 cucharadas de caldo de pescado 1 cucharada de salsa de ostras 1 cucharada de salsa de soya 1 cucharadita de maicena 1 cucharita de azúcar 1 cucharadita de aceite de sésamo',
@@ -26,7 +26,7 @@ class RecetaSeeder {
         'pais' : 'chinas',
     
 },
-/* {
+{
         'nombre' : 'Arroz Congee',
         'ingredientes1' : '180 g arroz basmati 2.25 l caldo de verduras Salsa de soja Aceite de sésamo',
         'ingredientes2' : '',
@@ -52,7 +52,7 @@ class RecetaSeeder {
         'img' : '../../../../assets/imagenes/Comida-China/dim  sum.JPG',
         'pais' : 'chinas',
     
-}, */
+}, 
 {
         'nombre' : 'Ma Po Tofu',
         'ingredientes1' : '250 g de carne mixta picada 2 dientes de ajo 3 cucharaditas de fécula de patata 1 cucharada de salsa de ostras 1 cucharadita de aceite de sésamo 1 cucharada de salsa de soja Aceite de oliva 3 cucharaditas de pasta de guindilla picante',
@@ -124,7 +124,7 @@ class RecetaSeeder {
         'img' : '../../../../assets/imagenes/Comida-colombiana/Ajiaco.JPG',
         'pais' : 'colombianas',
     
-},/* 
+},
 {
         'nombre' : 'Wonton',
         'ingredientes1' : '
@@ -172,7 +172,7 @@ class RecetaSeeder {
         'img' : '../../../../assets/imagenes/Comida-China/zongzi.JPG',
         'pais' : 'chinas',
     
-}, */
+},
 {
         'nombre' : 'Arepas',
         'ingredientes1' : '175 gr de harina de maíz precocida blanca (marca PAN) 270 ml de agua 1/2 cucharada sopera de sal',
@@ -227,7 +227,6 @@ class RecetaSeeder {
         'pais' : 'colombianas',
     
 },
-/* 
 {
         'nombre' : 'Fritanga',
         'ingredientes1' : '
@@ -420,7 +419,7 @@ class RecetaSeeder {
         'pais' : 'colombinas',
     
 },
- */{
+ {
         'nombre' : ' Bacalao a la vizcaina',
         'ingredientes1' : '1 kg Bacalao 2 lt Agua tibia 1/2 Cebolla, finamente picada 6 Dientes de ajo, finamente picados 6 jitomates, sin semillas y en cubos chicos 2 tazas Puré de tomate 3/4 taza Aceite de Oliva 3 tazas Papas, en cubos y cocidas', 'ingredientes2' : ' 150 g Almendra, peladas y picadas 200 g Aceitunas verdes, sin hueso y picadas 1/2 taza Perejil picado 1 taza Chile güero en lata Sal y pimienta al gusto',
         'preparacion' : 'Coloca el bacalao en un refractario y cubre con agua tibia. Deja reposar por 2 noches antes de la preparacion. Cambia el agua cada 6 horas. Escurre y desmenuza, retira las espinas. Reserva.. Calienta el aceite y acitrona la cebolla y el ajo. Agrega el jitomate y mezcla. Cocina por 10 minutos o hasta que suelte sus jugos. Añade las papas y mezcla. Vierte el puré de tomate y mezcla. Cocina por 10 minutos. Agrega el bacalao, las aceitunas y las almendras. Tapa y cocina por 25 minutos. Mueve ocasionalmente. Agrega el perejil y mezcla. Sazona y mezcla. Cocina por 10 minutos más y sirve. Acompaña con los chiles güeros y pan.',
@@ -482,7 +481,7 @@ class RecetaSeeder {
         'pais' : 'españolas',
     
 },
-/* {
+{
         'nombre' : 'fideua ',
         'ingredientes1' : '
         500 gramos de fideos
@@ -648,7 +647,7 @@ class RecetaSeeder {
         'pais' : 'españolas',
     
 },
- */{
+{
         'nombre' : 'Omuraisu ',
         'ingredientes1' : '3 huevos 30 gr de pollo Media cebolla pequeña Un puñado de champiñones 60 gr de arroz cocido japonés 1 cucharada de vino blanco',
         'ingredientes2' : 'Ketchup Sal y pimienta Aceite para freír.',
@@ -711,7 +710,7 @@ class RecetaSeeder {
         'pais' : 'japonesa',
     
 },
-/* {
+{
         'nombre' : 'Rollos de Sushi empanizado',
         'ingredientes1' : '
         1 1/2 tazas de arroz de sushi
@@ -857,11 +856,7 @@ class RecetaSeeder {
         'img' : '../../../../assets/imagenes/Comida-Japonesa/gyosa.JPG',
         'pais' : 'japonesa',
     
-}
-
-
-
- */
+},
 {
   'nombre' : 'Carpaccio',
   'ingredientes1' : 'Solomillo de ternera Sal Pimienta Aceite de oliva virgen extra Alcaparras Queso Parmesano Mostaza en grano',
@@ -918,6 +913,7 @@ class RecetaSeeder {
   'pais' : 'italiana',
 
 },
+*/
 
 //BIEN
 {'nombre' : 'AGNOLOTTI','ingredientes1' : '500 gr de harina<br>3 huevos<br>Sal<br>Ingredientes para el relleno:<br>150 gr de carne de ternera picada<br>50 gr de carne de cerdo picada<br>100 gr de mantequilla<br>½ cebolla troceada<br>1 huevo<br>Queso parmesano rallado','ingredientes2' : '1 diente de ajo<br>½ cucharadita de pimienta blanca<br>1 cucharadita de romero<br>1 cucharadita de salvia<br>1½ cucharadita de albahaca<br>½ cucharadita de laurel en polvo<br>Aceite de oliva','preparacion' :'Para empezar esta receta de agnolotti al estilo piamontesa, primero hacemos una mezcla con la harina, el huevo y una pizca de sal. Si vemos que nos queda muy seca añadiremos un poquito de agua. Por el contrario, si vemos que queda la masa húmeda, añadimos un poquito más de harina. Una vez bien amasado lo dejamos en reposo durante 15 minutos aproximadamente.<br>Mientras tanto, hacemos otra mezcla en un bol con la carne de cerdo, la carne de ternera, una pizca de sal, pimienta, romero, salvia, albahaca y laurel. Reservamos. Después pelamos y cortamos la cebolla y el diente de ajo lo más pequeño que podamos. Rehogamos en una sartén con un poco de aceite de oliva y luego lo mezclamos con la carne para el relleno.<br>En este momento extendemos la masa con la ayuda de un rodillo de madera previamente enharinado. Cortamos la masa en cuadrados de unos 4×4 centímetros. Para ello podemos ayudarnos de un cortapastas especial de cocina, pero si no disponemos de ello podemos hacerlo con un cuchillo que corte bien.<br>Después colocamos en el centro de cada cuadrado un poco de la mezcla de relleno. A continuación, mojamos los bordes con un poquito de agua y tapamos con otro cuadrado de masa cerrándolo bien. Este procedimiento lo repetimos hasta terminar toda la masa.<br>Por último solo nos queda cocer los agnolotti en una olla con abundante agua hirviendo con una pizca de sal. Contaremos unos 5 minutos a partir de que comience la ebullición. Luego los escurrimos bien y los emplatamos calientes con la mantequilla derretida por encima. Antes de servir a la mesa nuestros agnolotti a la piamontesa añadimos queso parmesano a nuestro gusto. Buen provecho!!','img' : '../../../../assets/imagenes/Comida-Italiana/sopa de agnolotti.JPG','pais' : 'italianas'},
@@ -1073,6 +1069,446 @@ class RecetaSeeder {
         'img' : '../../../../assets/imagenes/Comida-Japonesa/yakimeshi.jpg',
         'pais' : 'japonesas'
       },
+       
+{
+        'nombre' : 'Abalon en lecho de lechuga',
+        'ingredientes1' : '1 lata de abalones (aquí no encontraremos fresco)<br> 50 gr. de champiñones<br> 1 cogollo de lechuga<br> 2 cucharadas de aceite vegetal<br> 6 cebolletas pequeñas<br> 6 discos finos de jengibre<br> 6 cucharadas de caldo de pescado',
+       'ingredientes2' : '1 cucharada de salsa de ostras<br> 1 cucharada de salsa de soya<br> 1 cucharadita de maicena<br> 1 cucharita de azúcar<br> 1 cucharadita de aceite de sésamo',
+        'preparacion' :'Cortaremos los champiñones por la mitad. Blanquearemos la lechuga, escaldándola en agua hirviendo, durante 1 minuto, sacarla y escurrirla bien, poniéndola en el fondo de una fuente.<br> En un wok, calentaremos las 2 cucharadas de aceite, una vez caliente saltearemos las cebolletas, cortadas bastamente, usando también parte de los tallos verdes, y el jengibre cortado en tiritas.<br> Una vez salteada la verdura, añadiremos los abalones, cortados en discos finos, salteándolos un poco. Añadiremos todos los ingredientes de la salsa. Cuando la salsa engorde un poco, verteremos todo sobre el lecho de lechuga.<br> Podemos emplear otras verduras de hojas verdes. En lugar de abalones, también podemos elaborar este plato, con el músculo blanco de las vieiras, al ser este músculo más tierno que el de los abalones, podemos ponerlo entero o cortado por la mitad.',
+        'img' : '../../../../assets/imagenes/Comida-China/abalonenlechodelechuga.jpg',
+        'pais' : 'chinas'
+      },
+      {
+        'nombre' : 'Arroz congee',
+        'ingredientes1' : '800 g. de lomo de bacalao desalado<br> 2 cebollas medianas <br> 5 pimientos choriceros <br> 4 pimientos morrones <br> 1 rebanada de pan de pueblo <br> 3 dientes de ajo<br> 4 cucharadas de salsa de tomate triturado natural',
+       'ingredientes2' : '2 vasos de caldo de pescado<br> 50 g. de harina de trigo<br> Aceite de oliva virgen extra<br> Sal',
+        'preparacion' :'En una olla grande, agregue el caldo (o agua) y el arroz. Cúbralo y cocínelo durante aproximadamente 1½ - 2 horas a fuego lento, hasta que el arroz y el agua hayan formado unas gachas.<br> Las gachas se pueden consumir de forma líquida o más compacta, en cuyo caso, será necesario extender la cocción. Después de 2 horas, todavía queda algo de líquido, y las gachas siguen siendo bastante líquidas.<br> Vierta las gachas en tazones. Sazone con salsa de soja y aceite de sésamo, si lo desea.',
+        'img' : '../../../../assets/imagenes/Comida-China/Arroz congee.jpg',
+        'pais' : 'chinas'
+      },
+      {
+        'nombre' : 'Chop Suey',
+        'ingredientes1' : '2 pechugas de pollo<br> ½ pimiento rojo<br> 1 calabacín pequeño<br> 1 cebolla<br> 1 zanahoria grande<br> 180 g. brotes de soja <br> 1 cucharadita de jengibre fresco picadito',
+       'ingredientes2' : '1 diente de ajo<br> 150 ml. salsa de soja<br> 1 cucharadita de aceite de sésamo<br> Aceite de girasol para freír',
+        'preparacion' :'Pelamos la cebolla y la cortamos en juliana gruesa. Lavamos y cortamos en bastoncitos el resto de verduras, el pimiento, la zanahoria y el calabacín. En un cuenco mezclamos la salsa de soja, con el jengibre y el ajo cortados menuditos. <br>Reservamos. En un wok ponemos 4-5 cucharadas de aceite de girasol. Cuando el aceite esté bien caliente incorporamos las verduras y las cocinamos a fuego fuerte, removiendo casi constantemente para evitar que se quemen.<br> Si utilizamos brotes de soja frescos los incorporamos con el resto de verduras. Si los utilizamos de bote los reservamos para el final. La textura final tiene que ser más bien durita, al dente.<br> Si cocinamos las verduritas todas juntas necesitaremos 10 minutos. Si lo hacemos por tandas con 4 minutos cada una será suficiente. <br> Incorporamos al wok el pollo troceado y cocinamos a fuego fuerte 5 minutos. Seguimos con la incorporación del aceite de sésamo y de la salsa de soja con ajo y jengibre que tenemos reservada.<br> Le damos caña al fuego, debe estar alto para que evapore rápido y quede una salsa densa. Cocinamos unos 10 minutos aproximadamente,<br> depende mucho del menaje que emplees. Si os gustan los brotes de soja (opcionales) los incorporamos con la salsa cuando la añadimos al pollo. Servimos bien caliente en un cuenco acompañado con un buen tazón de arroz blanco.',
+        'img' : '../../../../assets/imagenes/Comida-China/chop suey.jpg',
+        'pais' : 'chinas'
+      },
+      {
+        'nombre' : 'Chow mein',
+        'ingredientes1' : '1 zucchini<br> 1 cebolla<br> 1/2 morrón rojo<br> 1/2 morrón verde<br> 2 dientes de ajo<br> 1 cucharada de miel<br> 3/4 taza de salsa de soja<br> 1 paquete de fideos de arroz<br> Sal y pimienta, a gusto<br> Jengibre rallado, a gusto',
+       'ingredientes2' : '',
+        'preparacion' :'Hidratar o cocinar los fideos de arroz según indicaciones del paquete. Cortar los vegetales del tamaño deseado: cebollas en trozos, morrones en tiras, zucchinis irregulares.<br> Saltear en un wok aceitado las verduras. Deben quedar crocantes. Sumar el jengibre rallado, la miel y la salsa de soja. Revolver y dejar reducir unos minutos. Sumar los fideos, revolver y servir.',
+        'img' : '../../../../assets/imagenes/Comida-China/Chow mein.jpg',
+        'pais' : 'chinas'
+      },
+      {
+        'nombre' : 'Dim Sum',
+        'ingredientes1' : '20 unidades de pasta wonton<br> 200 g. de cerdo picado<br> 200 g. de langostinos picados<br> 2 setas shitake seso y hidratadas<br> 5 g. de cebolletas (la parte verde)<br> 1 cucharadita de jengibre rallado<br> un poco de zanahoria para decorar<br> 1/2 cucharada de maizena<br> 1 cucharada de salsa de ostras',
+       'ingredientes2' : '1/2 cucharada de salsa de soja ligera<br> 1 pizca de pimienta blanca<br> 1/2 cucharadita de aceite de sésamo<br> 1/2 cucharadita de sal',
+        'preparacion' :'En un bol ponemos los langostinos, la mitad de la maizena y la sal. Removemos en la misma dirección hasta conseguir una pasta pegajosa, lo tapamos y reservamos. En otro bol más grande, ponemos el cerdo, el resto de la maizena y la sal y lo removemos.<br> Incorporamos la salsa de soja ligera, la salsa de ostras, el azúcar, la pimienta blanca y removemos unos 5 minutos. Le añadimos los langostinos, las setas shitake, la cebolleta, el jengibre y el aceite de sésamo. <br>Removemos otros 10 minutos hasta conseguir una masa pegajosa, lo tapamos y dejamos en la nevera durante 1 hora. Cortamos la pasta wonton en círculos o simplemente las 4 esquinas para no perder tanta pasta.<br> Con la ayuda de un cuchillo, ponemos unos 25 g. de nuestro relleno en el centro de la pasta wonton y vamos cerrando la mano formando un saquito abierto, decoramos con la zanahoria y repetimos el proceso hasta terminar todas las piezas.<br> En un cestillo de bambú o en cualquier recipiente para cocina al vapor, ponemos papel de horno perforado en la base y nuestras piezas encima. Las cocinamos al vapor de 8 a 10 minutos a fuego medio y listo.',
+        'img' : '../../../../assets/imagenes/Comida-China/dim sum.jpg',
+        'pais' : 'chinas'
+      },
+      {
+        'nombre' : 'Ma po tofu',
+        'ingredientes1' : '250 g de carne mixta picada<br> 2 dientes de ajo<br> 3 cucharaditas de fécula de patata<br> 1 cucharada de salsa de ostras<br> 1 cucharadita de aceite de sésamo<br> 1 cucharada de salsa de soja<br> Aceite de oliva<br> 3 cucharaditas de pasta de guindilla picante<br> 750 g de tofu firme',
+       'ingredientes2' : '2 Cebolletas frescas<br> 50 ml de caldo de pollo<br> 1 cucharadita de cebollino picado<br> 1 cucharada de ketchup<br> Sal<br> Ajinomoto<br> Azúcar',
+        'preparacion' :'En primer lugar, en un bol no metálico, ponemos la carne picada, y añadimos la salsa de ostras, la salsa de soja, una pizca de sal, azúcar, ajinomoto y el aceite de sésamo. Mezclamos con las manos y dejamos adobar 15 minutos en la nevera tapada con papel film.<br> Mientras, troceamos el tofu en láminas de 1 dedo de grosor. Las cortamos en cuadrados de 1 dedo. Picamos el ajo y la cebolleta en brunoise. Reservamos. En un vaso disolvemos la fécula de patata en un poco de agua fría. Reservamos.<br> En una sartén tipo wok ponemos un poco de aceite de oliva, y salteamos el ajo y la cebolleta hasta que estén dorados. Añadimos la carne adobada y la cocinamos.<br> Incorporamos el caldo, la pasta de guindilla y la cucharada de ketchup, dejamos cocer un minuto y añadimos la fécula mezclada con agua para que espese la salsa. Incorporamos el tofu cortado en dados y cocemos durante 3 minutos más.<br> Servimos en un plato hondo y decoramos con el cebollino picado.',
+        'img' : '../../../../assets/imagenes/Comida-China/Ma po tofu.jpg',
+        'pais' : 'chinas'
+      },
+      {
+        'nombre' : 'Pato laqueado a la pekinesa',
+        'ingredientes1' : '1 pato pequeño<br> 2 anís estrellado<br> 1 trocito de canela china<br> ½ diente de ajo<br> 1 pizca de semillas de hinojo<br> 4 granos de pimienta de sichuán<br> 100 ml vino de jeréz<br> 1 pizca de chile rojo<br> 1 trozo de jengibre fresco',
+       'ingredientes2' : 'Sal<br> 2 cda salsa de soja<br> 3 cda de miel<br> ½ pepino<br> ½ cebolleta<br> Crepes chinas',
+        'preparacion' :'En una olla grande pones suficiente agua a hervir, escaldas el pato durante 1 min. Sacas el pato del agua y dejas enfriar. Despegas la piel del pato ayudándote con una pajita soplando entre la piel y la carne del ave. La piel debe quedar completamente despegada, sin perder su forma. Atraviesas el extremo del cuello del pato con un gancho de metal, para poder colgarlo. Pones debajo del pato una cacerola. Pelas y picas el jengibre tan pequeño como puedas, puedes rallarlo. En una olla viertes el agua e incorporas la miel, el jengibre picado, la salsa de soja, el anís estrellado, la canela china, las semillas de hinojo, el chile en polvo y el vino.<br> Pones sobre el fuego y cuando empiece a hervir apagas el fuego. Cuando el líquido esté todavía muy caliente, lo viertes sobre el pato colgado y te aseguras que el pato quede bien bañado.<br> Una vez que la piel esté bien empapada de la salsa,  el pato tendrá un color marrón chocolate. Cuelgas el pato laqueado de Pekín en un lugar seco y fresco y lo dejas durante 5 horas Pasadas estas horas de reposo, la piel del pato deberá apreciarse seca y firme al tacto.<br> Colocas el pato sobre una rejilla, por debajo pones una fuente para horno con 2 vasos de agua. Horneas a 240°C durante 20 min. Pasado este tiempo, bajas la temperatura  a 180 °C durante 1 hora.<br> Una vez que haya pasado este tiempo, ya puedes sacar tu pato laqueado de Pekín del horno. Cortas en bastones finitos la cebolleta y los colocas en un bol con agua durante 10 min. Después los pones sobre un papel absorbente de cocina. Igualmente cortas el pepino.',
+        'img' : '../../../../assets/imagenes/Comida-China/Pato laqueado a la pekinesa.jpg',
+        'pais' : 'chinas'
+      },
+      {
+        'nombre' : 'Pollo gong bao',
+        'ingredientes1' : '2 pechugas de pollo deshuesadas sin piel<br> 1 cucharada de aceite de cacahuete<br> 8 guindillas rojas secas<br> 1 cucharada de granos de pimienta de Sichuan<br> 2 dientes de ajo<br> 3 o 4 rodajas de jengibre fresco<br> 1 cucharada de cebolleta picada<br> 100 gr. de cacahuetes tostados<br> 2 cucharadas de salsa de soja',
+       'ingredientes2' : '1 cucharada de vino de arroz<br> 1/2 cucharada de azúcar<br> 1 cucharadita de salsa de soja clara<br> 1 cucharadita de salsa de soja oscura<br> 1 cucharadita de vinagre de arroz<br> 1 cucharadita de aceite de sesamo<br> 1 cucharadita de azúcar',
+        'preparacion' :'Empezamos troceando las pechugas de pollo en taquitos de unos dos centímetros, y reservamos. En un bol, preparamos el adobo con; la salsa de soja, el vino de arroz y el azúcar. <br>Lo batimos enérgicamente, y lo vertemos encima del pollo, ya cortado, y lo dejamos macerar una media hora. Mientras, hacemos la salsa, mezclando todos los ingredientes, y reservamos.<br> Echamos en un wok el aceite de cacahuete y, cuando esté bien caliente, añadimos las guindillas en dos trozos, junto con los granos de pimienta de Sichuan.<br> Lo dejamos hasta que desprendan su aroma y añadimos los daditos de pollo escurridos. Cuando el pollo empiece a coger su color blanco, le añadimos las rodajitas de jengibre fresco, los dientes de ajo laminados y la cebolleta picada. <br>Lo dejamos hacer dos o tres minutos removiéndolo continuamente. Pasado ese tiempo, le añadimos la salsa que tenemos reservada y lo removemos bien con el fin de que nos quede todo bien mezclado, añadimos los cacahuetes, volvemos a remover y listo… Servir bien caliente.',
+        'img' : '../../../../assets/imagenes/Comida-China/pollo gong bao.jpg',
+        'pais' : 'chinas'
+      },
+      {
+        'nombre' : 'Rollitos primavera',
+        'ingredientes1' : '200 g. carne de ternera picada<br> 2 zanahorias<br> 1 cebolla<br> 200 g. col china o repollo<br> 100 g. brotes de soja<br> ½ pimiento rojo<br> 8 hojas de masa filo<br> Salsa de soja',
+       'ingredientes2' : 'Aceite de sésamo<br> Aceite de girasol para freír',
+        'preparacion' :'Cortamos las verduras en juliana y reservamos. En un wok, o en una sartén si no tuvierais, añadimos 3 cucharadas de aceite para freír. Cuando esté bien caliente agregamos la col y la cebolla. <br>Rehogamos removiendo constantemente hasta que la verdura esté al dente. No debe quedar muy pochadita sino un poquito crujiente.<br> Cuando esté casi lista añadimos al wok una cucharada de salsa de soja y unas gotitas de aceite de sésamo. Removemos unos segundos y retiramos.<br> En el mismo wok volvemos a añadir un par de cucharadas de aceite para freír. Cuando esté caliente añadimos la zanahoria ya troceada y repetimos la operación. <br>La cocinamos removiendo constantemente hasta que esté al dente, añadimos una cucharada de soja y un chorrito de aceite de sésamo, removemos y retiramos.<br> Seguimos el mismo proceso con el pimiento en juliana y reservamos. Volvemos a engrasar el wok y esta vez incorporamos la carne picada. <br>Podríamos sustituir la carne de ternera por cerdo o pollo sin problema, incluso eliminarla totalmente y convertir los rollitos en sólo vegetales.<br> Dejamos que se cocina la carne a fuego alto hasta que comience a dorarse. Agregamos los brotes de soja, dos cucharadas de salsa de soja y un chorrito de aceite de sésamo y seguimos cocinando durante 1 o 2 minutos. <br>Añadimos al wok el resto de verduras que tenemos reservadas y dejamos 2 minutos que se mezclen los sabores. Retiramos del fuego y reservamos hasta que se temple.<br> Estiramos una hoja de pasta filo en una superficie de trabajo y colocamos una porción del relleno intentando reducir al máximo la cantidad de salsa. <br>Si la mezcla está muy húmeda podría romperse la fina hoja de pasta filo. Enrolamos haciendo un rollo utilizando toda la hoja y freímos en abundante aceite. Estará listo en apenas 1 o 2 minutos. <br>Retiramos a una bandeja con papel absorbente y servimos caliente.',
+        'img' : '../../../../assets/imagenes/Comida-China/rollitos primavera.jpg',
+        'pais' : 'chinas'
+      },
+      {
+        'nombre' : 'Shrimp chow',
+        'ingredientes1' : 'Aceite <br> Fideos<br> Verduras<br> Camarones<br> Salsa',
+       'ingredientes2' : '',
+        'preparacion' :'Cocine los camarones : Caliente el aceite a fuego alto y mezcle los camarones alrededor de la sartén hasta que estén cocidos. Transfiera a un plato aparte.<br> Cocine las cebollas : En las cebollas restantes, dore las cebollas. Agregue las verduras restantes : Una vez que las cebollas se doren bien, agregue el apio y el repollo. Una vez que comiencen a dorarse y se pongan blandas, agregue el ajo y el jengibre. <br>Prepare los fideos : Mientras se cocinan las verduras, rompa los fideos con agua corriente o en un recipiente con agua tibia. Cocine los fideos : Con las verduras transferidas a un plato aparte, agregue el aceite de sésamo a la caminata caliente junto con los fideos.<br> Asegúrese de dejar que se cocinen, sin que los moleste, para que se doren bien en el fondo antes de tirar. Termina el Chow Mein de Camarones : Agrega los camarones cocidos y las verduras al wok con los fideos. <br>Agregue la salsa de ostras y la salsa de soja y luego mezcle para combinar',
+        'img' : '../../../../assets/imagenes/Comida-China/Shrimp chow.jpg',
+        'pais' : 'chinas'
+      },
+      {
+        'nombre' : 'Siew Yhok',
+        'ingredientes1' : '1 kilo de lomo de cerdo<br> 2 cucharadas de miel<br> 4 cucharadas de salsa de soya<br> 1 cucharada de vino blanco<br> 6 cucharadas de azúcar<br> Sal',
+       'ingredientes2' : '',
+        'preparacion' :'Lavamos bien la carne y la cortamos en 4 tiras a lo largo. Hacemos unos cortes, 4 más precisamente en diagonal, sin separar las tiras para que de esta forma el adobo humecte y penetre mucho más en la carne.<br> Seguimos, y mezclamos todos los ingredientes menos la miel. Añadimos las tiras de la carne del cerdo y con el líquido las cubrimos muy bien mientras las pinchamos con la ayuda de un palillo o tenedor para que penetre mejor. <br>Dejamos esta mezcla a una temperatura ambiente por un espacio de 4-5 horas y en tanto va pasando el tiempo las vanos dando vuelta cada 30 minutos.<br> Una vez que pasaron las 5 horas, llevamos la preparación a un horno precalentado previamente y a una temperatura de 190º C. Cuando la carne ya está bien caliente, se escurren las tiras de cerdo y se deja a un lado el adobo.<br> En tanto, en la parte inferior del mismo ponemos una rustidera con unos 2 cm de agua y dejamos en el horno cocinando o calentando por aproximadamente una media hora.<br> Pasado este tiempo la carne ya estará bien tostada con un color algo marrón o rojizo. Se quita la rejilla del horno, y se pasa la carne por el adobo volviéndola a poner una vez más en el horno pero del otro lado.<br> Horneamos otra media hora para que quede parejo de ambos lados. Una vez listas las tiras, las pasamos a otra rejilla pero fría. De inmediato las untamos.<br> No olviden que la carne debe estar muy pero muy caliente y con miel por todos lados aun en el interior de los cortes.<br> En una cacerola pequeña hacemos hervir a fuego mediano el líquido de la maceración que habíamos dejado reservado para así lograr obtener una rica salsa. <br>Cuando ya está lista, se la coloca en una salsera caliente.  Por último, trinchamos la carne y las presentamos en forma de tiras cubiertas con la salsa. Además pueden adornar este maravilloso y asombroso plato con unas ricas verduras crudas.',
+        'img' : '../../../../assets/imagenes/Comida-China/siew yhok.jpg',
+        'pais' : 'chinas'
+      },
+      {
+        'nombre' : 'Szechwan chiken',
+        'ingredientes1' : '1/4 taza de aceite vegetal<br> 1 libra de pechugas de pollo<br> 1/4 taza de maicena<br> 1/2 taza de cebolla amarilla<br>1 pimiento rojo cortado<br> 1 pimiento verde cortado<br> 25 chiles rojos secos pequeños<br> 1 1/2 cucharaditas de ajo picado',
+       'ingredientes2' : '1 1/2 cucharadas de salsa hoisin<br> 1 cucharada de aceite de sésamo<br> 1 1/2 cucharadas de azúcar morena<br> 1 cucharada de maicena<br> 1/4 taza de caldo de pollo',
+        'preparacion' :'Coloca el pollo en un bol con la maicena y sal y pimienta al gusto. Mezcle para combinar. Calentar el aceite vegetal en una sartén grande a fuego alto. Coloque el pollo en una sola capa en la sartén. Cocine durante 3-4 minutos por lado hasta que se doren. Es posible que deba realizar este paso por lotes. Retire el pollo de la sartén. Cubra para mantener el calor. Agregue la cebolla y los pimientos rojos y verdes a la sartén. Agregue los chiles y los granos de pimienta de Sichuan. Cocine durante 3-4 minutos o hasta que las verduras se ablanden.<br> Agrega el ajo y el jengibre a la sartén; cocine por 30 segundos más. Regrese el pollo a la sartén con las verduras.Mientras se cocinan el pollo y las verduras, prepare la salsa. <br>Batir todos los ingredientes de la salsa en un tazón pequeño. Agregue la salsa a la mezcla de pollo y deje hervir; cocine de 30 segundos a 1 minuto, o hasta que la salsa esté espesa. Servir inmediatamente.',
+        'img' : '../../../../assets/imagenes/Comida-China/szechwan chiken.jpg',
+        'pais' : 'chinas'
+      },
+      {
+        'nombre' : 'Wanton mee',
+        'ingredientes1' : '400 g de fideos wonton frescos <br> ½ manojo de pak choy <br> Aceite vegetal<br> 300 g de cerdo char siu <br> Pimienta blanca molida<br> 6 pimientos verdes marinados en vinagre de arroz',
+       'ingredientes2' : '40 envolturas cuadradas de wonton<br> 150 g de carne de cerdo molida<br> 150 g de camarones pelados y desvenados<br> 1 cucharada de clara de huevo<br> 1 cucharada de jengibre fresco rallado<br> 2 cucharaditas de salsa de soja<br>',
+        'preparacion' :'En un tazón grande, mezcle la carne de cerdo molida, las gambas, la clara de huevo, el jengibre, la salsa de soja, la salsa de ostras, el caldo de pollo en polvo, el aceite de sésamo, la sal, el azúcar y la pimienta blanca.<br> Amase durante 2 minutos. Coloque una cucharadita de la mezcla de carne de cerdo en el centro de cada envoltura de wonton. Humedezca los bordes de cada envoltura con agua fría. Selle los bordes dándoles forma de triángulo. Ciérrelos expulsando tanto aire como sea posible. Resérvelos sobre una hoja de papel pergamino, hasta que los vaya a cocinar.<br> Aceite de ajo Caliente el aceite en una sartén y saltee el ajo a fuego medio-bajo hasta que comience a ponerse ligeramente dorado y crujiente. Transfiéralo inmediatamente a un recipiente y reserve. <br> Salsa de setas chinas Remoje las setas chinas en agua tibia hasta que se ablanden. Escúrralas, pero reserve el agua de las setas. Exprima el exceso de agua de las setas y córtelas en pedazos. Caliente el aceite vegetal en una cacerola pequeña y saltee el ajo y las setas durante 1 minuto.<br> Agregue el resto de los ingredientes a excepción de la mezcla de almidón de maíz. Ponga a hervir. Cubra y cocine lentamente, durante 20 minutos a fuego bajo. Agregue la mezcla de almidón de maíz y, mientras revuelve, deje que la salsa se espese ligeramente.<br> Ajuste los condimentos si es necesario. Apague el fuego, cubra la sartén y reserve.',
+        'img' : '../../../../assets/imagenes/Comida-China/wanton mee.jpg',
+        'pais' : 'chinas'
+      },
+      {
+        'nombre' : 'Wonton',
+        'ingredientes1' : '300 g. harina de trigo<br> 50 ml. de agua <br> 2 huevos <br> 1 cucharadita sal',
+       'ingredientes2' : '',
+        'preparacion' :'Ponemos la harina en un bol. En otro bol pequeño, mezclamos 2 huevos con agua y sal. Vamos añadiendo poco a poco. Amasamos unos 10 minutos, hasta conseguir una masa lisa.<br> Es una masa muy compacta y un poco difícil de trabajar, así que paciencia. Tapamos con un film y dejamos reposar en la nevera durante 1 hora. A continuación amasamos otros 10 minutos y la dividimos en 2 partes.<br> Extendemos la masa en forma rectangular hasta conseguir un grosor de unos 3 milímetros. Usamos maicena cuando sea necesario.<br> Una vez terminadas las 2 piezas, las doblamos por la mitad, las tapamos con un trapo húmedo y las dejamos reposar durante 1 hora más.<br> Extendemos nuestra masa hasta conseguir un grosor de 1 milímetro, una vez tenemos la masa bien extendida, la cortamos en cuadrados de 9 x 9 centímetros. Los cubrimos bien con maicena para que no se peguen y ya están listos para usar. <br>Se pueden conservar 3 días en la nevera y hasta 1 mes en el congelador.',
+        'img' : '../../../../assets/imagenes/Comida-China/wonton.jpg',
+        'pais' : 'chinas'
+      },
+      {
+        'nombre' : 'Zongzi',
+        'ingredientes1' : 'Arroz glutinoso redondo: 1.5 kg – 2 kg.<br> Hojas de bambú disecado: 50 hojas.<br> Hongos shitake mini disecado.<br> Bondiola estofada: 1 kg.<br> Salsa de soja: 50 ml.<br> Aceite de girasol: 30 ml.<br> Maní con piel: 300 g.<br> Hilo de matambre.',
+       'ingredientes2' : '',
+        'preparacion' :'Para realizar este plato tardaremos 3 días. Durante 48-72 horas tendremos que dejar las hojas de bambú en remojo. El segundo día procederemos a cocinar la bondiola estofada, dejándola reposar en una heladera durante unas 24 horas.<br> Es imprescindible que la carne esté completamente tierna. Debemos además lavar el arroz con mucha agua y ponerlo en remojo durante 24 horas también. <br>Así mismo, tanto los maníes como los hongos de shitake deberán estar en remojo el mismo tiempo. El tercer día procederemos a lavar bien las hojas de bambú y las escurriremos correctamente. <br>También escurriremos los hongos y el resto de alimentos. Salteamos el arroz con un poco de aceite y salsa de soja y le añadimos un poquito de sal al gusto.<br> Debemos cortar los hilos con una longitud de unos 60 cm- 100 cm. Usaremos 2 hojas de bambú para formar con ellas un cono, las rellenamos de arroz, carne, hongos y arroz y lo cerramos.<br> Acto seguido intentamos armar un tamal con 4 ángulos y lo atamos con el hilo. Tras esto, debemos cocinarlos en agua o al vapor durante aproximadamente 1 hora o 1 hora y media.',
+        'img' : '../../../../assets/imagenes/Comida-China/zongzi.jpg',
+        'pais' : 'chinas'
+      },
+      {
+        'nombre' : 'Jiaozi',
+        'ingredientes1' : '1/3 col china<br> 250 g carne de cerdo picada <br> 1 cebolla china, la parte del tallo <br> Un dado de jengibre rallado<br> 2 cucharadas soja',
+       'ingredientes2' : '1 cucharada sal<br> 1/2 cucharada de sazonador de 5 especias <br> Paquete de obleas para jiaozi o gyozas <br> Un chorrito vino de cocinar',
+        'preparacion' :'Pon abundante agua a hervir. Mientras, corta la col en trozos pequeños, añade un poco de sal. Cuando el agua empiece a hervir echa la col, no hace falta que esté mucho tiempo, cuando huela un poquito la sacas, luego se terminará de cocinar.<br> Cuela la col, en la encimera pon papel de cocina y échala encima. Estruja para que salga el agua, después échala en un bol grande. En el bol introduce también la cebolla picada, el jengibre picado, <br>la soja, el sazonador de 5 sabores, sal, vino y la carne. Mezclar bien, siempre en la misma dirección.',
+        'img' : '../../../../assets/imagenes/Comida-China/jiaozi.jpg',
+        'pais' : 'chinas'
+      },
+      {
+        'nombre' : 'Ajiaco',
+        'ingredientes1' : '8 tazas de agua<br> 4 pechugas medianas de pollo<br> 1 taza de guascas secas <br> 2 lbs de papa criolla<br> 2 lbs de papa sabanera <br> 1 cebolla mediana picada<br>',
+        'ingredientes2' : '4 mazorcas grandes de maíz<br> 1 cubo de caldo de gallina<br> 1/2 taza de arvejas o chícharos verdes<br> Sal al gusto',
+        'preparacion' :'En una olla grande agrega el agua, el pollo y la mitad de las guascas. Déjalo cocinar por aproximadamente 40 minutos. Cuando ya el pollo este cocido lo sacas de la olla y lo colocas en un plato aparte; córtalo en trocitos y cúbrelo con papel aluminio para mantenerlo tibio. <br> No tires el agua. Luego en la misma agua en que cocinaste el pollo debes agregar las dos clases de papa, la cebolla y el ajo. Deja cocinar por aproximadamente 2 horas para que la papa criolla se disuelva completamente.<br> Agrega el pollo cortado en trocitos, las mazorcas, el caldo de gallina, las arvejas verdes (chícharos) y la sal a tu gusto. Mezcla con cuidado todos los ingredientes y déjalos cocinar por una hora más a fuego medio bajo. Agrega la mitad restante de las guascas y cocina por 5 minutos más.',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/Ajiaco.jpg',
+        'pais' : 'colombianas'
+      },
+      {
+        'nombre' : 'Arepas',
+        'ingredientes1' : '175 gr de harina de maíz precocida blanca <br> 270 ml de agua<br> 1/2 cucharada sopera de sal',
+        'ingredientes2' : '',
+        'preparacion' :'En un bol añade el agua y diluye la sal. Echa la harina de maíz precocida y mezcla muy bien hasta que se integren todos los ingredientes. Amasa durante unos minutos hasta obtener una mezcla compacta.<br> Toma porciones de masa de unos 100 gr y haz primero una bola y luego aplástala ligeramente para que quede un panecillo de 1,5 cm de grosor, aproximadamente.<br> Pon a calentar una sartén donde quepan bien las arepas o una plancha y engrásala con un poquito de aceite de oliva o de girasol. Cuando la sartén esté caliente, coloca las arepas y cocínalas, aproximadamente, durante 5 minutos por cada lado a fuego medio – alto. <br> Deben dorarse por fuera y cocinarse por dentro, puedes comprobar cómo está abriéndola por la mitad para cerciorarte que la arepa está bien cocida. Y ya tienes unas deliciosas arepas caseras listas para rellenar con tus ingredientes favoritos.',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/arepas.jpg',
+        'pais' : 'colombianas'
+      },
+      
+      {
+        'nombre' : 'Arroz con Coco',
+        'ingredientes1' : '1 lata de agua de coco<br> 1/2 cucharadita de sal<br> 1 taza de arroz de grano mediano<br> 2/3 taza de leche evaporada <br> Ralladura de limón verde',
+        'ingredientes2' : '',
+        'preparacion' :'Haz hervir el agua de coco en una cacerola mediana a fuego medio. Agrega la sal y el arroz. Reduce el fuego a medio-bajo; pon la tapa. <br> Cocina esto, revolviéndolo de vez en cuando, de 12 a 15 minutos hasta que el agua esté a punto de ser absorbida por completo. Agrega la leche evaporada. Pon la tapa y cocina el conjunto, revolviéndolo de vez en cuando, de 10 a 15 minutos más o hasta que el arroz esté tierno. <br> Puedes agregar más agua en caso de que sea necesaria para conseguir que el arroz tenga la textura necesaria. Retira la cacerola del fuego. Incorpora, al gusto, la ralladura de limón verde, de así desearlo.',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/arroz con coco.jpg',
+        'pais' : 'colombianas'
+      },
+      
+      {
+        'nombre' : 'Bollo Limpio',
+        'ingredientes1' : '1 ½ kg de maíz pilado<br>Sal Hojas de mazorca grandes<br> Cabuya',
+        'ingredientes2' : '',
+        'preparacion' :'Poner a remojar el maíz desde víspera y limpiarlo de impurezas. Botar el agua y cocinar el maíz en agua fresca durante 30 minutos, dejar enfriar.<br> Escurrir el agua, moler el maíz y amasarlo con un poco de sal hasta obtener una pasta suave. Lavar las hojas de mazorca y poner 3 cucharadas de masa en cada una, cubrirla con otra hoja y envolver bien, doblar los extremos y amarrar.<br> Cocinar en agua hirviendo con un poquito de sal durante 30 minutos.',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/bollo limpio.jpg',
+        'pais' : 'colombianas'
+      },
+      
+      {
+        'nombre' : 'Carimañola',
+        'ingredientes1' : '1 kilo yuca<br> al gusto sal<br> 500 gr carne molida<br> 2 cebollas grandes picada<br> 1 zanahoria rallada<br> 4 dientes ajo<br> orégano seco',
+        'ingredientes2' : 'pimienta picante molida de la negra<br> 2 cdas vinagre<br> 4 cdas salsa soya<br> 1 cubo caldo de res',
+        'preparacion' :'Poner a sancochar la yuca en abunda te agua con bastante sal, esperar hasta que esté semi blanda. sacar y dejar enfriar. Luego pasarla por un molino. Amasarla Para la carne sofreír la cebolla picada con la zanahoria rallada el ajo, el orégano.<br> Luego agregar la carne molida, el vinagre, la salsa soya, el cubo de caldo de res la pimienta, la sal y tapar, dejar cocinar a juego lento Destapar revisar la sazón y esperar a a que seque con esto rellenaremos las empanadas de yuca.<br> Armar las empanadas. Sofreír en abundante aceite. Y listo.',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/carimañola.jpg',
+        'pais' : 'colombianas'
+      },
+      
+      {
+        'nombre' : 'Changua',
+        'ingredientes1' : '1 taza de agua<br> 3 cebollas verdes, picadas<br> 2 tazas de leche<br> Sal, al gusto<br> 2 huevos<br> 2 tajadas de pan blanco<br> 2 cucharadas de cilantro fresco, picado',
+        'ingredientes2' : '',
+        'preparacion' :'Pon a calentar el agua en una olla o cazuela de barro a fuego medio. Agrégale la cebolla verde y déjala cocinar durante 2 minutos. Agrega la leche y la sal. Reduce la temperatura y agrega los huevos.<br> Cocina por 2 minutos o hasta que los huevos estén cocinados. Agrega los trozos de pan sobre la changua y decora con el cilantro picado.',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/changua.jpg',
+        'pais' : 'colombianas'
+      },
+      
+      {
+        'nombre' : 'Cuchuco',
+        'ingredientes1' : 'Una taza de cuchuco de trigo<br> 14 tazas de agua<br> Una taza de arveja verde<br> 3 dientes de ajo machacados<br> Una ramita de cilantro<br> 3 tallos de cebolla larga<br> 8 papas criollas pequeñas sin pelar',
+        'ingredientes2' : 'Una taza de fríjoles<br> Una taza de zanahoria picada en cuadritos<br> 4 papas sabaneras peladas y finamente picadas<br> 5 hojas de repollo troceadas<br> Una taza de habas<br> Sal<br> Pimienta',
+        'preparacion' :'En una olla grande, cocine el espinazo en el agua junto con la cebolla larga, el cilantro y los ajos. Deje hervir a fuego lento durante 45 minutos o hasta que el espinazo esté tierno. <br> Agregue el cuchuco y deje hervir durante 10 o 15 minutos más. Luego, incorpore la papa sabanera, la zanahoria, las arvejas, las habas, los fríjoles y deje cocinar hasta que el cuchuco comience a espesar.<br> Posteriormente, adicione la papa criolla, el repollo y la sal. Cocine a fuego lento durante 20 minutos más revolviendo reiteradamente. En un plato hondo, sirva primero el espinazo y luego vierta la sopa.<br> Decore con cilantro finamente picado.',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/cuchuco.jpg',
+        'pais' : 'colombianas'
+      },
+      
+      {
+        'nombre' : 'Fritanga',
+        'ingredientes1' : '5 vainas medianas de ají colorado <br> 3 cucharas de ají colorado molido<br> 2 cucharillas de pimienta entera<br> 2 cucharillas de comino entero<br> 4 dientes de ajo<br> 3 Kg. carne de cerdo',
+        'ingredientes2' : '8 papas blancas peladas 1½ Lb pataska cocida 1 Lb maíz pelado no cocido sal aceite',
+        'preparacion' :'Una noche antes remojar el maíz PELADO seco en bastante agua, al día siguiente darle una lavada y ponerle a cocer con sal muy poco  hasta que el maíz se revienten.<br> En un batán de piedra moler la pimienta, el comino y los ajos y separarlo. para darle un poco de sabor K’aspalo los AJIS,  pasando por el fuego de la cocina y también mole bien fino.<br> Cortar el cerdo (chancho) en trozos pequeños y lávalos, y  hacerles cocer por lo menos unas 2 horas con bastante agua y sal a gusto y agrégalo los condimentos que moliste en el batan y sal a gusto.<br> Saca el cerdo y en un sartén con aceite, freír de ambos lados todos los pedazos . Mientra tanto en otra olla  con 3 cucharadas de aceite,  hacer cocer el ají colorado durante diez minutos removiendo constantemente para que no se pegue, <br>en unos 10 minutos ya cocerá el ají y  hecha  un cucharón de caldo del chancho. A esta preparación de la nueva olla añadir los trozos de cerdo y dejar cocer a fuego lento durante 30 minutos, para que el sabor del aji entre a la carne.<br> No dejes que se seque, sigue echando el caldo con los ingredientes. Servir en un plato el mote  y luego colocar pedazos de cerdo  y rociarlo con el ají colorado, acompañando con pataska o chuño  o al final o dos papas.',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/fritanga.jpg',
+        'pais' : 'colombianas'
+      },
+      
+      {
+        'nombre' : 'Obleas',
+        'ingredientes1' : '½ litro de agua <br> 1 cucharada de azúcar<br> 1 cucharada de aceite<br> 1 cucharadita de bicarbonato de sodio<br> ½ cucharada de maicena<br> 250 g de harina de trigo',
+        'ingredientes2' : '',
+        'preparacion' :'Colocar en un recipiente profundo el agua e ir añadiendo el azúcar, el aceite, el bicarbonato y la maicena. Mezclar bien con una varillas, hasta que el azúcar se disuelva Añadir la harina de trigo poco a poco e ir batiendo suavemente para que no se formen grumos; debe quedar una mezcla suave, pero no muy líquida. Encender la máquina de hacer obleas y aceitarla para que no se pegue la mezcla, dejarla encendida unos 5 minutos para que se caliente bien. Colocar en la plancha una cucharada de la mezcla y bajar la tapa para que se distribuya en toda la superficie.<br> Dejar que se cocine por 50 segundos a 1 minuto; levantar la tapa y despegar; repetir la operación hasta que se acabe la mezcla.',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/obleas.jpg',
+        'pais' : 'colombianas'
+      },
+      
+      {
+        'nombre' : 'Pan de bono',
+        'ingredientes1' : '2 tazas de almidón o harina de yuca<br> 2 cucharadas de harina de maíz<br> Sal (una cucharadita)<br> Polvo para hornear (una cucharadita)<br> 2 cucharadas de azúcar<br> 200 gr de queso rallado',
+        'ingredientes2' : '½ taza (50 gr) de queso feta rallado<br> 3 cucharadas de mantequilla<br> 1 huevo',
+        'preparacion' :'Precalienta el horno (425ºF - 220ºC). Agrega (procesador de alimentos) el almidón de yuca, la harina de maíz, polvo para hornear, azúcar, y sal. Procede a mezclar la mantequilla, el huevo, el queso fresco, y el queso feta.<br> Luego agrega la leche (no toda de inmediato, poco a poco) hasta que la masa quede suave. Ahora vas a hacer con la masa círculos, del tamaño que quieras y las vas a ubicar en un molde sobre papel mantequilla .<br> Lleva los pandebonos al horno y déjalos cocinar durante 25 minutos. Revisa continuamente para que no se vayan a quemar. La clave es que tengan un color dorado intenso.',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/Pan de bono.jpg',
+        'pais' : 'colombianas'
+      },
+      
+      {
+        'nombre' : 'Pan de yuca',
+        'ingredientes1' : '50 ml de leche<br> 50 ml de aceite de maíz<br> 25 ml de agua<br> 2 huevos<br> 100 gramos de almidón de yuca<br> 100 gramos de queso semiduro',
+        'ingredientes2' : '',
+        'preparacion' :'Para empezar a preparar tus ricos pancitos de yuca y queso, calienta en una olla el agua con el aceite y la leche hasta que empiece a hacer burbujas. Vuelca de una vez los líquidos calientes del punto anterior sobre la fécula o almidón.<br> Con ayuda de una cuchara de madera, integra bien los ingredientes. Es una masa algo dura, por lo que no te asombres si debes ejercer mucha fuerza para lograrlo. Si prefieres, puedes amasarla con las manos o guantes, con cuidado de no quemarte y teniendo en cuenta que es algo pegajosa.<br> Una vez que hayas integrado bien los ingredientes del pan y haya bajado la temperatura, agrega los huevos. Vuelve a integrar. Por último, integra el queso rallado o cortado en cubos pequeños.<br> Arma los pancitos con ayuda de tus manos mojadas con aceite. Esto ayudará a que no se te pegue la preparación en las manos. Dispón los pancitos de yuca en una asadera para horno con aceite en aerosol.<br> Colócalos separados por unos 3 dedos entre sí para que al estirarse durante el horneado no se peguen y el calor se distribuya correctamente.<br> Cocínalos en el horno fuerte (200 °C) por 15 minutos hasta que estén algo dorados. Cuando estén dorados, sácalos del horno y disfruta de tu pan de yuca.',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/pan de yuca.jpg',
+        'pais' : 'colombianas'
+      },
+      
+      {
+        'nombre' : 'Rondon',
+        'ingredientes1' : '1 kg de pescado<br> 300 gr de yuca<br> 200 gr de ñame<br> 2 plátanos verdes<br> 2 cebollas<br> 2 chiles dulces<br> 1 chile habanero 1 cabeza de ajo',
+        'ingredientes2' : '1 raíz de jenjibre<br> Hojas de laurel<br> 1 chile picante entero<br> 1 cucharadita de curry<br> Sal y pimienta al gusto',
+        'preparacion' :'Pele y corte en trozos el ñame, la yuca y los plátanos verdes. Reserve. En una olla, ponga a cocinar el pescado en agua con cebolla, chile dulce y el ajo. <br>Agregue sal, jengibre y laurel. Luego de hervir por unos minutos, retire el pescado y cuele el caldo. En una olla ponga a hervir la leche de coco con el caldo de pescado y agregue la yuca, el ñame y el plátano.<br> Deje ablandar un poco y luego incorpore el pescado y el chile habanero. Rectifique el sabor y cocine unos 10 minutos. Sirva y disfrute.',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/rondon.jpg',
+        'pais' : 'colombianas'
+      },
+      
+      {
+        'nombre' : 'Sancocho',
+        'ingredientes1' : '1 libra de carne de res<br> 8 tazas de agua<br> 1 cebolla grande picada <br> 2 dientes de ajo triturados<br> 1 pimiento verde picado <br> 4 ajíes dulces picados <br> 2 tomates picados<br> 2 hojas de cilantro',
+        'ingredientes2' : '½ libra de papas <br> ½ libra de batata blanca<br> 1 plátano verde picado<br> 1 plátano maduro picado  <br> ½ libra de guineos verdes picados<br> 2 mazorcas de maíz picadas',
+        'preparacion' :'Combina todos los ingredientes para el caldo en una olla. Tapa y cocina a fuego alto hasta que hierva. Luego baja a fuego mediano-bajo y cocina hasta que la carne esté tierna, más o menos unos 45 minutos.<br> Añade todos los vegetales cortados en la olla con la carne, teniendo cuidado de no quemarte. Cocina a fuego mediano-alto hasta que los vegetales estén cocidos. Prueba el sancocho y ajusta la sal, si gustas. <br>El sancocho estará listo cuando todos los vegetales estén tiernos y el caldo espese un poco. Sirve con una lasca de aguacate. Lo puedes acompañar con arroz o pan.',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/sancocho.jpg',
+        'pais' : 'colombianas'
+      },
+      
+      {
+        'nombre' : 'Sudado de pollo',
+        'ingredientes1' : '8 muslos de pollo sin la piel<br> 1 cucharada de aceite vegetal<br> ½ taza de cebolla picada<br> ½ de taza de pimientón rojo picado<br> 1 diente de ajo picado<br> 2 tazas de tomate picado<br> 1 cucharada de Sazuón con azafran',
+        'ingredientes2' : '½ de cucharadita de sal<br> ½ cucharadita de pimienta<br> 8 papas pequeuñas amarillas peladas <br> 3 tazas de caldo de pollo',
+        'preparacion' :'En una olla grande, caliente el aceite vegetal a fuego medio. Añadir la cebolla y el pimiento rojo y saltee hasta que las cebollas estén transparentes, unos 3 minutos. A continuaciuón, auñadir los tomates, el ajo, la sal y la pimienta molida y sofría por 5 minutos muás. Agregue el pollo, el caldo de pollo, la sazuón y comino en polvo.<br> Tapar y cocinar durante 25 minutos, revolviendo ocasionalmente. Añadir las papas y el cilantro y cocine por 30 minutos muás o hasta que las papas estén tiernas. Sirva sobre arroz blanco.',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/sudado de pollo.jpg',
+        'pais' : 'colombianas'
+      },
+      
+      {
+        'nombre' : 'Papas rellenas',
+        'ingredientes1' : 'Aceite vegetal para freír<br> 5 papas medianas<br> ½ de cucharadita de sal<br> Relleno de Carne<br> 1 cucharada de aceite de oliva<br> 1 taza de tomate picado<br> ⅓ taza de cebolla picada',
+        'ingredientes2' : '1 diente de ajo picado<br> ½ cucharadita de comino molido<br> ½ cucharadita de Sazón con azafran<br> ¼ de cucharadita de sal<br> ¼ cucharadita de pimienta molida<br> ½ libra de carne molida',
+        'preparacion' :'Pelar las papas y cortarlas en trozos, pongalas en una olla mediana y cubrir con agua y agregar un ½ de cucharadita de sal. Lleve las papas a hervir a fuego medio-alto, y luego baje el fuego a medio y cocine hasta que las papas esten blandas unos 20 minutos.<br> Escurrir las papa y machcarla como para purué con un tenedor o machacador y reservar. Preparar el relleno, en una sartén grande, caliente 1 cucharada de aceite de oliva a fuego medio y agregue la cebolla, el tomate, la cebolla large, el ajo, el comino, el azafran, la pimienta y la sal. <br>Cocine por 5 minutos o hasta que la cebolla esté transparente, añadir la carne y cocine revolviendo ocasionalmente unos 10 -15 minutos. <br>Deje enfriar. Para hacer la colada: En un tazón mezcle todos los ingredientes y batir hasta que la mezcla quede suave y reservar.',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/papas rellenas.jpg',
+        'pais' : 'colombianas'
+      },
+      
+      {
+        'nombre' : 'Mote de queso',
+        'ingredientes1' : '1 kilogramo de Ñame<br> 750 gramos de Queso salado duro<br> 80 mililitros de Suero<br> 2 ramas de Cebolla larga<br> 1 unidad de Cebolla cabezona',
+        'ingredientes2' : '5 dientes de Ajo<br> 1 unidad de Limón<br> 60 mililitros de Aceite<br> 1 pizca de Sal<br> 1 pizca de Pimienta',
+        'preparacion' :'En una olla con abundante agua, cocinar el ñame pelado y cortado en trozos con una rama de cebolla larga, durante 45 minutos.<br> Aparte, en una sartén con aceite sofreír las cebollas cortadas finamente y el ajo macerado, hasta que esté blando, salpimentar. Agregar el sofrito a la sopa dejar cocinar durante 30 minutos más. <br>Después añadir el queso cortado en cubos, cocinar hasta que esté un poco blando y finalmente rectificar sabor con unas gotas de limón, el suero costeño y si es necesario una pizca de sal.<br> Sirve el mote de queso y disfruta de esta receta colombiana acompañando con un poco de arroz blanco. Si te ha gustado esta receta, tienes algún comentario o inquietud, danos tu opinión.',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/mote de queso.jpg',
+        'pais' : 'colombianas'
+      },
+      {
+        'nombre' : 'Bacalao a la vizcaina',
+        'ingredientes1' : '1 kg Bacalao<br> 2 lt Agua tibia<br> 1/2 Cebolla, finamente picada<br> 6 Dientes de ajo, finamente picados<br> 6 jitomates, sin semillas y en cubos chicos<br> 2 tazas Puré de tomate<br> 3/4 taza Aceite de Oliva <br> 3 tazas Papas, en cubos y cocidas<br>',
+        'ingredientes2' : '150 g Almendra, peladas y picadas<br> 200 g Aceitunas verdes, sin hueso y picadas<br> 1/2 taza Perejil picado<br> 1 taza Chile güero en lata<br> Sal y pimienta al gusto<br>',
+        'preparacion' :'Coloca el bacalao en un refractario y cubre con agua tibia.<br> Deja reposar por 2 noches antes de la preparación. Cambia el agua cada 6 horas.<br> Escurre y desmenuza, retira las espinas. Reserva.. Calienta el aceite y acitrona la cebolla y el ajo. Agrega el jitomate y mezcla.<br> Cocina por 10 minutos o hasta que suelte sus jugos. Añade las papas y mezcla. Vierte el puré de tomate y mezcla.<br> Cocina por 10 minutos. Agrega el bacalao, las aceitunas y las almendras. <br>Tapa y cocina por 25 minutos. Mueve ocasionalmente. Agrega el perejil y mezcla.<br> Sazona y mezcla. Cocina por 10 minutos más y sirve. Acompaña con los chiles güeros y pan.',
+        'img' : '../../../../assets/imagenes/Comida-Española/bacalao a la vizcaina.JPG',
+        'pais' : 'españas'
+      },
+      {
+        'nombre' : 'Boquerones Fritos',
+        'ingredientes1' : '600 g de boquerones frescos limpios<br> Harina<br> Aceite de oliva virgen extra<br> 1 limón<br> Sal',
+        'ingredientes2' : '',
+        'preparacion' :'Dispón un plato con harina y reboza los boquerones por ambos lados.<br> Pon una sartén al fuego con abundante aceite de oliva para freír los boquerones.<br> Antes de añadirlos a la sartén, sacúdelos un poco para que suelten el exceso de harina y el rebozado quede más fino.<br> Fríe los boquerones en tandas durante 3-4 minutos. Al retirarlos, déjalos sobre papel absorbente para eliminar el exceso de aceite.<br> Sírvelos con unas rodajas de limón para decorar y también para poder añadirles unas gotitas de zumo al degustarlos.',
+        'img' : '../../../../assets/imagenes/Comida-Española/boquerones fritos.JPG',
+        'pais' : 'españas'
+      },
+      {
+        'nombre' : 'Chipirones',
+        'ingredientes1' : '1 kg de chipirones <br> 2 cebollas grandes<br> 2 dientes de ajo<br> 1 vasito de coñac<br> sal<br> perejil picado',
+        'ingredientes2' : '',
+        'preparacion' :'Tiramos de los tentáculos con cuidado, introduciendo un dedo dentro del chipirón, para poder retirar también con un solo movimiento todos los interiores.<br> Abrimos los tentáculos y tiramos de la boca para retirarla. Luego haciendo presión con dos dedos en la zona en donde se unen los interiores a los tentáculos, con la otra mano tiramos de los tentáculos para separarlos.<br> También cortamos las aletas y las picamos. Retiramos la pluma, que es la piel transparente que queda en el interior del chipirón.<br> Damos vuelta el chipirón, como si fuera un calcetín, para limpiarlo por dentro de cualquier resto de arena. <br>Si son pequeños podemos solo meter un dedo dentro para limpiarlos, sin darlos vuelta. Secamos con papel absorbente para eliminar el exceso de agua.',
+        'img' : '../../../../assets/imagenes/Comida-Española/chipirones.JPG',
+        'pais' : 'españas'
+      },
+      {
+        'nombre' : 'Chorizo a la Sidra',
+        'ingredientes1' : 'Chorizo fresco<br> 1 kg<br> Sidra de manzana natural<br> 250 ml<br> Patata cocida para acompañar (opcional)',
+        'ingredientes2' : '',
+        'preparacion' :'Sacamos la cuerda a los chorizos y los colocamos en una cazuela con fondo. Los pinchamos con la punta de un cuchillo para que no revienten y suelten parte del jugo durante la cocción. Echamos por encima la sidra y ponemos a fuego alto. Cuando empiece a hervir dejamos a fuego vivo durante cinco minutos, lo bajamos y terminamos la cocción. <br> El tiempo dependerá de la frescura, tamaño y calidad del chorizo, pero en unos 15 ó 20 minutos estarán, <br>cuando el alcohol se haya evaporado y reducido el líquido, quedando una salsita en el fondo de la cazuela. <br> Servimos inmediatamente.',
+        'img' : '../../../../assets/imagenes/Comida-Española/chorizo a la sidra.JPG',
+        'pais' : 'españas'
+      },
+      {
+        'nombre' : 'Cocido Madrileño',
+        'ingredientes1' : '1 taza de gallina<br> 1 taza de tocino<br> 1 taza de jamón serrano, en punta<br> 2 tazas de tuétano<br> 1 1/2 tazas de garbanzo, remojados y limpios<br> 2 zanahorias<br> 1 nabo<br> 4 papas',
+       'ingredientes2' : 'Sal al gusto<br> 1/2 tazas de fideo, cabellín<br> 1 taza de col<br> 1/2 tazas de chorizo<br> 1/2 tazas de morcilla de arroz',
+        'preparacion' :'En una olla con agua cocina las carnes, la punta de jamón y los huesos; cuando empiece a hervir agrega los garbanzos;<br> al segundo hervor, agrega la zanahoria, el nabo y cocina por 1 hora. Añade la papa y cocina por aproximadamente 1 horas más o hasta que todos los ingredientes estén suaves. <br>Sazona con sal. Cuela y con el mismo, caldo cocina los fideos. Reserva. En una ollita hierve la col. Escurre y reserva.<br> En una sartén cocina el chorizo y la morcilla. Sirve el caldo con los fideos, los garbanzos, la verdura y las carnes.',
+        'img' : '../../../../assets/imagenes/Comida-Española/cocido madrileño.JPG',
+        'pais' : 'españas'
+      },
+      {
+        'nombre' : 'Croquetas',
+        'ingredientes1' : '2 cucharadas de leche de vaca <br>sal<br> 1/2 cucharaditas de pimienta<br> 1/2 cucharaditas de cebollita verde, picada <br>2 yemas de huevo, batidas<br> 3 cucharadas de harina',
+       'ingredientes2' : '4 tazas de puré de papa<br>1 huevo, batido<br> pan molido <br>aceite, para freír',
+        'preparacion' :'En un bowl ponga el puré de papa, la leche, sal, pimienta, cebollita verde picada, yemas de huevo batidas y harina. <br>Mezcle bien todo y refrigere. Con una cuchara para hacer bolas de helado, forme bolas de la masa de papa y pase por el huevo batido y luego por el pan molido.<br> Fría cada croqueta en un sartén lleno con aceite bien caliente hasta que se dore por todos los lados',
+        'img' : '../../../../assets/imagenes/Comida-Española/croquetas.JPG',
+        'pais' : 'españas'
+      },
+      {
+        'nombre' : 'Escalivada',
+        'ingredientes1' : '4 berenjenas grandes<br> 8 pimientos rojos<br> 2 dientes de ajo picados<br> 1 dl de aceite de oliva<br> Sal.',
+       'ingredientes2' : '',
+        'preparacion' :'Asar las berenjenas y los pimientos a la brasa o al horno. Pelar y quitar la parte del tallo de las berenjenas. <br> Pelar y retirar las semillas a los pimientos. Cortar las verduras en tiras.<br> Espolvorear con ajo picado fino y aderezar con aceite y sal antes de servir.',
+        'img' : '../../../../assets/imagenes/Comida-Española/escalivada.JPG',
+        'pais' : 'españas'
+      },
+      {
+        'nombre' : 'Fideua',
+        'ingredientes1' : '500 gramos de fideos<br> Medio pimiento rojo<br> Medio pimiento verde<br> 2 calamares<br> 200 gramos de gambas<br> Caldo de pescado casero<br> Azafrán o colorante',
+       'ingredientes2' : '',
+        'preparacion' :'Comenzamos la receta de fideuá dorando los fideos en la paella. Los ponemos a fuego medio y vamos dándoles vueltas poco a poco hasta que se vayan dorando. <br>Una vez dorados a nuestro gusto los retiramos y reservamos. En esa paella, rehogamos a fuego medio los pimientos, haciendo un buen sofrito.<br> Ponemos un poco de sal. Luego rectificamos pero con el caldo seguramente que se quede perfecto. Una vez rehogado agregamos los calamares limpios y cortados en trocitos.<br> Dejamos que se hagan unos minutos. Incorporamos los fideos, las gambas peladas y cubrimos con caldo de pescado casero (agregamos el azafrán o el colorante). <br> La cantidad será más o menos la misma en mi caso (500 ml), pero dependerá de los fideos que uséis porque necesitará más o menos.<br> Si necesita más caldo se lo podemos añadir cociendo, es más sencillo que el arroz. Cuando esté listo lo dejamos reposar unos 5 minutos a disfrutar.',
+        'img' : '../../../../assets/imagenes/Comida-Española/fideua.JPG',
+        'pais' : 'españas'
+      },
+      
+      {
+        'nombre' : 'Gambasal ajillo',
+        'ingredientes1' : '600 gr de gambas<br> 4 dientes de ajo<br> 1/2 guindilla<br> aceite<br> sal<br> perejil picado',
+       'ingredientes2' : '',
+        'preparacion' :'Pela las gambas en crudo. Calienta el aceite y fríe los ajos en láminas y la guindilla cortada en aros. Después agrega las gambas, sazona y deja que se hagan unos minutos dándoles vueltas en la sartén.<br> Espolvorea con perejil y sirve.',
+        'img' : '../../../../assets/imagenes/Comida-Española/gambas al ajillo.JPG',
+        'pais' : 'españas'
+      },
+      {
+        'nombre' : 'Paella',
+        'ingredientes1' : '6 salchichas rebanadas 200 g de chorizo cortado en rebanadas 200 g de carne de cerdo cortada en cubos 1 pechuga de pollo sin hueso y cortada en cubos<br> 3 pescados sierra cortados en rebanadas<br> 20 camarones lavados<br> 100 g de almejas lavadas<br> 100 g de ejotes<br> 1 pimiento rebanado en juliana<br> ½ cucharadita de cebolla en polvo<br>',
+       'ingredientes2' : '1 cucharadita de azafrán en polvo<br> 2 cucharadas de consomé en polvo<br> Aceite de oliva suficiente<br> 2 ½ tazas de arroz<br> 6 tazas de agua',
+        'preparacion' :'Si no tienes una paellera, usa una cacerola donde quepan todos los ingredientes y pon a calentar el aceite. A fuego lento, fríe las salchichas y después agrega el pollo, la carne de cerdo, el chorizo, los ejotes y el pimiento, <br> integra perfectamente y después agrega los condimentos (el ajo en polvo, la cebolla en polvo, el consomé, sal y pimienta). Mueve hasta que la carne tome un color dorado.<br> Agrega las tazas de arroz y las de agua y cocina por dos o tres minutos más. Ahora integra el pescado, los camarones, las almejas y el azafrán.<br> Tapa con papel aluminio y deja cocinando a fuego bajo hasta que el agua se evapore y el arroz quede en su punto adecuado de cocción. ¡A disfrutar!',
+        'img' : '../../../../assets/imagenes/Comida-Española/paella.JPG',
+        'pais' : 'españas'
+      },
+      {
+        'nombre' : 'Pimientos Rellenos',
+        'ingredientes1' : '4 Piezas Pimiento morrón limpios<br> 2 Cucharadas Aceite de maíz<br> 2 Tazas Champiñones rebanados<br> 100 Gramos Queso tipo manchego rallado<br> 4 Cucharadas Sazonador Líquido MAGGI®',
+       'ingredientes2' : '',
+        'preparacion' :'Lleva los pimientos al horno de microondas por 7 minutos. Luego, mételos en una bolsa de plástico hasta que suden lo suficiente y de esta manera los puedas pelar más fácilmente. Corta la parte superior de cada pimiento.<br> Aparte, en una sartén con aceite caliente sofríe los champiñones hasta que doren junto con el Líquido Sazonador MAGGI® . Retira del fuego y mezcla con el queso tipo manchego.<br> Rellena los pimientos con esta preparación. Acomódalos en un recipiente y lleva por 30 segundos al horno de microondas.',
+        'img' : '../../../../assets/imagenes/Comida-Española/pimientos rellenos.JPG',
+        'pais' : 'españas'
+      },
+      {
+        'nombre' : 'Pisto',
+        'ingredientes1' : '400 g. de tomates maduros<br> 1 cebolla grande<br> 1 pimiento rojo<br> 1 pimiento verde<br> 1 calabacín<br> 1 diente de ajo<br> 50 ml. de vino blanco',
+       'ingredientes2' : '',
+        'preparacion' :'Lavamos las verduras. Las picamos en “brunoise” (dados pequeños), de similar tamaño. El diente de ajo, bien picadito. En una cazuela o en una sartén alta, echamos una lámina de aceite de oliva virgen extra y calentamos.<br> Cuando coja temperatura, añadimos la cebolla y sofreímos. A continuación el ajo y los pimientos. Mezclamos bien. Salamos al gusto, y añadimos un buen chorro de vino blanco. <br>En este punto, tapamos la cazuela, bajamos a fuego lento y cocinamos 30 minutos. El siguiente paso es incorporar el calabacín. Mezclamos de nuevo, tapamos y seguimos cocinando otros 20 minutos. <br>A fuego bajo, pero que se aprecie un “chup chup” continuo. Los tomates cortados en dados, los trituramos con la batidora, y los añadimos al resto de verduras.<br> Mezclamos, rectificamos de sal si es necesario y dejamos cocinar 20 minutos más (con la cazuela tapada). Pasado el tiempo, tendremos listo un delicioso pisto de verduras.',
+        'img' : '../../../../assets/imagenes/Comida-Española/pisto.JPG',
+        'pais' : 'españas'
+      },
+      {
+        'nombre' : 'Pulpo a la Gallega',
+        'ingredientes1' : 'Suficiente de agua<br> 1 cucharada de sal de mar, para cocer el pulpo<br> 800 gramos de pulpo, entero, limpio<br> 3 papas, con cáscara<br> 2 cucharadas de paprika<br> 2 cucharadas de aceite de oliva<br> 1 pizca de sal<br>',
+       'ingredientes2' : '',
+        'preparacion' :'Hierve agua en una cacerola y agrega sal. Cuando el agua esté hirviendo con una burbuja alta, toma el pulpo de la cabeza, de manera que cuelguen los tentáculos.<br> Metemos el pulpo en agua hirviendo sin soltarlo y lo sacamos 3 veces seguidas, a la tercera lo metemos por completo en el agua hasta que lo cubra. <br> Al hacer esto, el pulpo quedará terso y evitaremos que se despelleje al cocerlo. Cocina por 18 minutos. Pasado el tiempo, agrega las papas y cocina por 20 minutos más. Para comprobar que el pulpo está cocido, <br>puedes atravesar un palillo de madera en el centro del pulpo, si no opone resistencia es que está listo. Sobre una tabla corta el pulpo en trozos medianos y las papas en rodajas.<br> En un plato redondo de madera sirve una cama de papas, coloca encima el pulpo, espolvorea con la paprika, el aceite de oliva y la sal gruesa.<br>',
+        'img' : '../../../../assets/imagenes/Comida-Española/pulpo a la gallega.JPG',
+        'pais' : 'españas'
+      },
+      {
+        'nombre' : 'Tortilla de papas',
+        'ingredientes1' : '5 papas, grandes peladas y en rebanadas muy delgadas<br> 1 cebolla, grande, rebanada en gajos delgaditos<br> 1/2 tazas de aceite de oliva<br> 9 huevos<br> al gusto de pimienta, al gusto',
+       'ingredientes2' : '',
+        'preparacion' :'Ponga a calentar el aceite de oliva en un sarten grande (del tamaño de la tortilla de patatas). Agregue las papas y la cebolla en rebanadas muy delgadas.<br> Cocine a fuego medio moviendo ocasionalmente hasta que la papa se empiece a deshacer y este cocida, unos 20 minutos.<br> Ponga sal y pimienta al gusto. En un plato hondo, mezcle los huevos con un tenedor hasta que se esponjen un poco.<br> Deje cocer con las papas hasta que se vea la orilla dorada y que el centro ya casi no se mueva. Voltee la tortilla en un sartén del mismo tamaño (ya engrasada con aceite de oliva y caliente).<br> Una vez que se termine de cocer, apague el fuego y deje enfriar ligeramente. Desmolde sobre un platón y sirvala a temperatura ambiente.',
+        'img' : '../../../../assets/imagenes/Comida-Española/tortilla de papas.JPG',
+        'pais' : 'españas'
+      },
+      {
+        'nombre' : 'Frito Mallorquin',
+        'ingredientes1' : '0,5 kg. de patatas cortadas a dados<br> 1 cabeza de ajos pelados y chafados<br> 1 cebolla grande picada<br> 2 pimientos rojos cortados a dados<br> 3 hojas de laurel<br> 14 cucharadas soperas de aceite de oliva<br> 50 gramos de guisantes',
+       'ingredientes2' : '200 gramos de habas tiernas troceadas<br> 700 gramos de asaduras de cordero cortadas a dados<br> 1/2 manojo de cebolletas<br> Una ramita de hinojo fresco<br> Sal, pimienta molida y pimentón al gusto',
+        'preparacion' :'Pon una sartén al fuego y añade aproximadamente la mitad del aceite. Después se deben sofreír los ajos y las cebolletas a fuego lento. Añadir las asaduras limpias, subiendo la fuerza al fuego.<br> Dejar cocinar unos 10 minutos removiendo de vez en cuando. Apartar del fuego y reservar en otro recipiente diferente. En la misma sartén utilizada al inicio añadir el resto de aceite, la cebolla y el laurel y cocinar hasta que estén bien hecha.<br> Añadir un poquito de sal y reservar junto al cordero. Después, se deberán sofreír con un poco de aceite todas las verduras (habas, guisantes y pimientos rojos).<br> Una vez que estén bien sofritos, se deberá añadir la cebolla y cordero cocinados con anterioridad y que habíamos reservado. Llega el momento de condimentar al gusto.<br> Añadir las patatas y, para terminar, el hinojo. Dejar cocinar hasta que las patatas estén blandas, removiendo con cuidado para evitar que las patatas se terminen rompiendo.',
+        'img' : '../../../../assets/imagenes/Comida-Española/frito mallorquin.JPG',
+        'pais' : 'españas'
+      },
+      {
+        'nombre' : 'Crema de Catalana',
+        'ingredientes1' : '1 litro de leche 6 yemas de huevo<br> 200 gramos de azúcar<br> 40 gramos de fécula de maíz<br> La piel de media naranja y medio limón<br> Una ramita de canela<br> Fresas y frambuesas<br> Doce ramitas de hierbabuena',
+       'ingredientes2' : '',
+        'preparacion' :'Calentar la leche con la piel de naranja, limón y la canela a fuego bajo hasta que la leche esté a punto de hervir. Apartar del fuego y tapar para dejar que la leche se infusione durante 30 minutos.<br> Colocar en un recipiente las yemas de huevo, añadir la mitad del azúcar y mezclar lo justo para que se integre. Añadir la fécula de maíz hasta que la mezcla tome un color pálido.<br> Pasar la leche por un colador fino sobre los huevos y mezclar hasta que esté todo bien integrado. Vaciar en una olla y dejar a fuego medio, moviendo constantemente con una cuchara de madera o una espátula de plástico.<br> Para saber cuándo alcance el punto adecuado, se debe formar una capa densa en el dorso de la cuchara. Pasa un dedo, si las fases se mantienen separadas, está lista.<br> Quitar del fuego cuando esté en su punto. Colar nuevamente la crema, repartiéndola sobre 6 cazuelitas. Dejar enfriar antes de cubrirlas con plástico y meterlas en el refrigerador durante al menos 4 horas, aunque lo ideal es dejarlas toda la noche.<br> Cuando estén bien cuajadas y a punto de ser servidas, añadir un poco de azúcar por encima y con la ayuda de un soplete de cocina, caramelizar.<br> Servir de inmediato y adornar con media fresa, media frambuesa y dos ramitas de hierbabuena, cuidando no quemarte con el azúcar.',
+        'img' : '../../../../assets/imagenes/Comida-Española/crema de catalana.JPG',
+        'pais' : 'españas'
+      
+      },
+
+{'nomre' : 'TACOS COCHINITA PIBIL', 'ingredientes1' : '1 kg de maciza de cerdo <br> 1 taza de jugo de naranja <br> 3 chiles habaneros en rodajas<br> 1 cubo de achiote <br>3 chiles guajillo hidratados <br>1 taza de vinagre de manzana','ingredientes2' : '½ taza de hojas de cilantro <br>1 cda. de orégano <br>1 cda. de hojas de laurel seco <br>4 limones <br> 1 cebolla morada fileteada ','preparacion' :'Licua el jugo, achiote, guajillo,vinagre, orégano, laurel y salpimienta.<br> Vierte la salsa sobre la carne en una olla exprés y cósela durante 30 minutos.<br> Mezcla la cebolla, chile, vinagre y orégano en un tazón.<br> Sirve la cochinita en tacos, acompaña con la cebolla de manzanos y termina con cilantro','img' : '../../../../assets/imagenes/Comida-Española/sopa de misu.JPG','pais' : 'mexicanas'},
+
+{'nombre' : 'ARROS CON LECHE','ingredientes1' : '1 taza de arroz <br>4 tazas de agua <br> 1 pieza de canela en rama <br>1 sobre de Atole Sabor Cajeta Maizena® ','ingredientes2' : '5 tazas de leche descremada <br> 1/2 taza de azúcar ','preparacion' :'Cocer en su totalidad el arroz en las 4 tazas de agua junto con la canela. <br> Una vez que el arroz esté listo, colar si llega a tener mucha agua, retirar la canela y reservar. <br> Una vez que el arroz esté listo, colar si llega a tener mucha agua, retirar la canela y reservar. <br> Hervir el resto de la leche con el azúcar y cuando suelte el hervor, añadir la mezcla de Maizena® previamente disuelta. <br> Dejar espesar sin dejar de mover y una vez que ha tomado consistencia agregar el arroz <br> Cocinar todo por 5 minutos moviendo regularmente.<br> Repartir en 6 moldes y servir tibio o frío. ','img' : '../../../../assets/imagenes/Comida-Española/sopa de misu.JPG','pais' : 'mexicanas'},
+
+{'nombre' : 'ASADO VERDE','ingredientes1' : '900 grs. Lomo de Cerdo cortado en trozos pequeños <br> 250 grs. Costillita de Cerdo cortada en trozos pequeños (opcional) <br>·6-8 Tomatillos grandes<br>·2 chiles Poblanos <br>·2-3 chiles Jalapeños (agrega mas si te gusta mas picante) <br>·1 Aguacate grande o 2 aguacates medianos <br>·1 diente de Ajo ','ingredientes2' : '¼ taza de Cilantro Fresco <br>·Sal al gusto <br>·Pimienta Negra al gusto <br>·Cominos molidos (opcional)','preparacion' :'Pela los tomatillos y colocalos en una ollita. Quitales el rabo a los chiles y colocalos en la misma ollita con los tomatillos. Agrega el agua suficiente para que estos ingredientes se cubran y cocinalos a fuego alto por 10-15 minutos o hasta que esten blandos.<br>Ya que los tomatillos y los chiles esten blandos, colocalos en la licuadora y agregales el aguacate, el ajo, el cilantro y una taza de agua, sazona con sal y pimienta al gusto (agrega una pizca de cominos si gustas!), muele a velocidad alta hasta que todo este bien combinado en una salsa suave. Reservala por un momento.<br>En una cacerola a fuego medio-alto dora la carne de puerco, (junto a la carne dora las costillitas), puedes agregar una cucharada de aceite si crees que lo necesita.  Sazona la carne con sal y pimienta al gusto, y cocinala  por unos 15 minutos o hasta que empiece a dorarse un poco.<br>Ya que la carne tome un poquito de color,  agregale la salsa verde, agrega mas agua si lo crees necesario para que el asado no te quede muy espeso,  cubrelo con una tapadera y cocina a fuego medio-alto hasta que hierva. <br>Ya que el asado este hirviendo, prueba el sabor, agrega mas sal y pimienta si lo crees necesario, baja el fuego a lo mas bajo y continua cocinando por 15 minutos mas para que la carne termine de cocerse. Ya que la carne este bien blandita, ahora si puedes servir. ','img' : '../../../../assets/imagenes/Comida-Española/sopa de misu.JPG','pais' : 'mexicanas'},
+
+{'nombre' : 'BUÑUEALOS','ingredientes1' : '4 huevos<br>1/4 tazas de azúcar refinada<br>1 taza de aceite vegetal<br>1 taza de aceite vegetal<br>1 cucharadita de polvo para hornear','ingredientes2' : '1 cucharadita de sal de mesa<br>1 taza de azúcar refinada<br>1 taza de azúcar refinada<br>aceite de canola, extra para freir.','preparacion' :'En un tazón grande mezcla los huevos con 1/4 de taza de azúcar y bate hasta que espesen y cobren un color amarillo fuerte.<br>Agrega 1 taza de aceite. Mezcla por separado 1 1/2 tazas de harina, polvo para hornear y sal.<br>Incorpora gradualmente a la mezcla de huevo y revuelve bien.<br>Coloca la masa sobre una superficie enharinada (una la 1/2 taza de harina restante). Amasa bien hasta que se sienta suave.<br>Forma 16 bolsas de masa. Extiende cada una con el rodillo hasta formar círculos de aproximadamente 12 cm de diámetro.<br>Deja reposar sobre papel encerado y sin cubrir durante 10 minutos.<br>Calienta el aceite extra a 175ºC en un sartén hondo.<br>Fríe los buñuelos cruos hasta que se doren, dando vuelta 1 vez.<br>Retire el exceso de grasa con toallas de papel.<br>Espolvorea con una mezcla de azúcar y canela. Guarda en un recipiente hermético.','img' : '../../../../assets/imagenes/Comida-Española/sopa de misu.JPG','pais' : 'mexicanas'},
+
+{'nombre' : 'CHILES POBLANOS',
+ 'ingredientes1' : '5 Piezas Chile poblano pelados y desvenados<br>1 Lata Frijoles refritos bayos<br>200 Gramos Queso Panela cortados en tiras<br>3 Piezas Clara de huevo<br>1 Taza Harina de trigo',
+'ingredientes2' : '3 Piezas Yema<br>1/2 Taza Aceite de maíz para freír<br>3 Piezas Jitomate<br>1/4 Taza Puré de tomate<br>1 Taza Agua<br>2 Cubos Concentrado de Tomate con Pollo CONSOMATE®<br>1/2 Cucharadita Orégano seco<br>2 Cucharaditas Aceite de maíz.',
+  'preparacion' :'Relleno<br>Rellena cada chile con 2 cucharadas de frijoles y con rebanadas de queso, ciérralos con un palillo para evitar que se salga el relleno; pásalos por la harina y reserva.<br>Licúar y freír<br>Para el caldillo, licua los jitomates, el agua, el Concentrado de Tomate con Pollo CONSOMATE® y el Orégano; cuela. En una cacerola calienta las dos cucharadas de aceite y fríe por 10 minutos o hasta que hierva.<br>Batir y freír<br>Por último, bate las claras hasta formar picos duros y agrega las yemas una por una sin dejar de batir; pasa los chiles por el capeado y fríelos en aceite caliente. Escurre sobre papel absorbente y pásalos al caldillo; sirve y ofrece.<br>Consejo culinario<br>Se recomienda mantener limpio el aceite mientras fríes los chiles para obtener mejor un mejor capeado.<br>Consejo nutricional<br>El aceite vegetal se extrae de las estructuras oleaginosas de plantas, los aceites vegetales son ideales para la hidratación y nutrición, así mismo su contenido de ácidos grasos insatura los son benéficos para la salud ya que aportan más energía a nuestro organismo incluso mucho más que las proteínas, harinas y el alcohol.',
+'img' : '../../../../assets/imagenes/Comida-Española/sopa de misu.JPG',
+'pais' : 'mexicanas'
+},
+
+{'nombre' : 'CHURROS','ingredientes1' : '250 g. harina de trigo todo uso (también se puede hacer con harina de panadería)<br>250 g. de agua<br>1 cucharadita de sal (8 gramos aproximadamente)<br>Azúcar para espolvorear','ingredientes2' : 'Aceite de oliva suave para freír o aceite de girasol<br>Papel absorbente de cocina<br>Una churrera manual o una manga pastelera con boca fina.','preparacion' :'Ponemos la harina en un bol amplio. En una cazuela calentamos el agua con la sal.<br>Cuando empiece a hervir la vertemos directamente y de una sola vez sobre la harina. Con una cuchara de madera integramos la harina con el agua. Nos quedará una masa muy pegajosa y bastante compacta.<br>Ahora vamos a introducir esta masa en una churrera o manga pastelera. Este paso es fundamental para que los churros os salgan bien y no tengáis problemas con ellos a la hora de la fritura. La churrera compacta la masa y elimina el aire. Esto evita que los churros luego nos salten en el aceite, por eso es un paso muy importante. Si tenéis máquina para hacer churros la rellenáis con la masa. La mejor opción.<br>Si no tenéis opción de hacer los churros con churrera, tenemos otra posibilidad, una manga pastelera con una boquilla en forma de estrella. Aunque no es lo recomendable, pues no quedan igual que con churrera. Aún así, hay gente que ha conseguido hacer buenos churros con manga. Las mangas pasteleras pueden ser de plástico desechable. Podéis encontrarlas en tiendas de utensilios de repostería o tiendas online de repostería creativa.<br>Vamos haciendo las porciones de churros con la masa cruda sobre un paño de cocina en la encimera. En una forma de que se vaya enfriando la masa y evitar que se abran o estallen durante la fritura.<br>Ponemos al fuego una sartén con abundante aceite de oliva muy suave o aceite de girasol.','img' : '../../../../assets/imagenes/Comida-Española/sopa de misu.JPG','pais' : 'mexicanas'},
+
+{'nombre' : 'ENCHILADAS POTOSINAS','ingredientes1' : '75 gramos de chile ancho, desvenados y sin semillas<br>1 taza de agua, caliente<br>1 cucharada de mantequilla<br>1 cucharada de aceite<br>1/4 tazas de cebolla, finamente picada<br>1 1/4 tazas de queso fresco, desmenuzado<br>','ingredientes2' : '1/2 kilos de maíz, en masa<br>1/2 cucharadas de sal<br>al gusto de aceite, para freír.','preparacion' :'Asar los chiles y dejarlos remojando en agua caliente durante 25 minutos.<br>Hacerlos puré en un procesador de alimentos con 1/2 taza de agua en la que se remojaron.<br>Derretir la mantequilla en un sartén chico y agregar la cebolla. Saltear hasta que se dore. Retirar del fuego y mezclar con el queso. Agregar 1 cucharada de los chiles molidos y mezclar. Reservar.<br>Ponga la masa de maíz en un recipiente y agregue el resto de los chiles molidos y la sal. Amasar durante 5 minutos hasta que los ingredientes estén totalmente mezclados. Cubrir con un trapo húmedo y dejar reposar por 20 minutos.<br>Tome bolitas de masa y ponga entre dos plásticos en un prensador de tortillas. Aplane y haga tortillas. Coloque un poco de la mezcla de queso en el centro de cada tortilla y doble la tortilla por la mitad. Presione los bordes para que se sellen.<br> Repita con el resto de la masa y el relleno. (Salen como 12 enchiladas medianas).<br>Caliente un comal y ase las enchiladas por 2-3 minutos de cada lado. La masa debe de cambiar de color y verse cocida.<br>Rellene un sartén con 1 cm de aceite para freír y ponga 2-3 enchiladas para que se frían por 3-4 minutos de cada lado.<br>Deje escurrir sobre una toalla de papel.','img' : '../../../../assets/imagenes/Comida-Española/sopa de misu.JPG','pais' : 'mexicanas'},
+
+{'nombre' : 'ENCHILADAS','ingredientes1' : '500 gramos de jitomate<br>1/4 cebollas<br>1 diente de ajo<br>3 chiles de árbol<br>1/2 tazas de agua<br>12 tortillas de maíz, fritas<br>5 gramos de pimienta','ingredientes2' : '10 gramos de sal<br>1 rama de cilantro fresco, lavado y desinfectado<br>1/2 pechugas de pollo, cocida y deshebrada<br>5 hojas de lechuga, fileteada<br>150 mililitros de crema ácida<br>200 gramos de queso fresco.','preparacion' :'Licúa el jitomate,la cebolla,el ajo,los chiles y el agua hasta obtener una consistencia líquida.<br>Cuela la salsa,fríela en una sartén y sazona con sal y pimienta.<br>Remoja las tortillas en la salsa, rellena cada tortilla con pollo y salsea.<br>Decora las enchiladas con lechuga,crema ácida y queso.Ofrece.','img' : '../../../../assets/imagenes/Comida-Española/sopa de misu.JPG','pais' : 'mexicanas'},
+
+
+{'nombre' : 'GORDITAS','ingredientes1' : '1/2 cebollas, finamente picada<br>1 taza de chicharrón, prensado<br>1/2 kilos de masa de maíz<br>2 tazas de manteca de cerdo, para freír<br>1/2 tazas de queso fresco, desmoronado','ingredientes2' : '1/2 tazas de cebolla, finamente picada, para servir<br>1/2 tazas de cilantro fresco, finamente picado, para servir<br>al gusto de salsa verde, para acompañar','preparacion' :'Calienta una sartén a fuego medio agrega la cebolla blanca y cocina hasta que se suavice, añade el chicharrón prensado y cocina 10 minutos. Enfría y reserva.<br>Forma bolitas de masa, haz un orificio en el centro y rellena con el chicharrón. Aplana la masa para hacer la gordita, forma un círculo de 8 cm de diámetro.<br>Calienta una ollita con la manteca, fríe las gorditas hasta que doren. Retira las gorditas y escurre sobre papel absorbente.<br>Corta la gordita por la mitad rellena con queso, la cebolla y cilantro. Sirve con salsita. Disfruta.','img' : '../../../../assets/imagenes/Comida-Española/sopa de misu.JPG','pais' : 'mexicanas'},
+
+{'nombre' : 'MOLE','ingredientes1' : '15 chiles anchos<br>12 chiles mulatos y 12 chiles pasilla<br>6 chiles chipotles o morita<br>1/2  cebolla<br>1 cabeza de ajo<br>2 jitomates<br>Lo que se tome con la mano de anís<br>2 o 3 rajitas de canela<br>150 gr de uva pasa<br>100 gr de pepita de calabaza peladas<br>50 gr de almendras<br>100 gr de cacahuate<br>3 clavos (o la punta de una cucharita)<br>1 piloncillo<br>2 tortillas<br>1 pieza de Chocolate Abuelita<br>2 cucharas soperas de manteca de cerdo','ingredientes2' : '1 plátano macho<br>Piezas de guajolote o pollo<br>1 pza mediana de pan blanco<br>Semillas de cilantro<br>1 litro de caldo de pollo.','preparacion' :'1.- El primer paso es limpiar todos los chiles quitándoles las semillas y los rabos. Una vez que termina esto, se tuestan en una sartén; no deben quemarse porque se amarga el mole.<br>2.- Todos los ingredientes van a pasar por el mismo procedimiento, se ponen a cocer en agua por separado, los chiles, los jitomates, los ajos y la cebolla van juntos. Por separado se ponen, una vez tostados, los demás ingredientes que son los que espesarán el mole.<br>3.- Una vez que ya hirvió todo, se muele el chile con el tomate, el ajo y la cebolla.<br>4.- En una cazuela de barro se pone a calentar la manteca y se agrega el piloncillo para que se vaya deshaciendo.<br>5.- Posteriormente y pasado por colador, se agrega la salsa de jitomate con ajo y cebolla.<br>6.- Lo mismo se hace con la espesadura y se deja sazonar muy bien a fuego medio porque salpica; se menea con cuchara de madera para que no se pegue al fondo de la olla.<br>7.- Agregar poco a poco el caldo y la sal, debe sazonarse por al menos 45 minutos para que el chile no quede crudo y tome bien su sabor.<br>8.- Finalmente, agregar el pollo ya cocido y se deja hervir otros 20 minutos. Debe quedar espesito, pero no seco. Se tuesta ajonjolí para ponerlo encima del mole.<br>9.- Se acompaña con arroz rojo, tortillitas calientes o pan blanco.','img' : '../../../../assets/imagenes/Comida-Española/sopa de misu.JPG','pais' : 'mexicanas'},
+
+{'nombre' : 'POSOLE','ingredientes1' : '1 kilo de carne de cerdo, deshebrada<br>1 bolsa de maíz pozolero<br>3/4 cebollas<br>4 dientes de ajo<br>50 gramos de chile guajillo<br>1 cubo de Knorr suiza','ingredientes2' : 'Oréganos.','preparacion' :'Cocer en olla express la carne con 1/4 de cebolla, 1 ajo, agua hasta cubrir la carne y sal. Dejarla cocer por 45 minutos.<br>Sacar la carne de la olla, deshebrar y apartar. En la misma agua de la carne poner a cocer el maíz y agregar un poco más de sal. Dejarlo cocer por 1 hora.<br>Servir el caldo, el maíz y la carne a una olla donde se va a terminar de cocer el pozole.<br>Licuar 3 ajos, media cebolla, chile guajillo y el cubito de knorr. Colar la preparación y servir sobre el caldo.<br>Dejar cocinar el pozole mínimo 15 minutos. Prueba y rectifica de sal si es necesario.','img' : '../../../../assets/imagenes/Comida-Española/sopa de misu.JPG','pais' : 'mexicanas'},
+
+{'nombre' : 'CALDO DE RES','ingredientes1' : '12 tazas de agua<br>2 lbs de trozos de res con hueso<br>1 cabeza de ajo<br>2 hojas de laurel<br>2 a 3 cucharadas de sal<br>4 papas blancas cortadas en cubos de una pulgada<br>3 chiles serranos cortados en trozos<br>1 cebolla blanca pequeña cortada en cubos<br>4 zanahorias cortadas gruesas','ingredientes2' : '3 elotes cortados en 9 trozos<br>4 tazas de repollo verde cortado en trozos de una pulgada (green cabbage)<br>½ taza de cilantro picado<br>16 tortillas de maíz, si las deseas<br>1 lima grande cortada en gajos, si la deseas','preparacion' :'En una olla grande y pesada, vierte las 10 tazas de agua, la carne de res, el ajo, las hojas de laurel y 1 1/2 cucharada de sal. Cocina hasta hervir, retirando la espuma de la parte superior, si es necesario. Tapa la olla, baja el fuego y continúa cocinando entre 1 1/2 hora y 2 horas o hasta que la carne esté blanda.<br>En la licuadora, agrega los chiles serranos, 1/2 cucharadita de sal y 1/4 taza de agua, licúa hasta que esté todo bien mezclado y reserva.<br>Una vez que la carne esté blanda, retira las hojas de laurel y la cabeza de ajo. Agrega las papas en la olla, además de las cebollas, las zanahorias y los elotes. Añade las 2 tazas de agua restantes, prueba el caldo para determinar si tiene suficiente sal y condimenta a gusto. Deja que hierva, luego baja el fuego y continúa cocinando hasta que las papas estén tiernas cuando las pruebes con un tenedor.<br>Cuando las papas estén tiernas, retira los elotes y la carne de la sopa, transfiere a un recipiente grande y tapa para mantener todo caliente.<br>Agrega el repollo (green cabagge) y 1/4 taza de cilantro a la sopa. Cocina durante otros 15 a 20 minutos, hasta que el repollo (col verde) esté tierno pero al dente. Retira la sopa del fuego y déjala reposar durante 15 minutos. Calienta las tortillas de maíz en un comal o sartén caliente y mantenlas tibias en un calentador de tortillas.<br>6 Divide la sopa en 8 recipientes. Agrega el elote y un trozo de carne a cada recipiente. Decora con los gajos de lima, el cilantro y la salsa Serrano para agregar un toque picante.<br>7 Puedes servir con tortillas de maíz tibias, si lo deseas.','img' : '../../../../assets/imagenes/Comida-Española/sopa de misu.JPG','pais' : 'mexicanas'},
+
+{'nombre' : 'TACOS AL PASTOR','ingredientes1' : '2 chiles anchos, desvenados e hidratados<br>2 chiles guajillos, desvenados e hidratados<br>1/2 barras de pasta de achiote<br>1/4 tazas de vinagre blanco<br>1/2 tazas de jugo de naranja, agria<br>4 cucharadas de aceite de maíz<br>1 taza de cebolla, picada finamente','ingredientes2' : '1 taza de cilantro fresco, picado<br>1 kilo de filete de cerdo, en bisteces, salpimentados<br>1/2 cebollas, fileteada<br>6 limones, partidos en cuartos<br>2 tazas de salsa picante, a su elección<br>1 taza de piña, natural asada y picada en trocitos','preparacion' :'Licúa los chiles, el achiote, el vinagre, el jugo de naranja y reservar.<br>Unta la carne con la mezcla de achiote y cubre con el resto de la mezcla. Deja marinar 2 horas.<br>En una sartén bien caliente saltear con un poco de aceite la cebolla fileteada. Agrega la carne marinada hasta que este bien doradita.<br>Pica la carne ya cocinada para formar los tacos.<br>Acompaña con cebolla, cilantro, limón, piña y salsita.<br>','img' : '../../../../assets/imagenes/Comida-Española/sopa de misu.JPG','pais' : 'mexicanas'},
+
+{'nombre' : 'TINGA','ingredientes1' : 'suficiente de agua<br>1/4 cebollas<br>1 cabeza de ajo<br>suficiente de cilantro fresco<br>2 pechugas de pollo<br>6 jitomates<br>1/3 cebollas<br>2 dientes de ajo','ingredientes2' : '220 gramos de chile chipotle<br>1 taza de caldo de pollo<br>2 cucharadas de aceite vegetal<br>2 cebollas<br>suficiente de sal y pimienta','preparacion' :'En una olla hierve el agua y cocina el pollo con la cebolla, el ajo, el cilantro y un poco de sal alrededor de 50 minutos o hasta que esté cocido. Reserva el caldo y desmenuza el pollo.<br>Para el caldillo, licúa los jitomates con la cebolla, el ajo, el chile chipotle, una taza de caldo de pollo, sal y pimienta hasta obtener una mezcla tersa.<br>En un sartén profundo, cocina la cebolla fileteada con el aceite hasta que esté transparente. Agrega el caldillo, deja que suelte el hervor y cocina alrededor de 20 minutos. Añade el pollo, sazona y cocina 10 minutos más. Sirve y acompaña con tostadas y frijoles.','img' : '../../../../assets/imagenes/Comida-Española/sopa de misu.JPG','pais' : 'mexicanas'},
+
+{'nombre' : 'BARBACOA DE RES EN OLLA DE PRESION','ingredientes1' : '1 1/2 libras de carne de res para barbacoa<br>2 cucharadas de sal<br>2 tazas de agua<br>5 dientes de ajo pelados<br>3 hojas de laurel','ingredientes2' : '10 pimientas negras enteras<br>2 cucharaditas de orégano seco<br>1/2 cebolla blanca','preparacion' :'Corta la carne de res en pedazos medianos y ponle sal por todos lados. Deja aparte.<br>Agrega las dos tazas de agua a la olla de presión. Añade dientes de ajo, hojas de laurel, pimienta y orégano. Cubre con la rejilla de la olla de presión.<br>Coloca la carne de res y la cebolla sobre la rejilla. Cierra la olla de presión y coloca la válvula de presión en su lugar (de acuerdo a tu propia olla). Cocina a fuego alto hasta que empiece a chillar, después baja la temperatura de manera tal que la válvula de presión se mueva suavemente pero constantemente.<br>Cuece la carne de acuerdo a las instrucciones de tu olla, en la mía fueron sólo 23 minutos.<br>Con cuidado abre la olla, saca la carne (guardada) un poco de caldo de la cocción en caso de que necesites recalentar la carne, de esta forma no se secará) y desmenúzala con dos tenedores. Estará tan blandita que no te dará ningún trabajo.<br>Sirve en tacos con jugo de limón, cebolla y cilantro picaditos y salsa roja martajada o salsa verde, o salsa de aguacate o pico de gallo.','img' : '../../../../assets/imagenes/Comida-Española/sopa de misu.JPG','pais' : 'italianas'},
+
+{'nombre' : 'PESCADO A LA VERACRUZANA','ingredientes1' : '4 filetes de pescado blanco<br>1 cebolla en medias lunas<br>4 c de jitomates guajes, picados y sin cáscara<br>3 dientes de ajo<br>de taza de alcaparras','ingredientes2' : 'c de aceitunas verdes, en lunas<br>c de perejil<br>1 lata de chiles güeros<br>3 tbsp. de aceite de oliva','preparacion' :'En una sartén grande calienta el aceite de oliva. Fríe la cebolla y el ajo hasta que se sofrían y transparenten.<br>Añade el jitomate. Fríe por 10 minutos o hasta que el jitomate se empiece a deshacer.<br>Agrega el perejil, las alcaparras, las aceitunas y los chiles güeros. Salpimienta y reduce el fuego al mínimo.<br>Mete los pescados a la salsa. Tapa y cocina por 10 minutos.<br>Sirve con una guarnición de arroz blanco.','img' : '../../../../assets/imagenes/Comida-Española/sopa de misu.JPG','pais' : 'mexicanas'},
 ]);
 }
 }
