@@ -121,8 +121,8 @@ class RecetaSeeder {
         'ingredientes1' : '8 tazas de agua 4 pechugas medianas de pollo, sin piel y sin hueso 1 taza de guascas secas (Colombian plant) 2 lbs de papa criolla (yukon gold) 2 lbs de papa sabanera (white potatoes) 1 cebolla mediana picada 2 dientes de ajo picados 4 mazorcas grandes de maíz',
         'ingredientes2' : '1 cubo de caldo de gallina (pollo) 1/2 taza de arvejas o chícharos verdes (peas) Sal al gusto',
         'preparacion' : 'En una olla grande agrega el agua, el pollo y la mitad de las guascas. Déjalo cocinar por aproximadamente 40 minutos. Cuando ya el pollo este cocido lo sacas de la olla y lo colocas en un plato aparte; córtalo en trocitos y cúbrelo con papel aluminio para mantenerlo tibio. No tires el agua. Luego en la misma agua en que cocinaste el pollo debes agregar las dos clases de papa, la cebolla y el ajo. Deja cocinar por aproximadamente 2 horas para que la papa criolla se disuelva completamente. Agrega el pollo cortado en trocitos, las mazorcas, el caldo de gallina, las arvejas verdes (chícharos) y la sal a tu gusto. Mezcla con cuidado todos los ingredientes y déjalos cocinar por una hora más a fuego medio bajo. Agrega la mitad restante de las guascas y cocina por 5 minutos más.',
-        'img' : '../../../../assets/imagenes/Comida-colombiana/Ajiaco.jpg',
-        'pais' : 'Colombiana',
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/Ajiaco.jpg',
+        'pais' : 'Colombianas',
     
 },
 {
@@ -178,8 +178,8 @@ class RecetaSeeder {
         'ingredientes1' : '175 gr de harina de maíz precocida blanca (marca PAN) 270 ml de agua 1/2 cucharada sopera de sal',
         'ingredientes2' : '',
         'preparacion' : 'En un bol añade el agua y diluye la sal. Echa la harina de maíz precocida y mezcla muy bien hasta que se integren todos los ingredientes. Amasa durante unos minutos hasta obtener una mezcla compacta. Toma porciones de masa de unos 100 gr y haz primero una bola y luego aplástala ligeramente para que quede un panecillo de 1,5 cm de grosor, aproximadamente. Pon a calentar una sartén donde quepan bien las arepas o una plancha y engrásala con un poquito de aceite de oliva o de girasol. Cuando la sartén esté caliente, coloca las arepas y cocínalas, aproximadamente, durante 5 minutos por cada lado a fuego medio – alto. Deben dorarse por fuera y cocinarse por dentro, puedes comprobar cómo está abriéndola por la mitad para cerciorarte que la arepa está bien cocida. Y ya tienes unas deliciosas arepas caseras listas para rellenar con tus ingredientes favoritos.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/arepas.jpg',
-        'pais' : 'Colombiana',
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/arepas.jpg',
+        'pais' : 'Colombianas',
     
 },
 {
@@ -187,8 +187,8 @@ class RecetaSeeder {
         'ingredientes1' : '1 lata de agua de coco 1/2 cucharadita de sal 1 taza de arroz de grano mediano 2/3 taza de leche evaporada Ralladura de limón verde',
         'ingredientes2' : '',
         'preparacion' : 'Haz hervir el agua de coco en una cacerola mediana a fuego medio. Agrega la sal y el arroz. Reduce el fuego a medio-bajo; pon la tapa. Cocina esto, revolviéndolo de vez en cuando, de 12 a 15 minutos hasta que el agua esté a punto de ser absorbida por completo. Agrega la leche evaporada. Pon la tapa y cocina el conjunto, revolviéndolo de vez en cuando, de 10 a 15 minutos más o hasta que el arroz esté tierno. Puedes agregar más agua en caso de que sea necesaria para conseguir que el arroz tenga la textura necesaria. Retira la cacerola del fuego. Incorpora, al gusto, la ralladura de limón verde, de así desearlo.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/arroz con coco.jpg',
-        'pais' : 'Colombiana',
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/arroz con coco.jpg',
+        'pais' : 'Colombianas',
     
 },
 {
@@ -196,8 +196,8 @@ class RecetaSeeder {
         'ingredientes1' : '1 ½ kg de maíz pilado Sal Hojas de mazorca grandes Cabuya',
         'ingredientes2' : '',
         'preparacion' : 'Poner a remojar el maíz desde víspera y limpiarlo de impurezas. Botar el agua y cocinar el maíz en agua fresca durante 30 minutos, dejar enfriar. Escurrir el agua, moler el maíz y amasarlo con un poco de sal hasta obtener una pasta suave. Lavar las hojas de mazorca y poner 3 cucharadas de masa en cada una, cubrirla con otra hoja y envolver bien, doblar los extremos y amarrar. Cocinar en agua hirviendo con un poquito de sal durante 30 minutos.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/bollo limpio.jpg',
-        'pais' : 'Colombiana',
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/bollo limpio.jpg',
+        'pais' : 'Colombianas',
     
 },
 {
@@ -205,8 +205,8 @@ class RecetaSeeder {
         'ingredientes1' : '1 kilo yuca al gusto sal 500 gr carne molida 2 cebollas grandes picada 1 zanahoria rallada 4 dientes ajo orégano seco',
         'ingredientes2' : 'pimienta picante molida de la negra 2 cdas vinagre 4 cdas salsa soya 1 cubo caldo de res',
         'preparacion' : 'Poner a sancochar la yuca en abunda te agua con bastante sal, esperar hasta que esté semi blanda. sacar y dejar enfriar. Luego pasarla por un molino. Amasarla Para la carne sofreír la cebolla picada con la zanahoria rallada el ajo, el orégano Luego agregar la carne molida, el vinagre, la salsa soya, el cubo de caldo de res la pimienta, la sal y tapar, dejar cocinar a juego lento Destapar revisar la sazón y esperar a a que seque con esto rellenaremos las empanadas de yuca. Armar las empanadas. Sofreír en abundante aceite. Y listo. ',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/carimañola.jpg',
-        'pais' : 'Colombiana',
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/carimañola.jpg',
+        'pais' : 'Colombianas',
     
 },
 {
@@ -214,8 +214,8 @@ class RecetaSeeder {
         'ingredientes1' : '1 taza de agua 3 cebollas verdes, picadas 2 tazas de leche Sal, al gusto 2 huevos 2 tajadas de pan blanco, cortado en cubos 2 cucharadas de cilantro fresco, picado',
         'ingredientes2' : '',
         'preparacion' : 'Pon a calentar el agua en una olla o cazuela de barro a fuego medio. Agrégale la cebolla verde y déjala cocinar durante 2 minutos. Agrega la leche y la sal. Reduce la temperatura y agrega los huevos. Cocina por 2 minutos o hasta que los huevos estén cocinados. Agrega los trozos de pan sobre la changua y decora con el cilantro picado.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/changua.jpg',
-        'pais' : 'Colombiana',
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/changua.jpg',
+        'pais' : 'Colombianas',
     
 },
 {
@@ -223,8 +223,8 @@ class RecetaSeeder {
         'ingredientes1' : 'Una taza de cuchuco de trigo 2 libras de espinazo de cerdo 14 tazas de agua Una taza de arveja verde 3 dientes de ajo machacados Una ramita de cilantro 3 tallos de cebolla larga 8 papas criollas pequeñas sin pelar Una taza de fríjoles',
         'ingredientes2' : 'Una taza de zanahoria picada en cuadritos 4 papas sabaneras peladas y finamente picadas 5 hojas de repollo troceadas Una taza de habas Sal Pimienta',
         'preparacion' : 'En una olla grande, cocine el espinazo en el agua junto con la cebolla larga, el cilantro y los ajos. Deje hervir a fuego lento durante 45 minutos o hasta que el espinazo esté tierno. Agregue el cuchuco y deje hervir durante 10 o 15 minutos más. Luego, incorpore la papa sabanera, la zanahoria, las arvejas, las habas, los fríjoles y deje cocinar hasta que el cuchuco comience a espesar. Posteriormente, adicione la papa criolla, el repollo y la sal. Cocine a fuego lento durante 20 minutos más revolviendo reiteradamente. En un plato hondo, sirva primero el espinazo y luego vierta la sopa. Decore con cilantro finamente picado. ',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/cuchuco.jpg',
-        'pais' : 'Colombiana',
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/cuchuco.jpg',
+        'pais' : 'Colombianas',
     
 },
 {
@@ -251,7 +251,7 @@ class RecetaSeeder {
         No dejes que se seque, sigue echando el caldo con los ingredientes.
         Servir en un plato el mote  y luego colocar pedazos de cerdo  y rociarlo con el ají colorado, acompañando con pataska o chuño  o al final o dos papas.
         ',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/fritanga.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/fritanga.jpg',
         'pais' : 'colombinas',
     
 },
@@ -273,7 +273,7 @@ class RecetaSeeder {
         Colocar en la plancha una cucharada de la mezcla y bajar la tapa para que se distribuya en toda la superficie.
         Dejar que se cocine por 50 segundos a 1 minuto; levantar la tapa y despegar; repetir la operación hasta que se acabe la mezcla.
         ',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/obleas.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/obleas.jpg',
         'pais' : 'colombinas',
     
 },
@@ -300,7 +300,7 @@ class RecetaSeeder {
         La clave es que tengan un color dorado intenso.
         
         ',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/pan de bono.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/pan de bono.jpg',
         'pais' : 'colombinas',
     
 },
@@ -329,7 +329,7 @@ class RecetaSeeder {
         Cuando estén dorados, sácalos del horno y disfruta de tu pan de yuca.
         
         ',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/pan de yuca.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/pan de yuca.jpg',
         'pais' : 'colombinas',
     
 },
@@ -358,7 +358,7 @@ class RecetaSeeder {
         Rectifique el sabor y cocine unos 10 minutos.
         Sirva y disfrute.
         ',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/rondon.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/rondon.jpg',
         'pais' : 'colombinas',
     
 },
@@ -385,7 +385,7 @@ class RecetaSeeder {
         Prueba el sancocho y ajusta la sal, si gustas. El sancocho estará listo cuando todos los vegetales estén tiernos y el caldo espese un poco.
         Sirve con una lasca de aguacate. Lo puedes acompañar con arroz o pan.
         ',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/sancocho.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/sancocho.jpg',
         'pais' : 'colombinas',
     
 },
@@ -415,7 +415,7 @@ class RecetaSeeder {
         Añadir las papas y el cilantro y cocine por 30 minutos muás o hasta que las papas estén tiernas. 
         Sirva sobre arroz blanco.
         ',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/sudado de pollo.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/sudado de pollo.jpg',
         'pais' : 'colombinas',
     
 },
@@ -916,7 +916,7 @@ class RecetaSeeder {
 */
 
 //BIEN
-{'nombre' : 'AGNOLOTTI','ingredientes1' : '500 gr de harina<br>3 huevos<br>Sal<br>Ingredientes para el relleno:<br>150 gr de carne de ternera picada<br>50 gr de carne de cerdo picada<br>100 gr de mantequilla<br>½ cebolla troceada<br>1 huevo<br>Queso parmesano rallado','ingredientes2' : '1 diente de ajo<br>½ cucharadita de pimienta blanca<br>1 cucharadita de romero<br>1 cucharadita de salvia<br>1½ cucharadita de albahaca<br>½ cucharadita de laurel en polvo<br>Aceite de oliva','preparacion' :'Para empezar esta receta de agnolotti al estilo piamontesa, primero hacemos una mezcla con la harina, el huevo y una pizca de sal. Si vemos que nos queda muy seca añadiremos un poquito de agua. Por el contrario, si vemos que queda la masa húmeda, añadimos un poquito más de harina. Una vez bien amasado lo dejamos en reposo durante 15 minutos aproximadamente.<br>Mientras tanto, hacemos otra mezcla en un bol con la carne de cerdo, la carne de ternera, una pizca de sal, pimienta, romero, salvia, albahaca y laurel. Reservamos. Después pelamos y cortamos la cebolla y el diente de ajo lo más pequeño que podamos. Rehogamos en una sartén con un poco de aceite de oliva y luego lo mezclamos con la carne para el relleno.<br>En este momento extendemos la masa con la ayuda de un rodillo de madera previamente enharinado. Cortamos la masa en cuadrados de unos 4×4 centímetros. Para ello podemos ayudarnos de un cortapastas especial de cocina, pero si no disponemos de ello podemos hacerlo con un cuchillo que corte bien.<br>Después colocamos en el centro de cada cuadrado un poco de la mezcla de relleno. A continuación, mojamos los bordes con un poquito de agua y tapamos con otro cuadrado de masa cerrándolo bien. Este procedimiento lo repetimos hasta terminar toda la masa.<br>Por último solo nos queda cocer los agnolotti en una olla con abundante agua hirviendo con una pizca de sal. Contaremos unos 5 minutos a partir de que comience la ebullición. Luego los escurrimos bien y los emplatamos calientes con la mantequilla derretida por encima. Antes de servir a la mesa nuestros agnolotti a la piamontesa añadimos queso parmesano a nuestro gusto. Buen provecho!!','img' : '../../../../assets/imagenes/Comida-Italiana/sopa de agnolotti.jpg','pais' : 'Italianas'},
+{'nombre' : 'AGNOLOTTI','ingredientes1' : '500 gr de harina<br>3 huevos<br>Sal<br>Ingredientes para el relleno:<br>150 gr de carne de ternera picada<br>50 gr de carne de cerdo picada<br>100 gr de mantequilla<br>½ cebolla troceada<br>1 huevo<br>Queso parmesano rallado','ingredientes2' : '1 diente de ajo<br>½ cucharadita de pimienta blanca<br>1 cucharadita de romero<br>1 cucharadita de salvia<br>1½ cucharadita de albahaca<br>½ cucharadita de laurel en polvo<br>Aceite de oliva','preparacion' :'Para empezar esta receta de agnolotti al estilo piamontesa, primero hacemos una mezcla con la harina, el huevo y una pizca de sal. Si vemos que nos queda muy seca añadiremos un poquito de agua. Por el contrario, si vemos que queda la masa húmeda, añadimos un poquito más de harina. Una vez bien amasado lo dejamos en reposo durante 15 minutos aproximadamente.<br>Mientras tanto, hacemos otra mezcla en un bol con la carne de cerdo, la carne de ternera, una pizca de sal, pimienta, romero, salvia, albahaca y laurel. Reservamos. Después pelamos y cortamos la cebolla y el diente de ajo lo más pequeño que podamos. Rehogamos en una sartén con un poco de aceite de oliva y luego lo mezclamos con la carne para el relleno.<br>En este momento extendemos la masa con la ayuda de un rodillo de madera previamente enharinado. Cortamos la masa en cuadrados de unos 4×4 centímetros. Para ello podemos ayudarnos de un cortapastas especial de cocina, pero si no disponemos de ello podemos hacerlo con un cuchillo que corte bien.<br>Después colocamos en el centro de cada cuadrado un poco de la mezcla de relleno. A continuación, mojamos los bordes con un poquito de agua y tapamos con otro cuadrado de masa cerrándolo bien. Este procedimiento lo repetimos hasta terminar toda la masa.<br>Por último solo nos queda cocer los agnolotti en una olla con abundante agua hirviendo con una pizca de sal. Contaremos unos 5 minutos a partir de que comience la ebullición. Luego los escurrimos bien y los emplatamos calientes con la mantequilla derretida por encima. Antes de servir a la mesa nuestros agnolotti a la piamontesa añadimos queso parmesano a nuestro gusto. Buen provecho!!','img' : '../../../../assets/imagenes/Comida-Italiana/agnolotti.jpg','pais' : 'Italianas'},
 
 {'nombre' : 'CAPRESE','ingredientes1' : 'Tomate 1<br>Mozzarella fresca una bola 250 g<br> Albahaca unas hojas de tamaño grande<br>Aceite de oliva virgen extra para aliñar','ingredientes2' : 'Vinagre de Módena unas gotas<br>Sal y pimienta al gusto','preparacion' :'Es una receta tan sencilla que no tiene ningún misterio. Lavamos bien el tomate y la albahaca y los secamos con papel de cocina. Secamos también la bola de mozzarella para facilitarnos la labor de cortarla en rodajas.<br>Por su parte, a las hojas de albahaca, les retiramos el tallo para que en la ensalada, esté la parte más sabrosa solamente. Cortamos el tomate en rodajas finas. Es preferible utilizar tomates maduros y con mucho sabor para notar el contraste de los ingredientes.<br>En un plato colocamos una rodaja de tomate y seguidamente una rodaja de mozzarella acaballada sobre él. Sobre cada loncha de queso mozzarella colocamos una hoja de albahaca. Repetimos la operación hasta cerrar el círculo. Decoramos con un cogollo de albahaca en el centro.','img' : '../../../../assets/imagenes/Comida-Italiana/caprese.jpg','pais' : 'Italianas'},
 
@@ -928,7 +928,7 @@ class RecetaSeeder {
 
 {'nombre' : 'LASAÑA','ingredientes1' : '3 cucharadas de aceite de oliva<br>1 taza de cebolla, picada finamente<br>2 cucharadas de ajo, picado finamente<br>1 taza de apio, picado finamente<br>1 taza de zanahoria, picada en cubos chicos<br>1 taza de jitomate, picado en cubos chicos<br>500 gramos de carne de res molida<br>al gusto de sal<br>al gusto de pimienta<br>1/2 tazas de puré de tomate','ingredientes2' : '1/2 tazas de vino tinto<br>1 cucharadita de tomillo<br>1 cucharadita de orégano<br>1 hoja de laurel<br>2 cucharadas de mantequilla<br>3 cucharadas de harina<br>1 1/2 tazas de leche<br>1/2 cucharaditas de pimienta blanca<br>1/4 cucharaditas de nuez moscada<br>suficiente de pasta para lasaña<br>suficiente de agua<br>suficiente de queso manchego, en láminas.','preparacion' :'Para la carne, calienta aceite de oliva en una sartén a temperatura media y añade la cebolla, el ajo, el apio, la zanahoria, el jitomate y la carne de res; agrega el vino tinto, el puré de tomate, el tomillo, el orégano, el laurel y sazona con sal y pimienta; deja cocinar por 20 minutos hasta que se evapore el líquido. Reserva.<br>Para la bechamel, en una olla a temperatura media, derrite la mantequilla y agrega la harina, dora por unos minutos y agrega la leche; sazona con pimienta blanca, sal y nuez moscada. Cocina por 5 minutos hasta que espese y reserva.<br>Para la pasta, calienta el agua en una olla hasta que hierva, agrega suficiente sal y cocina las láminas de pasta por 5 minutos. Retira y reserva.<br>Para armar la lasaña, coloca una capa de pasta, una de salsa bechamel, una de carne y una de queso, repite los pasos hasta llenar el molde, termina con una capa de queso y hornea por 20 minutos. Corta y sirve.','img' : '../../../../assets/imagenes/Comida-Italiana/lasaña.jpg','pais' : 'Italianas'},
 
-{'nombre' : 'MINESTRONE','ingredientes1' : 'Alubias blancas 100 g<br>Judías verdes redondas bobby 100 g<br>Zanahoria 2<br>Patata 2<br>Calabacín 1<br>Apio 1<br>Tomate 2','ingredientes2' : 'Diente de ajo 2<br>Cebolla 2<br>Pasta corta seca 120 g<br>Queso Parmesano 80 g<br>Albahaca 6<br>Aceite de oliva virgen extra , 3 cucharadas soperas<br>Caldo de pollo concentrado 1<br>Sal y pimienta al gusto.','preparacion' :'Comenzaremos poniendo durante ocho horas las alubias blancas en remojo. Pasado este tiempo las cubrimos en una cazuela con agua fría y las dejamos cocer durante una hora. Esto también se podía hacer en la olla exprés y así se reduce mucho el tiempo de preparación.<br>Cortamos el resto de las hortalizas en pequeños dados. Cuando las alubias blancas están cocidas las escurrimos reservando el líquido. En la cazuela ponemos a calentar el aceite de oliva y salteamos la cebolla picada durante unos tres minutos. Añadimos las patatas, las zanahorias, el calabacín y el apio. Removemos y cocemos durante otros tres minutos más.<br>Añadimos el ajo, la pastilla de caldo, las alubias blancas, las judías verdes, el tomate y el agua reservada de cocer las habas. Cocemos una hora a fuego medio.<br>Una vez pasado el tiempo añadimos la pasta, dejamos otros diez minutos a fuego medio. Salpimentamos. En el momento de servir añadir las hojas de albahaca y el queso parmesano rallado.','img' : '../../../../assets/imagenes/Comida-Italiana/sopa de minestrone.jpg','pais' : 'Italianas'},
+{'nombre' : 'MINESTRONE','ingredientes1' : 'Alubias blancas 100 g<br>Judías verdes redondas bobby 100 g<br>Zanahoria 2<br>Patata 2<br>Calabacín 1<br>Apio 1<br>Tomate 2','ingredientes2' : 'Diente de ajo 2<br>Cebolla 2<br>Pasta corta seca 120 g<br>Queso Parmesano 80 g<br>Albahaca 6<br>Aceite de oliva virgen extra , 3 cucharadas soperas<br>Caldo de pollo concentrado 1<br>Sal y pimienta al gusto.','preparacion' :'Comenzaremos poniendo durante ocho horas las alubias blancas en remojo. Pasado este tiempo las cubrimos en una cazuela con agua fría y las dejamos cocer durante una hora. Esto también se podía hacer en la olla exprés y así se reduce mucho el tiempo de preparación.<br>Cortamos el resto de las hortalizas en pequeños dados. Cuando las alubias blancas están cocidas las escurrimos reservando el líquido. En la cazuela ponemos a calentar el aceite de oliva y salteamos la cebolla picada durante unos tres minutos. Añadimos las patatas, las zanahorias, el calabacín y el apio. Removemos y cocemos durante otros tres minutos más.<br>Añadimos el ajo, la pastilla de caldo, las alubias blancas, las judías verdes, el tomate y el agua reservada de cocer las habas. Cocemos una hora a fuego medio.<br>Una vez pasado el tiempo añadimos la pasta, dejamos otros diez minutos a fuego medio. Salpimentamos. En el momento de servir añadir las hojas de albahaca y el queso parmesano rallado.','img' : '../../../../assets/imagenes/Comida-Italiana/minestrone.jpg','pais' : 'Italianas'},
 
 {'nombre' : 'OSSOBUCO','ingredientes1' : '4 trozos de osobuco de ternera<br>2 cebolla<br>1 zanahoria<br>1 puerro<br>2 ajos<br>2 tomates maduros<br>1 vaso de vino tinto<br>Caldo de verduras o de carne (No pongo medida porque iremos poniendole en función de lo que vaya necesitando)','ingredientes2' : '10 granos de pimienta<br>5 clavos de olor<br>2 hoja de laurel<br>Sal<br>Harina<br>Aceite de oliva','preparacion' :'1.- Comenzamos dando unos cortes con el cuchillo en los bordes de la carne. Esto se hace para que al cocerlo no se deforme la pieza y quede plana.<br>2.- Continuamos rebozando en un poco de harina los trozos de carne de ternera. Lo haremos para sellar la carne en la cacerola.<br>3.- Sellamos las rodajas de osobuco, es decir, las doramos a fuego fuerte. Una vez doradas por ambos lados retiramos y reservamos.<br>4.- En una cacerola grande pochamos la cebolla, el ajo, el puerro y la zanahoria.<br>5.- Una vez pochados agregamos los tomates pelados y sin pepitas. Rehogamos durante unos 5 minutos más.<br>6- Incorporamos a la cacerola la carne sellada, un vaso de vino tinto, las pimientas, las hojas de laurel y los clavos de olor. Dejamos que se evapore el alcohol, como unos 3 minutos cociendo a fuego fuerte.<br>7.- Una vez evaporado el alcohol, cubrimos con el caldo de carne o verduras y dejamos cocer a fuego medio durante 2 horas. Yo prefiero poco a poco antes que hacerlo 30 minutos en una olla express. Si se va quedando sin caldo, le volvéis a poner un poco más. Yo a la hora de cocción le vuelvo a agregar un poco más de caldo o agua, lo que queráis.','img' : '../../../../assets/imagenes/Comida-Italiana/ossobuco.jpg','pais' : 'Italianas'},
 
@@ -949,6 +949,24 @@ class RecetaSeeder {
 'img' : '../../../../assets/imagenes/Comida-Italiana/tiramisu.jpg',
 'pais' : 'Italianas'
 },
+{
+        'nombre' : 'Pastel Italiano',
+        'ingredientes1' : '2 tazas de harina de todo uso 1 cucharadita de bicarbonato de sodio 1/2 cucharadita de polvo de hornear 1 tazas ( 2 barritas ) de mantequilla suavizada 1 1/2 tazas de azúcar granulada 1/2 taza de azúcar morena<br> 2 cucharaditas de extracto de vainilla<br> 1/2 cucharadita de extracto de almendra<br> 5 huevos<br> 1 taza de suero de leche<br> 14 onzas de coco rallado<br> 1 1/2 tazas de nuez tostada',
+       'ingredientes2' : '2 quesos crema de 8 onzas cada uno<br> 1 taza ( 2 barritas ) de mantequilla<br> 2 libras de azúcar glass<br> 2 cucharaditas de extracto de vainilla<br> 1/2 cucharadita de extracto de almendra<br> 1/2 taza de coco rallado<br> 1/2 taza de nueces tostadas<br>',
+        'preparacion' :'Precalentar el horno a 180°C. Preparar 3 moldes redondos para pastel de 9 pulgadas cada uno, poniéndoles manteca vegetal, mantequilla o aceite en spray para cocinar y harina, checando que queden muy bien cubiertos para evitar que se pegue el pastel y reservar. <br>Tamizar la harina, el bicarbonato de sodio y el polvo para hornear, todos juntos. En un bowl de una batidora eléctrica, batir hasta acremar la mantequilla suavizada, el azúcar granulada, el azúcar morena, el extracto de vainilla y el extracto de almendras, hay que batir hasta que la mezcla tome un color beige claro y esté cremosa aproximadamente de 3 a 4 minutos. <br>Agregamos los huevos, uno a uno batiendo bien después de cada adición. Luego hay que agregar los ingredientes secos que son la harina, el bicarbonato de sodio y el polvo de hornear con el suero de leche, alternadamente. Batimos hasta que los ingredientes estén perfectamente combinados.<br> Después mezclamos en un bowl pequeño mezclamos la mitad del coco rallado con una    taza de nueces, esto lo hacemos con una espátula o una cuchara. Dividimos la mezcla de la masa en tres partes iguales y la ponemos en los moldes previamente engrasados y enharinados.<br> Los metemos a hornear por aproximadamente 25 a 30 minutos o hasta que al insertar un palillo en el centro del pan éste salga limpio. Luego los ponemos a que se enfrien completamente sobre una rejilla para enfriar.<br> Para hacer el frosting: Batir juntos el queso crema y la mantequilla hasta que la mezcla esté suave, esponjosa y tome un color amarillo claro. Luego agregamos la vainilla y de una manera gradual, poco a poco, agregamos el azúcar glass, batimos hasta que la mezcla esté suave y cremosa.<br> Ponemos los panes en un plato y entre cada pan ponemos frosting como relleno, los acomodamos para que queden las capas bien alineadas y embetunamos todo el pastel, ponemos frosting en la parte superior y por los lados y rociamos la parte superior, después de ponerle también frosting, con nueces. <br>En los lados le ponemos e   l coco dorado y un poco de nueces y así terminamos de decorar nuestro pastel italiano de crema',
+        'img' : '../../../../assets/imagenes/Comida-Italiana/pastel.jpg',
+        'pais' : 'Italianas'
+      },
+      
+      {
+        'nombre' : 'Torta Caprese',
+        'ingredientes1' : '200 g de chocolate amargo <br> 5 huevos, separados y a temperatura ambiente<br> 1 pizca de sal<br> 180 g de azúcar estándar<br> 200 g de almendras molidas<br> 25 g de cocoa en polvo<br>',
+       'ingredientes2' : '1 cucharadita de polvo para hornear<br> Azúcar glass',
+        'preparacion' :'Derrite el chocolate en el microondas o a baño María. Reserva. Precalienta el horno a 170 °C. Forra con papel para hornear el fondo de un molde desmontable de 22 centímetros.<br> Bate la mantequilla con el azúcar estándar en un tazón, hasta que se esponje. Agrega las yemas de huevo, una por una, batiendo bien después de cada adición. Agrega las almendras y envuelve con cuidado en el batido de mantequilla. Incorpora el chocolate, revolviendo muy bien.<br> Bata las claras de huevo con la sal, hasta alcanzar el punto de turrón. Cierne la cocoa junto con el polvo para hornear; vierte dentro de la masa y revuelve con cuidado. Por último, envuelve las claras batidas.<br> Vierte la masa dentro del molde y distribuye uniformemente. Hornea en el horno precalentado entre 50 y 55 minutos, hasta que el pastel pase la prueba del palillo. <br>Después de los primeros 30 minutos de cocción, revisa el pastel y si la superficie se ve seca, tapa con papel aluminio mientras termina de cocerse. Una vez cocido el pastel, apaga el horno y deja el pastel adentro con la puerta abierta para que se entibie. <br>Coloca el pastel tibio sobre una rejilla enfriadora y deja que se enfríe completamente. Ya frío, vierte sobre un plato y retira el papel con cuidado. Voltea de nuevo sobre otro plato y espolvorea con azúcar glass.',
+        'img' : '../../../../assets/imagenes/Comida-Italiano/torta caprese.jpg',
+        'pais' : 'Italianas'
+      },
+      
 
 {
         'nombre' : 'Dorayaki',
@@ -1067,6 +1085,22 @@ class RecetaSeeder {
         'ingredientes2' : '200 gramos de camarón, picado en trozos pequeños<br> 1/3 tazas de salsa de soya<br> 4 tazas de agua<br> 1/4 cebollas, picada finamente<br> 1/2 kilos de surimi, finamente picado, para el tampico<br> 1/2 barras de queso crema<br> 2 cucharadas de mayonesa<br> 2 cebollitas cambray, finamente picada (incluye los tallos)<br> al gusto de sal.',
         'preparacion' :'Para el arroz: Fríe el arroz en el aceite, cuando este un poco dorado agrega las 4 tzas de agua. Espera a que hierva, tapa y baja el fuego.<br> Espera a que se consuma el agua completamente cuidando que no se pegue el arroz y apaga.<br> En una sartén fríe primero el pollo con un poco de sal, reserva. En la misma sartén fríe la carne con poca sal, reserva. Por último fríe los camarones con muy poca sal y reservar.<br> Agrega la cebolla y sofríe por un momento.<br> Luego agrega la zanahoria y un minuto después agrega la calabaza.<br> Incorpora todas las carnes, cuidando que la verdura no se cocine mucho, para que quere crujiente. Agrega el arroz y mezcla, vierte la salsa de soya e integra. Apaga en cuanto todo el arroz ya tenga el color de la salsa.<br> Tampico: Con un tenedor o con los dedos deshebrar finamente el surimi.<br> En un bowl mézclalo la mayonesa, queso crema, cebollita cambray. Rectifica sal y agregar si es necesario.',
         'img' : '../../../../assets/imagenes/Comida-Japonesa/yakimeshi.jpg',
+        'pais' : 'Japonesas'
+      },
+      {
+        'nombre' : 'Pastel Japones',
+        'ingredientes1' : '250 gr. de queso crema<br> 50 gr. de mantequilla <br> 100 ml. de leche entera<br> 8 yemas de huevo<br> Una pizca de sal<br> El zumo de medio limón<br> 70 gr. de harina <br> 50 gr. de Maicena',
+       'ingredientes2' : '8 claras de huevo<br> 150 gr. de azúcar<br> ¼ de cucharadita de crémor tártaro<br> Azúcar glass para decorar',
+        'preparacion' :'Batimos el queso crema, la mantequilla y la leche con el batidor plano de la Kitchen Aid durante unos 5 minutos hasta que se integre bien.<br> Añadimos las yemas y seguimos batiendo hasta integrar, por último añadimos la pizca de sal y el zumo de limón. Y seguimos batiendo bien unos minutos más.<br> Tamizamos la harina, la Maicena y añadimos. Seguimos batiendo con el batidor plano de la Kitchen Aid. Volcamos la mezcla en un bol amplio y reservamos.<br> Si no tenemos un bol de repuesto lavamos el bol de la Kitchen  o nuestro robot para montar las claras. Recuerda que para montar las claras el bol que utilicemos tiene que estar completamente limpio<br> A estas alturas vamos preparando el molde y encendemos el horno, introduciendo una bandeja con agua para que se vaya calentando para el posterior baño María. Encenderemos a 160 grados.<br> En cuanto al molde yo he usado uno de 20 cm. de diámetro desmontable pero también puedes utilizar uno de 20 x 7,5 cm. En la base del ponemos papel vegetal, y después cortamos otra tira de papel vegetal y pegamos con un poco de mantequilla a los laterales del molde, <br>dejando que sobresalga el papel por el borde del molde, puesto que luego sube bastante la tarta. Además forramos la base del molde y parte de los laterales con papel de aluminio para evitar que entre agua dentro del molde durante el horneado al baño maría.<br> Continuamos batiendo con el batidor de globo las claras hasta que empiecen a espumar, en este punto añadimos el crémor tártaro y seguimos batiendo. <br>Una vez que empiecen las claras a blanquear añadimos poco a poco el azúcar hasta que las claras empiecen a formar picos. Aunque debemos conseguir un merengue firme, no debemos pasarnos, porque si no nos costaría más integrar después.<br> Una vez terminadas de montar las claras las vamos añadiendo poco a poco a la mezcla anterior que teníamos reservada hasta integrar todo.',
+        'img' : '../../../../assets/imagenes/Comida-Española/pastel japones.jpg',
+        'pais' : 'Japonesas'
+      },
+      {
+        'nombre' : 'Torta Navideña',
+        'ingredientes1' : '40 g de mantequilla sin sal<br> 30 ml de leche entera<br> 4 huevos grandes<br> 120 g de azúcar<br> 120 g de harina leudante<br> 30 ml de Honteri Mirin',
+       'ingredientes2' : '750 ml de nata para montar<br> 40 g de azúcar<br> 2 bandejas de fresas',
+        'preparacion' :'Forra con papel un molde de 20 cm y precalienta el horno a 180 ºC.  Derrite la mantequilla al baño maría. Cuando se haya derretido, mézclala con la leche y reserva. En otro cuenco, casca los huevos y bátelos, luego ponlos al baño maría y bate constantemente para que no se cocinen como huevos revueltos.<br> Bate hasta que la mezcla esté a la misma temperatura que tu dedo y luego retírala del fuego. En una batidora de repostería equipada con varillas, añade la mezcla de huevo y bate a alta velocidad (nivel 10) hasta que la mezcla esté esponjosa (unos 2 minutos).<br> La masa debe estar suelta pero ser espesa y brillante. Cuando tenga un color pálido, esté esponjosa y haya triplicado su volumen, reduce la batidora a baja velocidad (nivel 4) durante varios segundos y luego deja de batir.<br> Saca un poco de la mezcla y viértela sobre el resto: si se queda encima de la mezcla, has llegado al «punto letra». Sácala de la batidora. Añade la mitad de la harina y mezcla con suavidad pero completamente. Para ello, rota el cuenco lentamente a la vez que mueves tus varillas en un movimiento hacia abajo y luego hacia arriba.<br> Añade el resto de la harina y mezcla suavemente para asegurarte de que toda la harina se incorpore rápidamente para que tu mezcla no se desinfle.<br> Saca una cucharada de la masa del cuenco, añádela a la mezcla de mantequilla y leche y mezcla muy bien. Vuelve a añadir la mezcla a la masa vertiéndola sobre la espátula de silicona (esto evita que la mezcla deshinche la masa). Incorpora suavemente. Cuando levantes la espátula, la masa debe caer como una cinta.<br>Ahora vierte la masa en el centro del molde, justo desde arriba. Debes evitar introducir aire extra en la masa en este punto. Recoge la masa sobrante del cuenco y viértela en los bordes del molde, no en el centro.<br> Da golpecitos al molde en la encimera para liberar las burbujas de aire. En el horno precalentado, hornea a 180 ºC (o a 160 ºC para un horno de convección) durante 20-25 minutos.<br> Para comprobar que el bizcocho está hecho, al pinchar en el medio, el palillo debe salir limpio. Tan pronto como saques el molde del horno, dale golpecitos en la encimera, lo que alterará la masa e impedirá que se desinfle.<br> Con cuidado, saca el bizcocho, colócalo en una rejilla de enfriamiento y cúbrelo con un trapo mojado hasta que se enfríe para mantenerlo húmedo.<br> Calienta el Honteri y pinta con él el fondo de la tarta con un pincel de repostería: esto ayudará al bizcocho a retener la humedad. Ahora bate toda la nata y prepara las fresas; corta la mitad de las fresas por la mitad.<br> Corta la tarta en dos por la mitad y coloca la mitad de las fresas cortadas a lo largo de la mitad inferior. Rellena todos los huecos con nata montada para crear una superficie plana. <br>Después coloca la mitad superior del bizcocho encima y procede a cubrir todos los lados y la parte superior con la nata. Cuando esté listo, alísalo con una espátula y refrigera la tarta durante 1 hora antes de añadir las últimas fresas y toques de nata.',
+        'img' : '../../../../assets/imagenes/Comida-Japonesa/pastel navidad.jpg',
         'pais' : 'Japonesas'
       },
        
@@ -1203,16 +1237,16 @@ class RecetaSeeder {
         'ingredientes1' : '8 tazas de agua<br> 4 pechugas medianas de pollo<br> 1 taza de guascas secas <br> 2 lbs de papa criolla<br> 2 lbs de papa sabanera <br> 1 cebolla mediana picada<br>',
         'ingredientes2' : '4 mazorcas grandes de maíz<br> 1 cubo de caldo de gallina<br> 1/2 taza de arvejas o chícharos verdes<br> Sal al gusto',
         'preparacion' :'En una olla grande agrega el agua, el pollo y la mitad de las guascas. Déjalo cocinar por aproximadamente 40 minutos. Cuando ya el pollo este cocido lo sacas de la olla y lo colocas en un plato aparte; córtalo en trocitos y cúbrelo con papel aluminio para mantenerlo tibio. <br> No tires el agua. Luego en la misma agua en que cocinaste el pollo debes agregar las dos clases de papa, la cebolla y el ajo. Deja cocinar por aproximadamente 2 horas para que la papa criolla se disuelva completamente.<br> Agrega el pollo cortado en trocitos, las mazorcas, el caldo de gallina, las arvejas verdes (chícharos) y la sal a tu gusto. Mezcla con cuidado todos los ingredientes y déjalos cocinar por una hora más a fuego medio bajo. Agrega la mitad restante de las guascas y cocina por 5 minutos más.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/Ajiaco.jpg',
-        'pais' : 'Colombiana'
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/Ajiaco.jpg',
+        'pais' : 'Colombianas'
       },
       {
         'nombre' : 'Arepas',
         'ingredientes1' : '175 gr de harina de maíz precocida blanca <br> 270 ml de agua<br> 1/2 cucharada sopera de sal',
         'ingredientes2' : '',
         'preparacion' :'En un bol añade el agua y diluye la sal. Echa la harina de maíz precocida y mezcla muy bien hasta que se integren todos los ingredientes. Amasa durante unos minutos hasta obtener una mezcla compacta.<br> Toma porciones de masa de unos 100 gr y haz primero una bola y luego aplástala ligeramente para que quede un panecillo de 1,5 cm de grosor, aproximadamente.<br> Pon a calentar una sartén donde quepan bien las arepas o una plancha y engrásala con un poquito de aceite de oliva o de girasol. Cuando la sartén esté caliente, coloca las arepas y cocínalas, aproximadamente, durante 5 minutos por cada lado a fuego medio – alto. <br> Deben dorarse por fuera y cocinarse por dentro, puedes comprobar cómo está abriéndola por la mitad para cerciorarte que la arepa está bien cocida. Y ya tienes unas deliciosas arepas caseras listas para rellenar con tus ingredientes favoritos.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/arepas.jpg',
-        'pais' : 'Colombiana'
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/arepas.jpg',
+        'pais' : 'Colombianas'
       },
       
       {
@@ -1220,8 +1254,8 @@ class RecetaSeeder {
         'ingredientes1' : '1 lata de agua de coco<br> 1/2 cucharadita de sal<br> 1 taza de arroz de grano mediano<br> 2/3 taza de leche evaporada <br> Ralladura de limón verde',
         'ingredientes2' : '',
         'preparacion' :'Haz hervir el agua de coco en una cacerola mediana a fuego medio. Agrega la sal y el arroz. Reduce el fuego a medio-bajo; pon la tapa. <br> Cocina esto, revolviéndolo de vez en cuando, de 12 a 15 minutos hasta que el agua esté a punto de ser absorbida por completo. Agrega la leche evaporada. Pon la tapa y cocina el conjunto, revolviéndolo de vez en cuando, de 10 a 15 minutos más o hasta que el arroz esté tierno. <br> Puedes agregar más agua en caso de que sea necesaria para conseguir que el arroz tenga la textura necesaria. Retira la cacerola del fuego. Incorpora, al gusto, la ralladura de limón verde, de así desearlo.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/arroz con coco.jpg',
-        'pais' : 'Colombiana'
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/arroz con coco.jpg',
+        'pais' : 'Colombianas'
       },
       
       {
@@ -1229,8 +1263,8 @@ class RecetaSeeder {
         'ingredientes1' : '1 ½ kg de maíz pilado<br>Sal Hojas de mazorca grandes<br> Cabuya',
         'ingredientes2' : '',
         'preparacion' :'Poner a remojar el maíz desde víspera y limpiarlo de impurezas. Botar el agua y cocinar el maíz en agua fresca durante 30 minutos, dejar enfriar.<br> Escurrir el agua, moler el maíz y amasarlo con un poco de sal hasta obtener una pasta suave. Lavar las hojas de mazorca y poner 3 cucharadas de masa en cada una, cubrirla con otra hoja y envolver bien, doblar los extremos y amarrar.<br> Cocinar en agua hirviendo con un poquito de sal durante 30 minutos.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/bollo limpio.jpg',
-        'pais' : 'Colombiana'
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/bollo limpio.jpg',
+        'pais' : 'Colombianas'
       },
       
       {
@@ -1238,8 +1272,8 @@ class RecetaSeeder {
         'ingredientes1' : '1 kilo yuca<br> al gusto sal<br> 500 gr carne molida<br> 2 cebollas grandes picada<br> 1 zanahoria rallada<br> 4 dientes ajo<br> orégano seco',
         'ingredientes2' : 'pimienta picante molida de la negra<br> 2 cdas vinagre<br> 4 cdas salsa soya<br> 1 cubo caldo de res',
         'preparacion' :'Poner a sancochar la yuca en abunda te agua con bastante sal, esperar hasta que esté semi blanda. sacar y dejar enfriar. Luego pasarla por un molino. Amasarla Para la carne sofreír la cebolla picada con la zanahoria rallada el ajo, el orégano.<br> Luego agregar la carne molida, el vinagre, la salsa soya, el cubo de caldo de res la pimienta, la sal y tapar, dejar cocinar a juego lento Destapar revisar la sazón y esperar a a que seque con esto rellenaremos las empanadas de yuca.<br> Armar las empanadas. Sofreír en abundante aceite. Y listo.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/carimañola.jpg',
-        'pais' : 'Colombiana'
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/carimañola.jpg',
+        'pais' : 'Colombianas'
       },
       
       {
@@ -1247,8 +1281,8 @@ class RecetaSeeder {
         'ingredientes1' : '1 taza de agua<br> 3 cebollas verdes, picadas<br> 2 tazas de leche<br> Sal, al gusto<br> 2 huevos<br> 2 tajadas de pan blanco<br> 2 cucharadas de cilantro fresco, picado',
         'ingredientes2' : '',
         'preparacion' :'Pon a calentar el agua en una olla o cazuela de barro a fuego medio. Agrégale la cebolla verde y déjala cocinar durante 2 minutos. Agrega la leche y la sal. Reduce la temperatura y agrega los huevos.<br> Cocina por 2 minutos o hasta que los huevos estén cocinados. Agrega los trozos de pan sobre la changua y decora con el cilantro picado.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/changua.jpg',
-        'pais' : 'Colombiana'
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/changua.jpg',
+        'pais' : 'Colombianas'
       },
       
       {
@@ -1256,8 +1290,8 @@ class RecetaSeeder {
         'ingredientes1' : 'Una taza de cuchuco de trigo<br> 14 tazas de agua<br> Una taza de arveja verde<br> 3 dientes de ajo machacados<br> Una ramita de cilantro<br> 3 tallos de cebolla larga<br> 8 papas criollas pequeñas sin pelar',
         'ingredientes2' : 'Una taza de fríjoles<br> Una taza de zanahoria picada en cuadritos<br> 4 papas sabaneras peladas y finamente picadas<br> 5 hojas de repollo troceadas<br> Una taza de habas<br> Sal<br> Pimienta',
         'preparacion' :'En una olla grande, cocine el espinazo en el agua junto con la cebolla larga, el cilantro y los ajos. Deje hervir a fuego lento durante 45 minutos o hasta que el espinazo esté tierno. <br> Agregue el cuchuco y deje hervir durante 10 o 15 minutos más. Luego, incorpore la papa sabanera, la zanahoria, las arvejas, las habas, los fríjoles y deje cocinar hasta que el cuchuco comience a espesar.<br> Posteriormente, adicione la papa criolla, el repollo y la sal. Cocine a fuego lento durante 20 minutos más revolviendo reiteradamente. En un plato hondo, sirva primero el espinazo y luego vierta la sopa.<br> Decore con cilantro finamente picado.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/cuchuco.jpg',
-        'pais' : 'Colombiana'
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/cuchuco.jpg',
+        'pais' : 'Colombianas'
       },
       
       {
@@ -1265,8 +1299,8 @@ class RecetaSeeder {
         'ingredientes1' : '5 vainas medianas de ají colorado <br> 3 cucharas de ají colorado molido<br> 2 cucharillas de pimienta entera<br> 2 cucharillas de comino entero<br> 4 dientes de ajo<br> 3 Kg. carne de cerdo',
         'ingredientes2' : '8 papas blancas peladas 1½ Lb pataska cocida 1 Lb maíz pelado no cocido sal aceite',
         'preparacion' :'Una noche antes remojar el maíz PELADO seco en bastante agua, al día siguiente darle una lavada y ponerle a cocer con sal muy poco  hasta que el maíz se revienten.<br> En un batán de piedra moler la pimienta, el comino y los ajos y separarlo. para darle un poco de sabor K’aspalo los AJIS,  pasando por el fuego de la cocina y también mole bien fino.<br> Cortar el cerdo (chancho) en trozos pequeños y lávalos, y  hacerles cocer por lo menos unas 2 horas con bastante agua y sal a gusto y agrégalo los condimentos que moliste en el batan y sal a gusto.<br> Saca el cerdo y en un sartén con aceite, freír de ambos lados todos los pedazos . Mientra tanto en otra olla  con 3 cucharadas de aceite,  hacer cocer el ají colorado durante diez minutos removiendo constantemente para que no se pegue, <br>en unos 10 minutos ya cocerá el ají y  hecha  un cucharón de caldo del chancho. A esta preparación de la nueva olla añadir los trozos de cerdo y dejar cocer a fuego lento durante 30 minutos, para que el sabor del aji entre a la carne.<br> No dejes que se seque, sigue echando el caldo con los ingredientes. Servir en un plato el mote  y luego colocar pedazos de cerdo  y rociarlo con el ají colorado, acompañando con pataska o chuño  o al final o dos papas.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/fritanga.jpg',
-        'pais' : 'Colombiana'
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/fritanga.jpg',
+        'pais' : 'Colombianas'
       },
       
       {
@@ -1274,8 +1308,8 @@ class RecetaSeeder {
         'ingredientes1' : '½ litro de agua <br> 1 cucharada de azúcar<br> 1 cucharada de aceite<br> 1 cucharadita de bicarbonato de sodio<br> ½ cucharada de maicena<br> 250 g de harina de trigo',
         'ingredientes2' : '',
         'preparacion' :'Colocar en un recipiente profundo el agua e ir añadiendo el azúcar, el aceite, el bicarbonato y la maicena. Mezclar bien con una varillas, hasta que el azúcar se disuelva Añadir la harina de trigo poco a poco e ir batiendo suavemente para que no se formen grumos; debe quedar una mezcla suave, pero no muy líquida. Encender la máquina de hacer obleas y aceitarla para que no se pegue la mezcla, dejarla encendida unos 5 minutos para que se caliente bien. Colocar en la plancha una cucharada de la mezcla y bajar la tapa para que se distribuya en toda la superficie.<br> Dejar que se cocine por 50 segundos a 1 minuto; levantar la tapa y despegar; repetir la operación hasta que se acabe la mezcla.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/obleas.jpg',
-        'pais' : 'Colombiana'
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/obleas.jpg',
+        'pais' : 'Colombianas'
       },
       
       {
@@ -1283,8 +1317,8 @@ class RecetaSeeder {
         'ingredientes1' : '2 tazas de almidón o harina de yuca<br> 2 cucharadas de harina de maíz<br> Sal (una cucharadita)<br> Polvo para hornear (una cucharadita)<br> 2 cucharadas de azúcar<br> 200 gr de queso rallado',
         'ingredientes2' : '½ taza (50 gr) de queso feta rallado<br> 3 cucharadas de mantequilla<br> 1 huevo',
         'preparacion' :'Precalienta el horno (425ºF - 220ºC). Agrega (procesador de alimentos) el almidón de yuca, la harina de maíz, polvo para hornear, azúcar, y sal. Procede a mezclar la mantequilla, el huevo, el queso fresco, y el queso feta.<br> Luego agrega la leche (no toda de inmediato, poco a poco) hasta que la masa quede suave. Ahora vas a hacer con la masa círculos, del tamaño que quieras y las vas a ubicar en un molde sobre papel mantequilla .<br> Lleva los pandebonos al horno y déjalos cocinar durante 25 minutos. Revisa continuamente para que no se vayan a quemar. La clave es que tengan un color dorado intenso.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/Pan de bono.jpg',
-        'pais' : 'Colombiana'
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/Pan de bono.jpg',
+        'pais' : 'Colombianas'
       },
       
       {
@@ -1292,8 +1326,8 @@ class RecetaSeeder {
         'ingredientes1' : '50 ml de leche<br> 50 ml de aceite de maíz<br> 25 ml de agua<br> 2 huevos<br> 100 gramos de almidón de yuca<br> 100 gramos de queso semiduro',
         'ingredientes2' : '',
         'preparacion' :'Para empezar a preparar tus ricos pancitos de yuca y queso, calienta en una olla el agua con el aceite y la leche hasta que empiece a hacer burbujas. Vuelca de una vez los líquidos calientes del punto anterior sobre la fécula o almidón.<br> Con ayuda de una cuchara de madera, integra bien los ingredientes. Es una masa algo dura, por lo que no te asombres si debes ejercer mucha fuerza para lograrlo. Si prefieres, puedes amasarla con las manos o guantes, con cuidado de no quemarte y teniendo en cuenta que es algo pegajosa.<br> Una vez que hayas integrado bien los ingredientes del pan y haya bajado la temperatura, agrega los huevos. Vuelve a integrar. Por último, integra el queso rallado o cortado en cubos pequeños.<br> Arma los pancitos con ayuda de tus manos mojadas con aceite. Esto ayudará a que no se te pegue la preparación en las manos. Dispón los pancitos de yuca en una asadera para horno con aceite en aerosol.<br> Colócalos separados por unos 3 dedos entre sí para que al estirarse durante el horneado no se peguen y el calor se distribuya correctamente.<br> Cocínalos en el horno fuerte (200 °C) por 15 minutos hasta que estén algo dorados. Cuando estén dorados, sácalos del horno y disfruta de tu pan de yuca.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/pan de yuca.jpg',
-        'pais' : 'Colombiana'
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/pan de yuca.jpg',
+        'pais' : 'Colombianas'
       },
       
       {
@@ -1301,8 +1335,8 @@ class RecetaSeeder {
         'ingredientes1' : '1 kg de pescado<br> 300 gr de yuca<br> 200 gr de ñame<br> 2 plátanos verdes<br> 2 cebollas<br> 2 chiles dulces<br> 1 chile habanero 1 cabeza de ajo',
         'ingredientes2' : '1 raíz de jenjibre<br> Hojas de laurel<br> 1 chile picante entero<br> 1 cucharadita de curry<br> Sal y pimienta al gusto',
         'preparacion' :'Pele y corte en trozos el ñame, la yuca y los plátanos verdes. Reserve. En una olla, ponga a cocinar el pescado en agua con cebolla, chile dulce y el ajo. <br>Agregue sal, jengibre y laurel. Luego de hervir por unos minutos, retire el pescado y cuele el caldo. En una olla ponga a hervir la leche de coco con el caldo de pescado y agregue la yuca, el ñame y el plátano.<br> Deje ablandar un poco y luego incorpore el pescado y el chile habanero. Rectifique el sabor y cocine unos 10 minutos. Sirva y disfrute.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/rondon.jpg',
-        'pais' : 'Colombiana'
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/rondon.jpg',
+        'pais' : 'Colombianas'
       },
       
       {
@@ -1310,8 +1344,8 @@ class RecetaSeeder {
         'ingredientes1' : '1 libra de carne de res<br> 8 tazas de agua<br> 1 cebolla grande picada <br> 2 dientes de ajo triturados<br> 1 pimiento verde picado <br> 4 ajíes dulces picados <br> 2 tomates picados<br> 2 hojas de cilantro',
         'ingredientes2' : '½ libra de papas <br> ½ libra de batata blanca<br> 1 plátano verde picado<br> 1 plátano maduro picado  <br> ½ libra de guineos verdes picados<br> 2 mazorcas de maíz picadas',
         'preparacion' :'Combina todos los ingredientes para el caldo en una olla. Tapa y cocina a fuego alto hasta que hierva. Luego baja a fuego mediano-bajo y cocina hasta que la carne esté tierna, más o menos unos 45 minutos.<br> Añade todos los vegetales cortados en la olla con la carne, teniendo cuidado de no quemarte. Cocina a fuego mediano-alto hasta que los vegetales estén cocidos. Prueba el sancocho y ajusta la sal, si gustas. <br>El sancocho estará listo cuando todos los vegetales estén tiernos y el caldo espese un poco. Sirve con una lasca de aguacate. Lo puedes acompañar con arroz o pan.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/sancocho.jpg',
-        'pais' : 'Colombiana'
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/sancocho.jpg',
+        'pais' : 'Colombianas'
       },
       
       {
@@ -1319,8 +1353,8 @@ class RecetaSeeder {
         'ingredientes1' : '8 muslos de pollo sin la piel<br> 1 cucharada de aceite vegetal<br> ½ taza de cebolla picada<br> ½ de taza de pimientón rojo picado<br> 1 diente de ajo picado<br> 2 tazas de tomate picado<br> 1 cucharada de Sazuón con azafran',
         'ingredientes2' : '½ de cucharadita de sal<br> ½ cucharadita de pimienta<br> 8 papas pequeuñas amarillas peladas <br> 3 tazas de caldo de pollo',
         'preparacion' :'En una olla grande, caliente el aceite vegetal a fuego medio. Añadir la cebolla y el pimiento rojo y saltee hasta que las cebollas estén transparentes, unos 3 minutos. A continuaciuón, auñadir los tomates, el ajo, la sal y la pimienta molida y sofría por 5 minutos muás. Agregue el pollo, el caldo de pollo, la sazuón y comino en polvo.<br> Tapar y cocinar durante 25 minutos, revolviendo ocasionalmente. Añadir las papas y el cilantro y cocine por 30 minutos muás o hasta que las papas estén tiernas. Sirva sobre arroz blanco.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/sudado de pollo.jpg',
-        'pais' : 'Colombiana'
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/sudado de pollo.jpg',
+        'pais' : 'Colombianas'
       },
       
       {
@@ -1328,17 +1362,17 @@ class RecetaSeeder {
         'ingredientes1' : 'Aceite vegetal para freír<br> 5 papas medianas<br> ½ de cucharadita de sal<br> Relleno de Carne<br> 1 cucharada de aceite de oliva<br> 1 taza de tomate picado<br> ⅓ taza de cebolla picada',
         'ingredientes2' : '1 diente de ajo picado<br> ½ cucharadita de comino molido<br> ½ cucharadita de Sazón con azafran<br> ¼ de cucharadita de sal<br> ¼ cucharadita de pimienta molida<br> ½ libra de carne molida',
         'preparacion' :'Pelar las papas y cortarlas en trozos, pongalas en una olla mediana y cubrir con agua y agregar un ½ de cucharadita de sal. Lleve las papas a hervir a fuego medio-alto, y luego baje el fuego a medio y cocine hasta que las papas esten blandas unos 20 minutos.<br> Escurrir las papa y machcarla como para purué con un tenedor o machacador y reservar. Preparar el relleno, en una sartén grande, caliente 1 cucharada de aceite de oliva a fuego medio y agregue la cebolla, el tomate, la cebolla large, el ajo, el comino, el azafran, la pimienta y la sal. <br>Cocine por 5 minutos o hasta que la cebolla esté transparente, añadir la carne y cocine revolviendo ocasionalmente unos 10 -15 minutos. <br>Deje enfriar. Para hacer la colada: En un tazón mezcle todos los ingredientes y batir hasta que la mezcla quede suave y reservar.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/papas rellenas.jpg',
-        'pais' : 'Colombiana'
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/papas rellenas.jpg',
+        'pais' : 'Colombianas'
       },
       
       {
         'nombre' : 'Mote de queso',
         'ingredientes1' : '1 kilogramo de Ñame<br> 750 gramos de Queso salado duro<br> 80 mililitros de Suero<br> 2 ramas de Cebolla larga<br> 1 unidad de Cebolla cabezona',
         'ingredientes2' : '5 dientes de Ajo<br> 1 unidad de Limón<br> 60 mililitros de Aceite<br> 1 pizca de Sal<br> 1 pizca de Pimienta',
-        'preparacion' :'En una olla con abundante agua, cocinar el ñame pelado y cortado en trozos con una rama de cebolla larga, durante 45 minutos.<br> Aparte, en una sartén con aceite sofreír las cebollas cortadas finamente y el ajo macerado, hasta que esté blando, salpimentar. Agregar el sofrito a la sopa dejar cocinar durante 30 minutos más. <br>Después añadir el queso cortado en cubos, cocinar hasta que esté un poco blando y finalmente rectificar sabor con unas gotas de limón, el suero costeño y si es necesario una pizca de sal.<br> Sirve el mote de queso y disfruta de esta receta colombiana acompañando con un poco de arroz blanco. Si te ha gustado esta receta, tienes algún comentario o inquietud, danos tu opinión.',
-        'img' : '../../../../assets/imagenes/Comida-Colombiana/mote de queso.jpg',
-        'pais' : 'Colombiana'
+        'preparacion' :'En una olla con abundante agua, cocinar el ñame pelado y cortado en trozos con una rama de cebolla larga, durante 45 minutos.<br> Aparte, en una sartén con aceite sofreír las cebollas cortadas finamente y el ajo macerado, hasta que esté blando, salpimentar. Agregar el sofrito a la sopa dejar cocinar durante 30 minutos más. <br>Después añadir el queso cortado en cubos, cocinar hasta que esté un poco blando y finalmente rectificar sabor con unas gotas de limón, el suero costeño y si es necesario una pizca de sal.<br> Sirve el mote de queso y disfruta de esta receta Colombianas acompañando con un poco de arroz blanco. Si te ha gustado esta receta, tienes algún comentario o inquietud, danos tu opinión.',
+        'img' : '../../../../assets/imagenes/Comida-Colombianas/mote de queso.jpg',
+        'pais' : 'Colombianas'
       },
       {
         'nombre' : 'Bacalao a la vizcaina',
