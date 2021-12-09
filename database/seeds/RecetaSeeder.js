@@ -1075,7 +1075,7 @@ class RecetaSeeder {
         'ingredientes1' : '400 gramos de fideos udon frescos<br> 1 cucharada de aceite<br> 2 dientes de ajo picados<br> 1 cucharada de jengibre picado<br> 2 cebolletas cortar y separar los tallos verdes de los blancos<br> 150 gramos de brócoli cortado<br> 150 gramos de setas shiitake cortadas<br> Medio pimiento rojo cortado',
         'ingredientes2' : '60 ml de salsa de soja<br> 2 cucharadas de vinagre de arroz<br> 2 cucharadas de azúcar moreno<br> 2 cucharadas de agua y más para cocinar al vapor<br> 1 cucharada de maicena<br> Semillas de sésamo para decorar',
         'preparacion' :'Mojar los fideos udon en una olla con agua caliente durante unos minutos hasta que se separen. Escurrir y reservar.<br> En un bol combinar la salsa de soja, vinagre, azúcar, 2 cucharadas de agua y maicena. Reservar.<br> Calentar un wok o sartén grande a fuego medio-alto. Añadir el aceite, ajo, jengibre y tallos blancos de las cebolletas. Pochar, removiendo constantemente.<br> Añadir el brócoli, shiitakes, pimiento y unas 3 cucharadas de agua. Saltear, removiendo constantemente, hasta que el agua se haya evaporado. Probar las verduras para ver si están cocidas al punto, si no, añadir un poco más de agua y seguir salteando.<br> Añadir los fideos udon, mezclar la salsa en el bol y verterla en la sartén. Cocinar un par de minutos, removiendo, hasta que la salsa se espese. Servir decorado con los tallos verdes de las cebolletas y semillas de sésamo.',
-        'img' : '../../../../assets/imagenes/Comida-Japonesa/tempura camarones.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Japonesa/udon.jpg',
         'pais' : 'Japonesas'
       },
       
