@@ -963,7 +963,7 @@ class RecetaSeeder {
         'ingredientes1' : '200 g de chocolate amargo <br> 5 huevos, separados y a temperatura ambiente<br> 1 pizca de sal<br> 180 g de azúcar estándar<br> 200 g de almendras molidas<br> 25 g de cocoa en polvo<br>',
        'ingredientes2' : '1 cucharadita de polvo para hornear<br> Azúcar glass',
         'preparacion' :'Derrite el chocolate en el microondas o a baño María. Reserva. Precalienta el horno a 170 °C. Forra con papel para hornear el fondo de un molde desmontable de 22 centímetros.<br> Bate la mantequilla con el azúcar estándar en un tazón, hasta que se esponje. Agrega las yemas de huevo, una por una, batiendo bien después de cada adición. Agrega las almendras y envuelve con cuidado en el batido de mantequilla. Incorpora el chocolate, revolviendo muy bien.<br> Bata las claras de huevo con la sal, hasta alcanzar el punto de turrón. Cierne la cocoa junto con el polvo para hornear; vierte dentro de la masa y revuelve con cuidado. Por último, envuelve las claras batidas.<br> Vierte la masa dentro del molde y distribuye uniformemente. Hornea en el horno precalentado entre 50 y 55 minutos, hasta que el pastel pase la prueba del palillo. <br>Después de los primeros 30 minutos de cocción, revisa el pastel y si la superficie se ve seca, tapa con papel aluminio mientras termina de cocerse. Una vez cocido el pastel, apaga el horno y deja el pastel adentro con la puerta abierta para que se entibie. <br>Coloca el pastel tibio sobre una rejilla enfriadora y deja que se enfríe completamente. Ya frío, vierte sobre un plato y retira el papel con cuidado. Voltea de nuevo sobre otro plato y espolvorea con azúcar glass.',
-        'img' : '../../../../assets/imagenes/Comida-Italiano/torta caprese.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Italiana/torta caprese.jpg',
         'pais' : 'Italianas'
       },
       
@@ -1092,7 +1092,7 @@ class RecetaSeeder {
         'ingredientes1' : '250 gr. de queso crema<br> 50 gr. de mantequilla <br> 100 ml. de leche entera<br> 8 yemas de huevo<br> Una pizca de sal<br> El zumo de medio limón<br> 70 gr. de harina <br> 50 gr. de Maicena',
        'ingredientes2' : '8 claras de huevo<br> 150 gr. de azúcar<br> ¼ de cucharadita de crémor tártaro<br> Azúcar glass para decorar',
         'preparacion' :'Batimos el queso crema, la mantequilla y la leche con el batidor plano de la Kitchen Aid durante unos 5 minutos hasta que se integre bien.<br> Añadimos las yemas y seguimos batiendo hasta integrar, por último añadimos la pizca de sal y el zumo de limón. Y seguimos batiendo bien unos minutos más.<br> Tamizamos la harina, la Maicena y añadimos. Seguimos batiendo con el batidor plano de la Kitchen Aid. Volcamos la mezcla en un bol amplio y reservamos.<br> Si no tenemos un bol de repuesto lavamos el bol de la Kitchen  o nuestro robot para montar las claras. Recuerda que para montar las claras el bol que utilicemos tiene que estar completamente limpio<br> A estas alturas vamos preparando el molde y encendemos el horno, introduciendo una bandeja con agua para que se vaya calentando para el posterior baño María. Encenderemos a 160 grados.<br> En cuanto al molde yo he usado uno de 20 cm. de diámetro desmontable pero también puedes utilizar uno de 20 x 7,5 cm. En la base del ponemos papel vegetal, y después cortamos otra tira de papel vegetal y pegamos con un poco de mantequilla a los laterales del molde, <br>dejando que sobresalga el papel por el borde del molde, puesto que luego sube bastante la tarta. Además forramos la base del molde y parte de los laterales con papel de aluminio para evitar que entre agua dentro del molde durante el horneado al baño maría.<br> Continuamos batiendo con el batidor de globo las claras hasta que empiecen a espumar, en este punto añadimos el crémor tártaro y seguimos batiendo. <br>Una vez que empiecen las claras a blanquear añadimos poco a poco el azúcar hasta que las claras empiecen a formar picos. Aunque debemos conseguir un merengue firme, no debemos pasarnos, porque si no nos costaría más integrar después.<br> Una vez terminadas de montar las claras las vamos añadiendo poco a poco a la mezcla anterior que teníamos reservada hasta integrar todo.',
-        'img' : '../../../../assets/imagenes/Comida-Española/pastel japones.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Japonesa/pastel japones.jpg',
         'pais' : 'Japonesas'
       },
       {
@@ -1237,7 +1237,7 @@ class RecetaSeeder {
         'ingredientes1' : '8 tazas de agua<br> 4 pechugas medianas de pollo<br> 1 taza de guascas secas <br> 2 lbs de papa criolla<br> 2 lbs de papa sabanera <br> 1 cebolla mediana picada<br>',
         'ingredientes2' : '4 mazorcas grandes de maíz<br> 1 cubo de caldo de gallina<br> 1/2 taza de arvejas o chícharos verdes<br> Sal al gusto',
         'preparacion' :'En una olla grande agrega el agua, el pollo y la mitad de las guascas. Déjalo cocinar por aproximadamente 40 minutos. Cuando ya el pollo este cocido lo sacas de la olla y lo colocas en un plato aparte; córtalo en trocitos y cúbrelo con papel aluminio para mantenerlo tibio. <br> No tires el agua. Luego en la misma agua en que cocinaste el pollo debes agregar las dos clases de papa, la cebolla y el ajo. Deja cocinar por aproximadamente 2 horas para que la papa criolla se disuelva completamente.<br> Agrega el pollo cortado en trocitos, las mazorcas, el caldo de gallina, las arvejas verdes (chícharos) y la sal a tu gusto. Mezcla con cuidado todos los ingredientes y déjalos cocinar por una hora más a fuego medio bajo. Agrega la mitad restante de las guascas y cocina por 5 minutos más.',
-        'img' : '../../../../assets/imagenes/Comida-Colombianas/Ajiaco.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/Ajiaco.jpg',
         'pais' : 'Colombianas'
       },
       {
@@ -1245,7 +1245,7 @@ class RecetaSeeder {
         'ingredientes1' : '175 gr de harina de maíz precocida blanca <br> 270 ml de agua<br> 1/2 cucharada sopera de sal',
         'ingredientes2' : '',
         'preparacion' :'En un bol añade el agua y diluye la sal. Echa la harina de maíz precocida y mezcla muy bien hasta que se integren todos los ingredientes. Amasa durante unos minutos hasta obtener una mezcla compacta.<br> Toma porciones de masa de unos 100 gr y haz primero una bola y luego aplástala ligeramente para que quede un panecillo de 1,5 cm de grosor, aproximadamente.<br> Pon a calentar una sartén donde quepan bien las arepas o una plancha y engrásala con un poquito de aceite de oliva o de girasol. Cuando la sartén esté caliente, coloca las arepas y cocínalas, aproximadamente, durante 5 minutos por cada lado a fuego medio – alto. <br> Deben dorarse por fuera y cocinarse por dentro, puedes comprobar cómo está abriéndola por la mitad para cerciorarte que la arepa está bien cocida. Y ya tienes unas deliciosas arepas caseras listas para rellenar con tus ingredientes favoritos.',
-        'img' : '../../../../assets/imagenes/Comida-Colombianas/arepas.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/arepas.jpg',
         'pais' : 'Colombianas'
       },
       
@@ -1254,7 +1254,7 @@ class RecetaSeeder {
         'ingredientes1' : '1 lata de agua de coco<br> 1/2 cucharadita de sal<br> 1 taza de arroz de grano mediano<br> 2/3 taza de leche evaporada <br> Ralladura de limón verde',
         'ingredientes2' : '',
         'preparacion' :'Haz hervir el agua de coco en una cacerola mediana a fuego medio. Agrega la sal y el arroz. Reduce el fuego a medio-bajo; pon la tapa. <br> Cocina esto, revolviéndolo de vez en cuando, de 12 a 15 minutos hasta que el agua esté a punto de ser absorbida por completo. Agrega la leche evaporada. Pon la tapa y cocina el conjunto, revolviéndolo de vez en cuando, de 10 a 15 minutos más o hasta que el arroz esté tierno. <br> Puedes agregar más agua en caso de que sea necesaria para conseguir que el arroz tenga la textura necesaria. Retira la cacerola del fuego. Incorpora, al gusto, la ralladura de limón verde, de así desearlo.',
-        'img' : '../../../../assets/imagenes/Comida-Colombianas/arroz con coco.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/arroz con coco.jpg',
         'pais' : 'Colombianas'
       },
       
@@ -1263,7 +1263,7 @@ class RecetaSeeder {
         'ingredientes1' : '1 ½ kg de maíz pilado<br>Sal Hojas de mazorca grandes<br> Cabuya',
         'ingredientes2' : '',
         'preparacion' :'Poner a remojar el maíz desde víspera y limpiarlo de impurezas. Botar el agua y cocinar el maíz en agua fresca durante 30 minutos, dejar enfriar.<br> Escurrir el agua, moler el maíz y amasarlo con un poco de sal hasta obtener una pasta suave. Lavar las hojas de mazorca y poner 3 cucharadas de masa en cada una, cubrirla con otra hoja y envolver bien, doblar los extremos y amarrar.<br> Cocinar en agua hirviendo con un poquito de sal durante 30 minutos.',
-        'img' : '../../../../assets/imagenes/Comida-Colombianas/bollo limpio.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/bollo limpio.jpg',
         'pais' : 'Colombianas'
       },
       
@@ -1272,7 +1272,7 @@ class RecetaSeeder {
         'ingredientes1' : '1 kilo yuca<br> al gusto sal<br> 500 gr carne molida<br> 2 cebollas grandes picada<br> 1 zanahoria rallada<br> 4 dientes ajo<br> orégano seco',
         'ingredientes2' : 'pimienta picante molida de la negra<br> 2 cdas vinagre<br> 4 cdas salsa soya<br> 1 cubo caldo de res',
         'preparacion' :'Poner a sancochar la yuca en abunda te agua con bastante sal, esperar hasta que esté semi blanda. sacar y dejar enfriar. Luego pasarla por un molino. Amasarla Para la carne sofreír la cebolla picada con la zanahoria rallada el ajo, el orégano.<br> Luego agregar la carne molida, el vinagre, la salsa soya, el cubo de caldo de res la pimienta, la sal y tapar, dejar cocinar a juego lento Destapar revisar la sazón y esperar a a que seque con esto rellenaremos las empanadas de yuca.<br> Armar las empanadas. Sofreír en abundante aceite. Y listo.',
-        'img' : '../../../../assets/imagenes/Comida-Colombianas/carimañola.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/carimañola.jpg',
         'pais' : 'Colombianas'
       },
       
@@ -1281,7 +1281,7 @@ class RecetaSeeder {
         'ingredientes1' : '1 taza de agua<br> 3 cebollas verdes, picadas<br> 2 tazas de leche<br> Sal, al gusto<br> 2 huevos<br> 2 tajadas de pan blanco<br> 2 cucharadas de cilantro fresco, picado',
         'ingredientes2' : '',
         'preparacion' :'Pon a calentar el agua en una olla o cazuela de barro a fuego medio. Agrégale la cebolla verde y déjala cocinar durante 2 minutos. Agrega la leche y la sal. Reduce la temperatura y agrega los huevos.<br> Cocina por 2 minutos o hasta que los huevos estén cocinados. Agrega los trozos de pan sobre la changua y decora con el cilantro picado.',
-        'img' : '../../../../assets/imagenes/Comida-Colombianas/changua.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/changua.jpg',
         'pais' : 'Colombianas'
       },
       
@@ -1290,7 +1290,7 @@ class RecetaSeeder {
         'ingredientes1' : 'Una taza de cuchuco de trigo<br> 14 tazas de agua<br> Una taza de arveja verde<br> 3 dientes de ajo machacados<br> Una ramita de cilantro<br> 3 tallos de cebolla larga<br> 8 papas criollas pequeñas sin pelar',
         'ingredientes2' : 'Una taza de fríjoles<br> Una taza de zanahoria picada en cuadritos<br> 4 papas sabaneras peladas y finamente picadas<br> 5 hojas de repollo troceadas<br> Una taza de habas<br> Sal<br> Pimienta',
         'preparacion' :'En una olla grande, cocine el espinazo en el agua junto con la cebolla larga, el cilantro y los ajos. Deje hervir a fuego lento durante 45 minutos o hasta que el espinazo esté tierno. <br> Agregue el cuchuco y deje hervir durante 10 o 15 minutos más. Luego, incorpore la papa sabanera, la zanahoria, las arvejas, las habas, los fríjoles y deje cocinar hasta que el cuchuco comience a espesar.<br> Posteriormente, adicione la papa criolla, el repollo y la sal. Cocine a fuego lento durante 20 minutos más revolviendo reiteradamente. En un plato hondo, sirva primero el espinazo y luego vierta la sopa.<br> Decore con cilantro finamente picado.',
-        'img' : '../../../../assets/imagenes/Comida-Colombianas/cuchuco.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/cuchuco.jpg',
         'pais' : 'Colombianas'
       },
       
@@ -1299,7 +1299,7 @@ class RecetaSeeder {
         'ingredientes1' : '5 vainas medianas de ají colorado <br> 3 cucharas de ají colorado molido<br> 2 cucharillas de pimienta entera<br> 2 cucharillas de comino entero<br> 4 dientes de ajo<br> 3 Kg. carne de cerdo',
         'ingredientes2' : '8 papas blancas peladas 1½ Lb pataska cocida 1 Lb maíz pelado no cocido sal aceite',
         'preparacion' :'Una noche antes remojar el maíz PELADO seco en bastante agua, al día siguiente darle una lavada y ponerle a cocer con sal muy poco  hasta que el maíz se revienten.<br> En un batán de piedra moler la pimienta, el comino y los ajos y separarlo. para darle un poco de sabor K’aspalo los AJIS,  pasando por el fuego de la cocina y también mole bien fino.<br> Cortar el cerdo (chancho) en trozos pequeños y lávalos, y  hacerles cocer por lo menos unas 2 horas con bastante agua y sal a gusto y agrégalo los condimentos que moliste en el batan y sal a gusto.<br> Saca el cerdo y en un sartén con aceite, freír de ambos lados todos los pedazos . Mientra tanto en otra olla  con 3 cucharadas de aceite,  hacer cocer el ají colorado durante diez minutos removiendo constantemente para que no se pegue, <br>en unos 10 minutos ya cocerá el ají y  hecha  un cucharón de caldo del chancho. A esta preparación de la nueva olla añadir los trozos de cerdo y dejar cocer a fuego lento durante 30 minutos, para que el sabor del aji entre a la carne.<br> No dejes que se seque, sigue echando el caldo con los ingredientes. Servir en un plato el mote  y luego colocar pedazos de cerdo  y rociarlo con el ají colorado, acompañando con pataska o chuño  o al final o dos papas.',
-        'img' : '../../../../assets/imagenes/Comida-Colombianas/fritanga.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/fritanga.jpg',
         'pais' : 'Colombianas'
       },
       
@@ -1308,7 +1308,7 @@ class RecetaSeeder {
         'ingredientes1' : '½ litro de agua <br> 1 cucharada de azúcar<br> 1 cucharada de aceite<br> 1 cucharadita de bicarbonato de sodio<br> ½ cucharada de maicena<br> 250 g de harina de trigo',
         'ingredientes2' : '',
         'preparacion' :'Colocar en un recipiente profundo el agua e ir añadiendo el azúcar, el aceite, el bicarbonato y la maicena. Mezclar bien con una varillas, hasta que el azúcar se disuelva Añadir la harina de trigo poco a poco e ir batiendo suavemente para que no se formen grumos; debe quedar una mezcla suave, pero no muy líquida. Encender la máquina de hacer obleas y aceitarla para que no se pegue la mezcla, dejarla encendida unos 5 minutos para que se caliente bien. Colocar en la plancha una cucharada de la mezcla y bajar la tapa para que se distribuya en toda la superficie.<br> Dejar que se cocine por 50 segundos a 1 minuto; levantar la tapa y despegar; repetir la operación hasta que se acabe la mezcla.',
-        'img' : '../../../../assets/imagenes/Comida-Colombianas/obleas.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/obleas.jpg',
         'pais' : 'Colombianas'
       },
       
@@ -1317,7 +1317,7 @@ class RecetaSeeder {
         'ingredientes1' : '2 tazas de almidón o harina de yuca<br> 2 cucharadas de harina de maíz<br> Sal (una cucharadita)<br> Polvo para hornear (una cucharadita)<br> 2 cucharadas de azúcar<br> 200 gr de queso rallado',
         'ingredientes2' : '½ taza (50 gr) de queso feta rallado<br> 3 cucharadas de mantequilla<br> 1 huevo',
         'preparacion' :'Precalienta el horno (425ºF - 220ºC). Agrega (procesador de alimentos) el almidón de yuca, la harina de maíz, polvo para hornear, azúcar, y sal. Procede a mezclar la mantequilla, el huevo, el queso fresco, y el queso feta.<br> Luego agrega la leche (no toda de inmediato, poco a poco) hasta que la masa quede suave. Ahora vas a hacer con la masa círculos, del tamaño que quieras y las vas a ubicar en un molde sobre papel mantequilla .<br> Lleva los pandebonos al horno y déjalos cocinar durante 25 minutos. Revisa continuamente para que no se vayan a quemar. La clave es que tengan un color dorado intenso.',
-        'img' : '../../../../assets/imagenes/Comida-Colombianas/Pan de bono.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/Pan de bono.jpg',
         'pais' : 'Colombianas'
       },
       
@@ -1326,7 +1326,7 @@ class RecetaSeeder {
         'ingredientes1' : '50 ml de leche<br> 50 ml de aceite de maíz<br> 25 ml de agua<br> 2 huevos<br> 100 gramos de almidón de yuca<br> 100 gramos de queso semiduro',
         'ingredientes2' : '',
         'preparacion' :'Para empezar a preparar tus ricos pancitos de yuca y queso, calienta en una olla el agua con el aceite y la leche hasta que empiece a hacer burbujas. Vuelca de una vez los líquidos calientes del punto anterior sobre la fécula o almidón.<br> Con ayuda de una cuchara de madera, integra bien los ingredientes. Es una masa algo dura, por lo que no te asombres si debes ejercer mucha fuerza para lograrlo. Si prefieres, puedes amasarla con las manos o guantes, con cuidado de no quemarte y teniendo en cuenta que es algo pegajosa.<br> Una vez que hayas integrado bien los ingredientes del pan y haya bajado la temperatura, agrega los huevos. Vuelve a integrar. Por último, integra el queso rallado o cortado en cubos pequeños.<br> Arma los pancitos con ayuda de tus manos mojadas con aceite. Esto ayudará a que no se te pegue la preparación en las manos. Dispón los pancitos de yuca en una asadera para horno con aceite en aerosol.<br> Colócalos separados por unos 3 dedos entre sí para que al estirarse durante el horneado no se peguen y el calor se distribuya correctamente.<br> Cocínalos en el horno fuerte (200 °C) por 15 minutos hasta que estén algo dorados. Cuando estén dorados, sácalos del horno y disfruta de tu pan de yuca.',
-        'img' : '../../../../assets/imagenes/Comida-Colombianas/pan de yuca.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/pan de yuca.jpg',
         'pais' : 'Colombianas'
       },
       
@@ -1335,7 +1335,7 @@ class RecetaSeeder {
         'ingredientes1' : '1 kg de pescado<br> 300 gr de yuca<br> 200 gr de ñame<br> 2 plátanos verdes<br> 2 cebollas<br> 2 chiles dulces<br> 1 chile habanero 1 cabeza de ajo',
         'ingredientes2' : '1 raíz de jenjibre<br> Hojas de laurel<br> 1 chile picante entero<br> 1 cucharadita de curry<br> Sal y pimienta al gusto',
         'preparacion' :'Pele y corte en trozos el ñame, la yuca y los plátanos verdes. Reserve. En una olla, ponga a cocinar el pescado en agua con cebolla, chile dulce y el ajo. <br>Agregue sal, jengibre y laurel. Luego de hervir por unos minutos, retire el pescado y cuele el caldo. En una olla ponga a hervir la leche de coco con el caldo de pescado y agregue la yuca, el ñame y el plátano.<br> Deje ablandar un poco y luego incorpore el pescado y el chile habanero. Rectifique el sabor y cocine unos 10 minutos. Sirva y disfrute.',
-        'img' : '../../../../assets/imagenes/Comida-Colombianas/rondon.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/rondon.jpg',
         'pais' : 'Colombianas'
       },
       
@@ -1344,7 +1344,7 @@ class RecetaSeeder {
         'ingredientes1' : '1 libra de carne de res<br> 8 tazas de agua<br> 1 cebolla grande picada <br> 2 dientes de ajo triturados<br> 1 pimiento verde picado <br> 4 ajíes dulces picados <br> 2 tomates picados<br> 2 hojas de cilantro',
         'ingredientes2' : '½ libra de papas <br> ½ libra de batata blanca<br> 1 plátano verde picado<br> 1 plátano maduro picado  <br> ½ libra de guineos verdes picados<br> 2 mazorcas de maíz picadas',
         'preparacion' :'Combina todos los ingredientes para el caldo en una olla. Tapa y cocina a fuego alto hasta que hierva. Luego baja a fuego mediano-bajo y cocina hasta que la carne esté tierna, más o menos unos 45 minutos.<br> Añade todos los vegetales cortados en la olla con la carne, teniendo cuidado de no quemarte. Cocina a fuego mediano-alto hasta que los vegetales estén cocidos. Prueba el sancocho y ajusta la sal, si gustas. <br>El sancocho estará listo cuando todos los vegetales estén tiernos y el caldo espese un poco. Sirve con una lasca de aguacate. Lo puedes acompañar con arroz o pan.',
-        'img' : '../../../../assets/imagenes/Comida-Colombianas/sancocho.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/sancocho.jpg',
         'pais' : 'Colombianas'
       },
       
@@ -1353,7 +1353,7 @@ class RecetaSeeder {
         'ingredientes1' : '8 muslos de pollo sin la piel<br> 1 cucharada de aceite vegetal<br> ½ taza de cebolla picada<br> ½ de taza de pimientón rojo picado<br> 1 diente de ajo picado<br> 2 tazas de tomate picado<br> 1 cucharada de Sazuón con azafran',
         'ingredientes2' : '½ de cucharadita de sal<br> ½ cucharadita de pimienta<br> 8 papas pequeuñas amarillas peladas <br> 3 tazas de caldo de pollo',
         'preparacion' :'En una olla grande, caliente el aceite vegetal a fuego medio. Añadir la cebolla y el pimiento rojo y saltee hasta que las cebollas estén transparentes, unos 3 minutos. A continuaciuón, auñadir los tomates, el ajo, la sal y la pimienta molida y sofría por 5 minutos muás. Agregue el pollo, el caldo de pollo, la sazuón y comino en polvo.<br> Tapar y cocinar durante 25 minutos, revolviendo ocasionalmente. Añadir las papas y el cilantro y cocine por 30 minutos muás o hasta que las papas estén tiernas. Sirva sobre arroz blanco.',
-        'img' : '../../../../assets/imagenes/Comida-Colombianas/sudado de pollo.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/sudado de pollo.jpg',
         'pais' : 'Colombianas'
       },
       
@@ -1362,7 +1362,7 @@ class RecetaSeeder {
         'ingredientes1' : 'Aceite vegetal para freír<br> 5 papas medianas<br> ½ de cucharadita de sal<br> Relleno de Carne<br> 1 cucharada de aceite de oliva<br> 1 taza de tomate picado<br> ⅓ taza de cebolla picada',
         'ingredientes2' : '1 diente de ajo picado<br> ½ cucharadita de comino molido<br> ½ cucharadita de Sazón con azafran<br> ¼ de cucharadita de sal<br> ¼ cucharadita de pimienta molida<br> ½ libra de carne molida',
         'preparacion' :'Pelar las papas y cortarlas en trozos, pongalas en una olla mediana y cubrir con agua y agregar un ½ de cucharadita de sal. Lleve las papas a hervir a fuego medio-alto, y luego baje el fuego a medio y cocine hasta que las papas esten blandas unos 20 minutos.<br> Escurrir las papa y machcarla como para purué con un tenedor o machacador y reservar. Preparar el relleno, en una sartén grande, caliente 1 cucharada de aceite de oliva a fuego medio y agregue la cebolla, el tomate, la cebolla large, el ajo, el comino, el azafran, la pimienta y la sal. <br>Cocine por 5 minutos o hasta que la cebolla esté transparente, añadir la carne y cocine revolviendo ocasionalmente unos 10 -15 minutos. <br>Deje enfriar. Para hacer la colada: En un tazón mezcle todos los ingredientes y batir hasta que la mezcla quede suave y reservar.',
-        'img' : '../../../../assets/imagenes/Comida-Colombianas/papas rellenas.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/papas rellenas.jpg',
         'pais' : 'Colombianas'
       },
       
@@ -1371,7 +1371,7 @@ class RecetaSeeder {
         'ingredientes1' : '1 kilogramo de Ñame<br> 750 gramos de Queso salado duro<br> 80 mililitros de Suero<br> 2 ramas de Cebolla larga<br> 1 unidad de Cebolla cabezona',
         'ingredientes2' : '5 dientes de Ajo<br> 1 unidad de Limón<br> 60 mililitros de Aceite<br> 1 pizca de Sal<br> 1 pizca de Pimienta',
         'preparacion' :'En una olla con abundante agua, cocinar el ñame pelado y cortado en trozos con una rama de cebolla larga, durante 45 minutos.<br> Aparte, en una sartén con aceite sofreír las cebollas cortadas finamente y el ajo macerado, hasta que esté blando, salpimentar. Agregar el sofrito a la sopa dejar cocinar durante 30 minutos más. <br>Después añadir el queso cortado en cubos, cocinar hasta que esté un poco blando y finalmente rectificar sabor con unas gotas de limón, el suero costeño y si es necesario una pizca de sal.<br> Sirve el mote de queso y disfruta de esta receta Colombianas acompañando con un poco de arroz blanco. Si te ha gustado esta receta, tienes algún comentario o inquietud, danos tu opinión.',
-        'img' : '../../../../assets/imagenes/Comida-Colombianas/mote de queso.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Colombiana/mote de queso.jpg',
         'pais' : 'Colombianas'
       },
       {
@@ -1379,7 +1379,7 @@ class RecetaSeeder {
         'ingredientes1' : '1 kg Bacalao<br> 2 lt Agua tibia<br> 1/2 Cebolla, finamente picada<br> 6 Dientes de ajo, finamente picados<br> 6 jitomates, sin semillas y en cubos chicos<br> 2 tazas Puré de tomate<br> 3/4 taza Aceite de Oliva <br> 3 tazas Papas, en cubos y cocidas<br>',
         'ingredientes2' : '150 g Almendra, peladas y picadas<br> 200 g Aceitunas verdes, sin hueso y picadas<br> 1/2 taza Perejil picado<br> 1 taza Chile güero en lata<br> Sal y pimienta al gusto<br>',
         'preparacion' :'Coloca el bacalao en un refractario y cubre con agua tibia.<br> Deja reposar por 2 noches antes de la preparación. Cambia el agua cada 6 horas.<br> Escurre y desmenuza, retira las espinas. Reserva.. Calienta el aceite y acitrona la cebolla y el ajo. Agrega el jitomate y mezcla.<br> Cocina por 10 minutos o hasta que suelte sus jugos. Añade las papas y mezcla. Vierte el puré de tomate y mezcla.<br> Cocina por 10 minutos. Agrega el bacalao, las aceitunas y las almendras. <br>Tapa y cocina por 25 minutos. Mueve ocasionalmente. Agrega el perejil y mezcla.<br> Sazona y mezcla. Cocina por 10 minutos más y sirve. Acompaña con los chiles güeros y pan.',
-        'img' : '../../../../assets/imagenes/Comida-Española/bacalao a la vizcaina.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Espanola/bacalao a la vizcaina.jpg',
         'pais' : 'Españolas'
       },
       {
@@ -1387,7 +1387,7 @@ class RecetaSeeder {
         'ingredientes1' : '600 g de boquerones frescos limpios<br> Harina<br> Aceite de oliva virgen extra<br> 1 limón<br> Sal',
         'ingredientes2' : '',
         'preparacion' :'Dispón un plato con harina y reboza los boquerones por ambos lados.<br> Pon una sartén al fuego con abundante aceite de oliva para freír los boquerones.<br> Antes de añadirlos a la sartén, sacúdelos un poco para que suelten el exceso de harina y el rebozado quede más fino.<br> Fríe los boquerones en tandas durante 3-4 minutos. Al retirarlos, déjalos sobre papel absorbente para eliminar el exceso de aceite.<br> Sírvelos con unas rodajas de limón para decorar y también para poder añadirles unas gotitas de zumo al degustarlos.',
-        'img' : '../../../../assets/imagenes/Comida-Española/boquerones fritos.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Espanola/boquerones fritos.jpg',
         'pais' : 'Españolas'
       },
       {
@@ -1395,7 +1395,7 @@ class RecetaSeeder {
         'ingredientes1' : '1 kg de chipirones <br> 2 cebollas grandes<br> 2 dientes de ajo<br> 1 vasito de coñac<br> sal<br> perejil picado',
         'ingredientes2' : '',
         'preparacion' :'Tiramos de los tentáculos con cuidado, introduciendo un dedo dentro del chipirón, para poder retirar también con un solo movimiento todos los interiores.<br> Abrimos los tentáculos y tiramos de la boca para retirarla. Luego haciendo presión con dos dedos en la zona en donde se unen los interiores a los tentáculos, con la otra mano tiramos de los tentáculos para separarlos.<br> También cortamos las aletas y las picamos. Retiramos la pluma, que es la piel transparente que queda en el interior del chipirón.<br> Damos vuelta el chipirón, como si fuera un calcetín, para limpiarlo por dentro de cualquier resto de arena. <br>Si son pequeños podemos solo meter un dedo dentro para limpiarlos, sin darlos vuelta. Secamos con papel absorbente para eliminar el exceso de agua.',
-        'img' : '../../../../assets/imagenes/Comida-Española/chipirones.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Espanola/chipirones.jpg',
         'pais' : 'Españolas'
       },
       {
@@ -1403,7 +1403,7 @@ class RecetaSeeder {
         'ingredientes1' : 'Chorizo fresco<br> 1 kg<br> Sidra de manzana natural<br> 250 ml<br> Patata cocida para acompañar (opcional)',
         'ingredientes2' : '',
         'preparacion' :'Sacamos la cuerda a los chorizos y los colocamos en una cazuela con fondo. Los pinchamos con la punta de un cuchillo para que no revienten y suelten parte del jugo durante la cocción. Echamos por encima la sidra y ponemos a fuego alto. Cuando empiece a hervir dejamos a fuego vivo durante cinco minutos, lo bajamos y terminamos la cocción. <br> El tiempo dependerá de la frescura, tamaño y calidad del chorizo, pero en unos 15 ó 20 minutos estarán, <br>cuando el alcohol se haya evaporado y reducido el líquido, quedando una salsita en el fondo de la cazuela. <br> Servimos inmediatamente.',
-        'img' : '../../../../assets/imagenes/Comida-Española/chorizo a la sidra.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Espanola/chorizo a la sidra.jpg',
         'pais' : 'Españolas'
       },
       {
@@ -1411,7 +1411,7 @@ class RecetaSeeder {
         'ingredientes1' : '1 taza de gallina<br> 1 taza de tocino<br> 1 taza de jamón serrano, en punta<br> 2 tazas de tuétano<br> 1 1/2 tazas de garbanzo, remojados y limpios<br> 2 zanahorias<br> 1 nabo<br> 4 papas',
        'ingredientes2' : 'Sal al gusto<br> 1/2 tazas de fideo, cabellín<br> 1 taza de col<br> 1/2 tazas de chorizo<br> 1/2 tazas de morcilla de arroz',
         'preparacion' :'En una olla con agua cocina las carnes, la punta de jamón y los huesos; cuando empiece a hervir agrega los garbanzos;<br> al segundo hervor, agrega la zanahoria, el nabo y cocina por 1 hora. Añade la papa y cocina por aproximadamente 1 horas más o hasta que todos los ingredientes estén suaves. <br>Sazona con sal. Cuela y con el mismo, caldo cocina los fideos. Reserva. En una ollita hierve la col. Escurre y reserva.<br> En una sartén cocina el chorizo y la morcilla. Sirve el caldo con los fideos, los garbanzos, la verdura y las carnes.',
-        'img' : '../../../../assets/imagenes/Comida-Española/cocido madrileño.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Espanola/cocido madrileño.jpg',
         'pais' : 'Españolas'
       },
       {
@@ -1419,7 +1419,7 @@ class RecetaSeeder {
         'ingredientes1' : '2 cucharadas de leche de vaca <br>sal<br> 1/2 cucharaditas de pimienta<br> 1/2 cucharaditas de cebollita verde, picada <br>2 yemas de huevo, batidas<br> 3 cucharadas de harina',
        'ingredientes2' : '4 tazas de puré de papa<br>1 huevo, batido<br> pan molido <br>aceite, para freír',
         'preparacion' :'En un bowl ponga el puré de papa, la leche, sal, pimienta, cebollita verde picada, yemas de huevo batidas y harina. <br>Mezcle bien todo y refrigere. Con una cuchara para hacer bolas de helado, forme bolas de la masa de papa y pase por el huevo batido y luego por el pan molido.<br> Fría cada croqueta en un sartén lleno con aceite bien caliente hasta que se dore por todos los lados',
-        'img' : '../../../../assets/imagenes/Comida-Española/croquetas.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Espanola/croquetas.jpg',
         'pais' : 'Españolas'
       },
       {
@@ -1427,7 +1427,7 @@ class RecetaSeeder {
         'ingredientes1' : '4 berenjenas grandes<br> 8 pimientos rojos<br> 2 dientes de ajo picados<br> 1 dl de aceite de oliva<br> Sal.',
        'ingredientes2' : '',
         'preparacion' :'Asar las berenjenas y los pimientos a la brasa o al horno. Pelar y quitar la parte del tallo de las berenjenas. <br> Pelar y retirar las semillas a los pimientos. Cortar las verduras en tiras.<br> Espolvorear con ajo picado fino y aderezar con aceite y sal antes de servir.',
-        'img' : '../../../../assets/imagenes/Comida-Española/escalivada.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Espanola/escalivada.jpg',
         'pais' : 'Españolas'
       },
       {
@@ -1435,7 +1435,7 @@ class RecetaSeeder {
         'ingredientes1' : '500 gramos de fideos<br> Medio pimiento rojo<br> Medio pimiento verde<br> 2 calamares<br> 200 gramos de gambas<br> Caldo de pescado casero<br> Azafrán o colorante',
        'ingredientes2' : '',
         'preparacion' :'Comenzamos la receta de fideuá dorando los fideos en la paella. Los ponemos a fuego medio y vamos dándoles vueltas poco a poco hasta que se vayan dorando. <br>Una vez dorados a nuestro gusto los retiramos y reservamos. En esa paella, rehogamos a fuego medio los pimientos, haciendo un buen sofrito.<br> Ponemos un poco de sal. Luego rectificamos pero con el caldo seguramente que se quede perfecto. Una vez rehogado agregamos los calamares limpios y cortados en trocitos.<br> Dejamos que se hagan unos minutos. Incorporamos los fideos, las gambas peladas y cubrimos con caldo de pescado casero (agregamos el azafrán o el colorante). <br> La cantidad será más o menos la misma en mi caso (500 ml), pero dependerá de los fideos que uséis porque necesitará más o menos.<br> Si necesita más caldo se lo podemos añadir cociendo, es más sencillo que el arroz. Cuando esté listo lo dejamos reposar unos 5 minutos a disfrutar.',
-        'img' : '../../../../assets/imagenes/Comida-Española/fideua.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Espanola/fideua.jpg',
         'pais' : 'Españolas'
       },
       
@@ -1444,7 +1444,7 @@ class RecetaSeeder {
         'ingredientes1' : '600 gr de gambas<br> 4 dientes de ajo<br> 1/2 guindilla<br> aceite<br> sal<br> perejil picado',
        'ingredientes2' : '',
         'preparacion' :'Pela las gambas en crudo. Calienta el aceite y fríe los ajos en láminas y la guindilla cortada en aros. Después agrega las gambas, sazona y deja que se hagan unos minutos dándoles vueltas en la sartén.<br> Espolvorea con perejil y sirve.',
-        'img' : '../../../../assets/imagenes/Comida-Española/gambas al ajillo.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Espanola/gambas al ajillo.jpg',
         'pais' : 'Españolas'
       },
       {
@@ -1452,7 +1452,7 @@ class RecetaSeeder {
         'ingredientes1' : '6 salchichas rebanadas 200 g de chorizo cortado en rebanadas 200 g de carne de cerdo cortada en cubos 1 pechuga de pollo sin hueso y cortada en cubos<br> 3 pescados sierra cortados en rebanadas<br> 20 camarones lavados<br> 100 g de almejas lavadas<br> 100 g de ejotes<br> 1 pimiento rebanado en juliana<br> ½ cucharadita de cebolla en polvo<br>',
        'ingredientes2' : '1 cucharadita de azafrán en polvo<br> 2 cucharadas de consomé en polvo<br> Aceite de oliva suficiente<br> 2 ½ tazas de arroz<br> 6 tazas de agua',
         'preparacion' :'Si no tienes una paellera, usa una cacerola donde quepan todos los ingredientes y pon a calentar el aceite. A fuego lento, fríe las salchichas y después agrega el pollo, la carne de cerdo, el chorizo, los ejotes y el pimiento, <br> integra perfectamente y después agrega los condimentos (el ajo en polvo, la cebolla en polvo, el consomé, sal y pimienta). Mueve hasta que la carne tome un color dorado.<br> Agrega las tazas de arroz y las de agua y cocina por dos o tres minutos más. Ahora integra el pescado, los camarones, las almejas y el azafrán.<br> Tapa con papel aluminio y deja cocinando a fuego bajo hasta que el agua se evapore y el arroz quede en su punto adecuado de cocción. ¡A disfrutar!',
-        'img' : '../../../../assets/imagenes/Comida-Española/paella.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Espanola/paella.jpg',
         'pais' : 'Españolas'
       },
       {
@@ -1460,7 +1460,7 @@ class RecetaSeeder {
         'ingredientes1' : '4 Piezas Pimiento morrón limpios<br> 2 Cucharadas Aceite de maíz<br> 2 Tazas Champiñones rebanados<br> 100 Gramos Queso tipo manchego rallado<br> 4 Cucharadas Sazonador Líquido MAGGI®',
        'ingredientes2' : '',
         'preparacion' :'Lleva los pimientos al horno de microondas por 7 minutos. Luego, mételos en una bolsa de plástico hasta que suden lo suficiente y de esta manera los puedas pelar más fácilmente. Corta la parte superior de cada pimiento.<br> Aparte, en una sartén con aceite caliente sofríe los champiñones hasta que doren junto con el Líquido Sazonador MAGGI® . Retira del fuego y mezcla con el queso tipo manchego.<br> Rellena los pimientos con esta preparación. Acomódalos en un recipiente y lleva por 30 segundos al horno de microondas.',
-        'img' : '../../../../assets/imagenes/Comida-Española/pimientos rellenos.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Espanola/pimientos rellenos.jpg',
         'pais' : 'Españolas'
       },
       {
@@ -1468,7 +1468,7 @@ class RecetaSeeder {
         'ingredientes1' : '400 g. de tomates maduros<br> 1 cebolla grande<br> 1 pimiento rojo<br> 1 pimiento verde<br> 1 calabacín<br> 1 diente de ajo<br> 50 ml. de vino blanco',
        'ingredientes2' : '',
         'preparacion' :'Lavamos las verduras. Las picamos en “brunoise” (dados pequeños), de similar tamaño. El diente de ajo, bien picadito. En una cazuela o en una sartén alta, echamos una lámina de aceite de oliva virgen extra y calentamos.<br> Cuando coja temperatura, añadimos la cebolla y sofreímos. A continuación el ajo y los pimientos. Mezclamos bien. Salamos al gusto, y añadimos un buen chorro de vino blanco. <br>En este punto, tapamos la cazuela, bajamos a fuego lento y cocinamos 30 minutos. El siguiente paso es incorporar el calabacín. Mezclamos de nuevo, tapamos y seguimos cocinando otros 20 minutos. <br>A fuego bajo, pero que se aprecie un “chup chup” continuo. Los tomates cortados en dados, los trituramos con la batidora, y los añadimos al resto de verduras.<br> Mezclamos, rectificamos de sal si es necesario y dejamos cocinar 20 minutos más (con la cazuela tapada). Pasado el tiempo, tendremos listo un delicioso pisto de verduras.',
-        'img' : '../../../../assets/imagenes/Comida-Española/pisto.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Espanola/pisto.jpg',
         'pais' : 'Españolas'
       },
       {
@@ -1476,7 +1476,7 @@ class RecetaSeeder {
         'ingredientes1' : 'Suficiente de agua<br> 1 cucharada de sal de mar, para cocer el pulpo<br> 800 gramos de pulpo, entero, limpio<br> 3 papas, con cáscara<br> 2 cucharadas de paprika<br> 2 cucharadas de aceite de oliva<br> 1 pizca de sal<br>',
        'ingredientes2' : '',
         'preparacion' :'Hierve agua en una cacerola y agrega sal. Cuando el agua esté hirviendo con una burbuja alta, toma el pulpo de la cabeza, de manera que cuelguen los tentáculos.<br> Metemos el pulpo en agua hirviendo sin soltarlo y lo sacamos 3 veces seguidas, a la tercera lo metemos por completo en el agua hasta que lo cubra. <br> Al hacer esto, el pulpo quedará terso y evitaremos que se despelleje al cocerlo. Cocina por 18 minutos. Pasado el tiempo, agrega las papas y cocina por 20 minutos más. Para comprobar que el pulpo está cocido, <br>puedes atravesar un palillo de madera en el centro del pulpo, si no opone resistencia es que está listo. Sobre una tabla corta el pulpo en trozos medianos y las papas en rodajas.<br> En un plato redondo de madera sirve una cama de papas, coloca encima el pulpo, espolvorea con la paprika, el aceite de oliva y la sal gruesa.<br>',
-        'img' : '../../../../assets/imagenes/Comida-Española/pulpo a la gallega.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Espanola/pulpo a la gallega.jpg',
         'pais' : 'Españolas'
       },
       {
@@ -1484,7 +1484,7 @@ class RecetaSeeder {
         'ingredientes1' : '5 papas, grandes peladas y en rebanadas muy delgadas<br> 1 cebolla, grande, rebanada en gajos delgaditos<br> 1/2 tazas de aceite de oliva<br> 9 huevos<br> al gusto de pimienta, al gusto',
        'ingredientes2' : '',
         'preparacion' :'Ponga a calentar el aceite de oliva en un sarten grande (del tamaño de la tortilla de patatas). Agregue las papas y la cebolla en rebanadas muy delgadas.<br> Cocine a fuego medio moviendo ocasionalmente hasta que la papa se empiece a deshacer y este cocida, unos 20 minutos.<br> Ponga sal y pimienta al gusto. En un plato hondo, mezcle los huevos con un tenedor hasta que se esponjen un poco.<br> Deje cocer con las papas hasta que se vea la orilla dorada y que el centro ya casi no se mueva. Voltee la tortilla en un sartén del mismo tamaño (ya engrasada con aceite de oliva y caliente).<br> Una vez que se termine de cocer, apague el fuego y deje enfriar ligeramente. Desmolde sobre un platón y sirvala a temperatura ambiente.',
-        'img' : '../../../../assets/imagenes/Comida-Española/tortilla de papas.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Espanola/tortilla de papas.jpg',
         'pais' : 'Españolas'
       },
       {
@@ -1492,7 +1492,7 @@ class RecetaSeeder {
         'ingredientes1' : '0,5 kg. de patatas cortadas a dados<br> 1 cabeza de ajos pelados y chafados<br> 1 cebolla grande picada<br> 2 pimientos rojos cortados a dados<br> 3 hojas de laurel<br> 14 cucharadas soperas de aceite de oliva<br> 50 gramos de guisantes',
        'ingredientes2' : '200 gramos de habas tiernas troceadas<br> 700 gramos de asaduras de cordero cortadas a dados<br> 1/2 manojo de cebolletas<br> Una ramita de hinojo fresco<br> Sal, pimienta molida y pimentón al gusto',
         'preparacion' :'Pon una sartén al fuego y añade aproximadamente la mitad del aceite. Después se deben sofreír los ajos y las cebolletas a fuego lento. Añadir las asaduras limpias, subiendo la fuerza al fuego.<br> Dejar cocinar unos 10 minutos removiendo de vez en cuando. Apartar del fuego y reservar en otro recipiente diferente. En la misma sartén utilizada al inicio añadir el resto de aceite, la cebolla y el laurel y cocinar hasta que estén bien hecha.<br> Añadir un poquito de sal y reservar junto al cordero. Después, se deberán sofreír con un poco de aceite todas las verduras (habas, guisantes y pimientos rojos).<br> Una vez que estén bien sofritos, se deberá añadir la cebolla y cordero cocinados con anterioridad y que habíamos reservado. Llega el momento de condimentar al gusto.<br> Añadir las patatas y, para terminar, el hinojo. Dejar cocinar hasta que las patatas estén blandas, removiendo con cuidado para evitar que las patatas se terminen rompiendo.',
-        'img' : '../../../../assets/imagenes/Comida-Española/frito mallorquin.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Espanola/frito mallorquin.jpg',
         'pais' : 'Españolas'
       },
       {
@@ -1500,7 +1500,7 @@ class RecetaSeeder {
         'ingredientes1' : '1 litro de leche 6 yemas de huevo<br> 200 gramos de azúcar<br> 40 gramos de fécula de maíz<br> La piel de media naranja y medio limón<br> Una ramita de canela<br> Fresas y frambuesas<br> Doce ramitas de hierbabuena',
        'ingredientes2' : '',
         'preparacion' :'Calentar la leche con la piel de naranja, limón y la canela a fuego bajo hasta que la leche esté a punto de hervir. Apartar del fuego y tapar para dejar que la leche se infusione durante 30 minutos.<br> Colocar en un recipiente las yemas de huevo, añadir la mitad del azúcar y mezclar lo justo para que se integre. Añadir la fécula de maíz hasta que la mezcla tome un color pálido.<br> Pasar la leche por un colador fino sobre los huevos y mezclar hasta que esté todo bien integrado. Vaciar en una olla y dejar a fuego medio, moviendo constantemente con una cuchara de madera o una espátula de plástico.<br> Para saber cuándo alcance el punto adecuado, se debe formar una capa densa en el dorso de la cuchara. Pasa un dedo, si las fases se mantienen separadas, está lista.<br> Quitar del fuego cuando esté en su punto. Colar nuevamente la crema, repartiéndola sobre 6 cazuelitas. Dejar enfriar antes de cubrirlas con plástico y meterlas en el refrigerador durante al menos 4 horas, aunque lo ideal es dejarlas toda la noche.<br> Cuando estén bien cuajadas y a punto de ser servidas, añadir un poco de azúcar por encima y con la ayuda de un soplete de cocina, caramelizar.<br> Servir de inmediato y adornar con media fresa, media frambuesa y dos ramitas de hierbabuena, cuidando no quemarte con el azúcar.',
-        'img' : '../../../../assets/imagenes/Comida-Española/crema de catalana.jpg',
+        'img' : '../../../../assets/imagenes/Comida-Espanola/crema de catalana.jpg',
         'pais' : 'Españolas'
       
       },
