@@ -1530,7 +1530,7 @@ class RecetaSeeder {
 'ingredientes1' : '4 huevos<br>1/4 tazas de azúcar refinada<br>1 taza de aceite vegetal<br>1 taza de aceite vegetal<br>1 cucharadita de polvo para hornear',
 'ingredientes2' : '1 cucharadita de sal de mesa<br>1 taza de azúcar refinada<br>1 taza de azúcar refinada<br>aceite de canola, extra para freir.',
 'preparacion' :'En un tazón grande mezcla los huevos con 1/4 de taza de azúcar y bate hasta que espesen y cobren un color amarillo fuerte.<br>Agrega 1 taza de aceite. Mezcla por separado 1 1/2 tazas de harina, polvo para hornear y sal.<br>Incorpora gradualmente a la mezcla de huevo y revuelve bien.<br>Coloca la masa sobre una superficie enharinada (una la 1/2 taza de harina restante). Amasa bien hasta que se sienta suave.<br>Forma 16 bolsas de masa. Extiende cada una con el rodillo hasta formar círculos de aproximadamente 12 cm de diámetro.<br>Deja reposar sobre papel encerado y sin cubrir durante 10 minutos.<br>Calienta el aceite extra a 175ºC en un sartén hondo.<br>Fríe los buñuelos cruos hasta que se doren, dando vuelta 1 vez.<br>Retire el exceso de grasa con toallas de papel.<br>Espolvorea con una mezcla de azúcar y canela. Guarda en un recipiente hermético.',
-'img' : '../../../../assets/imagenes/Comida-Mexicana/buñuelos.JPG',
+'img' : '../../../../assets/imagenes/Comida-Mexicana/buñuelos.jpg',
 'pais' : 'mexicanas'},
 
 {'nombre' : 'Chiles poblanos', 
@@ -1576,11 +1576,11 @@ class RecetaSeeder {
 'img' : '../../../../assets/imagenes/Comida-Mexicana/mole.jpg',
 'pais' : 'mexicanas'},
 
-{'nombre' : 'Posole',
+{'nombre' : 'Pozole',
 'ingredientes1' : '1 kilo de carne de cerdo, deshebrada 1 bolsa de maíz pozolero 3/4 cebollas 4 dientes de ajo 50 gramos de chile guajillo<br>1 cubo de Knorr suiza',
 'ingredientes2' : 'Oréganos.',
 'preparacion' :'Cocer en olla express la carne con 1/4 de cebolla, 1 ajo, agua hasta cubrir la carne y sal. Dejarla cocer por 45 minutos. Sacar la carne de la olla, deshebrar y apartar. En la misma agua de la carne poner a cocer el maíz y agregar un poco más de sal. Dejarlo cocer por 1 hora.<br>Servir el caldo, el maíz y la carne a una olla donde se va a terminar de cocer el pozole.<br>Licuar 3 ajos, media cebolla, chile guajillo y el cubito de knorr. Colar la preparación y servir sobre el caldo.<br>Dejar cocinar el pozole mínimo 15 minutos. Prueba y rectifica de sal si es necesario.',
-'img' : '../../../../assets/imagenes/Comida-Mexicana/posole.jpg',
+'img' : '../../../../assets/imagenes/Comida-Mexicana/pozole.jpg',
 'pais' : 'mexicanas'},
 
 {'nombre' : 'Caldo de res',
@@ -1614,7 +1614,7 @@ class RecetaSeeder {
 'ingredientes1' : '4 filetes de pescado blanco<br>1 cebolla en medias lunas<br>4 c de jitomates guajes, picados y sin cáscara<br>3 dientes de ajo<br>de taza de alcaparras',
 'ingredientes2' : 'c de aceitunas verdes, en lunas<br>c de perejil<br>1 lata de chiles güeros<br>3 tbsp. de aceite de oliva',
 'preparacion' :'En una sartén grande calienta el aceite de oliva. Fríe la cebolla y el ajo hasta que se sofrían y transparenten.<br>Añade el jitomate. Fríe por 10 minutos o hasta que el jitomate se empiece a deshacer.<br>Agrega el perejil, las alcaparras, las aceitunas y los chiles güeros. Salpimienta y reduce el fuego al mínimo.<br>Mete los pescados a la salsa. Tapa y cocina por 10 minutos.<br>Sirve con una guarnición de arroz blanco.'
-,'img' : '../../../../assets/imagenes/Comida-Mexicana/pescado a la veracuzana.JPG',
+,'img' : '../../../../assets/imagenes/Comida-Mexicana/pescado a la veracuzana.jpg',
 'pais' : 'mexicanas'},
 ]);
 }
