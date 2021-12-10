@@ -1509,7 +1509,7 @@ class RecetaSeeder {
 'ingredientes1' : '1 kg de maciza de cerdo <br> 1 taza de jugo de naranja <br> 3 chiles habaneros en rodajas<br> 1 cubo de achiote <br>3 chiles guajillo hidratados <br>1 taza de vinagre de manzana',
 'ingredientes2' : '½ taza de hojas de cilantro <br> 1 cda. de orégano <br>1 cda. de hojas de laurel seco <br>4 limones <br> 1 cebolla morada fileteada ',
 'preparacion' :'Licua el jugo, achiote, guajillo,vinagre, orégano, laurel y salpimienta.<br> Vierte la salsa sobre la carne en una olla exprés y cósela durante 30 minutos.<br> Mezcla la cebolla, chile, vinagre y orégano en un tazón.<br> Sirve la cochinita en tacos, acompaña con la cebolla de manzanos y termina con cilantro',
-'img' : '../../../../assets/imagenes/Comida-Mexicana/tacos.jpg',
+'img' : '../../../../assets/imagenes/Comida-Mexicana/tacoscochinita.jpg',
 'pais' : 'mexicanas'
 },
 
@@ -1600,7 +1600,7 @@ class RecetaSeeder {
 'ingredientes1' : 'suficiente de agua <br/> 1/4 cebollas<br>1 cabeza de ajo<br>suficiente de cilantro fresco<br>2 pechugas de pollo<br>6 jitomates<br>1/3 cebollas<br>2 dientes de ajo',
 'ingredientes2' : '220 gramos de chile chipotle<br>1 taza de caldo de pollo<br>2 cucharadas de aceite vegetal<br>2 cebollas<br>suficiente de sal y pimienta',
 'preparacion' :'En una olla hierve el agua y cocina el pollo con la cebolla, el ajo, el cilantro y un poco de sal alrededor de 50 minutos o hasta que esté cocido. Reserva el caldo y desmenuza el pollo.<br>Para el caldillo, licúa los jitomates con la cebolla, el ajo, el chile chipotle, una taza de caldo de pollo, sal y pimienta hasta obtener una mezcla tersa.<br>En un sartén profundo, cocina la cebolla fileteada con el aceite hasta que esté transparente. Agrega el caldillo, deja que suelte el hervor y cocina alrededor de 20 minutos. Añade el pollo, sazona y cocina 10 minutos más. Sirve y acompaña con tostadas y frijoles.',
-'img' : '../../../../assets/imagenes/Comida-Mexicana/barbacoa.jpg',
+'img' : '../../../../assets/imagenes/Comida-Mexicana/tinga.jpg',
 'pais' : 'mexicanas'},
 
 {'nombre' : 'Barbacoa de res en olla de presion',
